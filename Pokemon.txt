@@ -2,10 +2,16 @@
 
 01 : O que é Pokemon ?
 https://www.heypikachu.com/pokemon-o-que-e-o-que-significa
+https://pt.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jogos_eletr%C3%B4nicos)
 02 : Tipo Pedra
+https://www.heypikachu.com/tipo-pedra-rock
+https://www.smogon.com/dex/rb/types/
+https://www.smogon.com/dex/dp/types/rock/
+03 : 
 
 -------------------------------
-01
+
+01 Pokemon 
 
 Pokemon / Pocket Monsters / Monstros de Bolso :
 Franquia de mídia que pertence a The Pokemon Company
@@ -19,7 +25,60 @@ Jogos :
 1999 : Gold & Silver
 2000 : Crystal
 2002 : Ruby & Sapphire
+2004 : Fire Red & Leaf Green depois Emerald
+2006 : Diamond & Pearl
+2008 : Platinum
+2009 : Heart Gold & Soul Silver
+2010 : Black & White
+2012 : Black 2 & White 2
+2013 : X & Y
+2014 : Omega Ruby & Alpha Sapphire
+2016 : Sun & Moon
+2017 : Ultra Sun & Ultra Moon
+2018 : Let's Go Pikachu & Let's Go Eevee
+2019 : Sword & Shield 
+2021 : Briliant Diamond & Shinin Pearl 
+2022 : Legends Arceus + Scarlet & Violet
 
+Geração :
+1° Red, Green, Blue e Yellow
+2° Gold, Silver e Crystal
+3° Ruby, Sapphire, Emerald + Fire Red e Leaf Green
+4° Diamond, Pearl e Platinum + Heart Gold e Soul Silver
+5° Black, White, Black 2 e White 2
+6° X Y 
+7° Sun Moon 
+8° Sword Shield 
+9° Scarlet Violet 
 --------------------------------------------
-02
+
+02 Tipo Pedra / Rocha / Rock (Inglês)
+
+-Batalhas :
+
+--Ofensivamente 
+Forte contra : Inseto, Fogo, Voador e Gelo
+Ofensivamente Fraco contra : Lutador, Terrestre e Aço
+
+-Defensivamente :
+Resiste : Fogo, Voador, Normal e Venenoso
+Fraco : Lutador, Planta, Terrestre, Aço e Água
+
+-Exemplos de Puros por Geração :
+1 : Não tem nenhum puro
+2 : Sudowoodo
+3 : Nosepass, Regirok e Sudowoodo
+4 : Arceus-Rock, Bonsly, Cranidos, Nosepass, Rampardos, Regirock e Sudowoodo
+Etc 
+
+-Movimentos : Força / Acerto / PP / Efeito / Geração
+Ancient Power = 60/100/5/10% 2 
+Rock Blast    = 25/80/10/2-5t 3
+Rock Slide    = 75/90/10 1
+Rock Throw    = 50/65/15 1 
+Rock Tomb     = 50/80/10/100 3 
+Rollout       = 30/90/20/5t 2
+
+-Movimentos que mexe com a Arena :
+Sandstorm    = 0/0/10/5t Tempestado de Areia
 
