@@ -7,7 +7,13 @@ https://pt.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jogos_eletr%C3%B4nicos
 https://www.heypikachu.com/tipo-pedra-rock
 https://www.smogon.com/dex/rb/types/
 https://www.smogon.com/dex/dp/types/rock/
-03 : 
+03 : Tipo Inseto
+https://www.smogon.com/dex/rs/types/bug/
+
+?? : Tipos
+https://www.poke-blast-news.net/2015/10/tipos-de-pokemon.html
+?? : Melhores e Piores Tipos
+https://www.smogon.com/translations/por/best-worst-dual-typings
 
 -------------------------------
 
@@ -51,7 +57,34 @@ Geração :
 8° Sword Shield 
 9° Scarlet Violet 
 --------------------------------------------
+Exemplo de Postagem :
 
+0? Tipo ( Inglês )
+
+--Ofensivamente 
+Forte contra :
+Fraco contra :
+--Defensivamente
+Resiste contra :
+Fraco contra :
+
+-Exemplos de Puros por Geração :
+1 :
+2 :
+3 :
+4 : 
+Etc
+
+-Movimentos : Força / Acerto / PP / Efeito / Geração
+
+-Movimentos de Status :
+
+-Movimentos que mexe com a Arena :
+
+-Movimentos que mexe com o Rival :
+
+
+---------------------------
 02 Tipo Pedra / Rocha / Rock (Inglês)
 
 -Batalhas :
@@ -82,3 +115,35 @@ Rollout       = 30/90/20/5t 2
 -Movimentos que mexe com a Arena :
 Sandstorm    = 0/0/10/5t Tempestado de Areia
 
+-----------------------------------------------------
+
+03 Tipo Inseto / Bug ( Inglês )
+
+--Ofensivamente
+Forte contra : Planta, Veneno e Psíquico
+Fraco contra : Lutador, Fogo, Voador e Fantasma
+--Defensivamente
+Resiste contra : Lutador, Planta e Terrestre
+Fraco contra : Fogo, Voador, Venenoso e Pedra
+
+-Exemplos de Puros = Geração
+Cascoon =    3
+Caterpie = 1
+Illumise =   3
+Metapod =  1
+Pineco =    2
+Pinsir =   1
+Shelmet =      5
+Silcoon =    3
+Wurmple =    3
+
+-Movimentos : Força / Acerto / PP / Efeito / Geração
+Fury Cutter = 10/95//20/Poder dobra a cada acerto até 160
+Leech Life = 20/100/15/Recupera 50% do Dano Causado
+Pin Missile = 14/85/20/Acerta 2-5 vezes por turno
+
+-Movimentos de Status :
+
+-Movimentos que mexe com a Arena :
+
+-Movimentos que mexe com o Rival :
