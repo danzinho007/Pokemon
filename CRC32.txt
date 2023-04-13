@@ -1,0 +1,21 @@
+CRC32 dos Jogos Pokemon :
+
+Blue Original : D6DA8A1A
+
+Game Boy :
+Azul      : 4C62ADC7
+Blue      : CFE071C8
+Blue BR   : 2A948DAA
+Brown     : 926EE644
+Green     : 46885EC0
+Prime     : 6B42FF20
+RedPlus   : 3A10014B
+Remixed B : C334DA02
+Remixed R : 239F1B7A
+UB Shin   : DA00F5A
+Yellow    : 7D527D62
+
+Game Boy Advance :
+Pokemon 10th : DE1AD834
+Pokemon Aura : 90CEC13B
+Verde MusgoF : 63C55226

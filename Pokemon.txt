@@ -3,12 +3,19 @@
 01 : O que é Pokemon ?
 https://www.heypikachu.com/pokemon-o-que-e-o-que-significa
 https://pt.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jogos_eletr%C3%B4nicos)
-02 : Tipo Pedra
+02 : Gerações :
+https://www.smogon.com/dex/
+03 : Natures :
+https://pokemondb.net/mechanics/natures
+04 : Abilities :
+https://bulbapedia.bulbagarden.net/wiki/Ability
+03 : Tipo Inseto
+https://www.smogon.com/dex/rs/types/bug/
+04 : Tipo Pedra
 https://www.heypikachu.com/tipo-pedra-rock
 https://www.smogon.com/dex/rb/types/
 https://www.smogon.com/dex/dp/types/rock/
-03 : Tipo Inseto
-https://www.smogon.com/dex/rs/types/bug/
+
 
 ?? : Tipos
 https://www.poke-blast-news.net/2015/10/tipos-de-pokemon.html
@@ -57,6 +64,67 @@ Geração :
 8° Sword Shield 
 9° Scarlet Violet 
 --------------------------------------------
+02 Gerações :
+
+1 : Red, Green, Blue e Yellow
+Pokemon : 151 com 5 Lendários
+Atributos : HP, Atk, Def, Special e Speed 
+Tipos : 15
+Bug, Dragon, Eletric, Fightning, Fire, Flying, Ghost, Grass, Ground, Ice, Normal, Poison, Psychic, Rock, Water 
+EV = Valor de esforço
+Tipo Dominador : Psíquico ( Fraco contra Golpe Inseto )
+
+2 : Gold, Silver e Crystal
+Pokemon : 251 com 6 Lendários
+Atributos Novos : Spc Atk e Special Def
+Novos : Dark ( Imune a Psíquico ) e Steel ( Super Efetivo contra Psíquico )
+Breeding = Cruzamento entre pokemon
+Egg Moves = Movimentos aprendidos por cruzamento
+Tipos : 17
+Itens nos pokemon 
+Sexo Macho ou Fêmea
+Shiny = Pokemon Brilhante( 1/8192 )
+Sistema Dia e Noite
+Melhor time : 
+
+3 : Ruby, Sapphire, Emerald + Fire Red e Leaf Green
+Pokemon : 386 com 10 Lendários
+Abilities = Habilidades especiais
+Natures = Habilidade que aumenta e diminui atributos 
+
+4 : Diamond, Pearl e Platinum + Heart Gold e Soul Silver
+Pokemon : 493 com 14 Lendários
+Ataque Físico ou Especial
+Gráficos 3D
+
+5 : Black, White, Black 2 e White 2
+Pokemon : 649 com 13 Lendários
+Grama Alta
+Rotation Battle
+Triple Battle
+
+6 : X Y 
+Pokemon : 721 com ? Lendários
+Mega Evolução
+Novo : Fairy
+Tipos : 18
+
+7 : Sun Moon 
+Nenhum
+8 : Sword Shield 
+Nenhum
+9 : Scarlet Violet 
+Nenhum
+
+--------------------------------------
+03 Naturezas Natures ( Inglês )
+
+
+-------------------------------------
+04 Habilidades Abilities ( Inglês )
+
+
+---------------------------------------------------
 Exemplo de Postagem :
 
 0? Tipo ( Inglês )
@@ -85,7 +153,39 @@ Etc
 
 
 ---------------------------
-02 Tipo Pedra / Rocha / Rock (Inglês)
+04 Tipo Inseto / Bug ( Inglês )
+
+--Ofensivamente
+Forte contra : Planta, Veneno e Psíquico
+Fraco contra : Lutador, Fogo, Voador e Fantasma
+--Defensivamente
+Resiste contra : Lutador, Planta e Terrestre
+Fraco contra : Fogo, Voador, Venenoso e Pedra
+
+-Exemplos de Puros = Geração
+Cascoon =    3
+Caterpie = 1
+Illumise =   3
+Metapod =  1
+Pineco =    2
+Pinsir =   1
+Shelmet =      5
+Silcoon =    3
+Wurmple =    3
+
+-Movimentos : Força / Acerto / PP / Efeito / Geração
+Fury Cutter = 10/95//20/Poder dobra a cada acerto até 160
+Leech Life = 20/100/15/Recupera 50% do Dano Causado
+Pin Missile = 14/85/20/Acerta 2-5 vezes por turno
+
+-Movimentos de Status :
+
+-Movimentos que mexe com a Arena :
+
+-Movimentos que mexe com o Rival :
+
+---------------------------------------------
+05 Tipo Pedra / Rocha / Rock (Inglês)
 
 -Batalhas :
 
@@ -117,33 +217,4 @@ Sandstorm    = 0/0/10/5t Tempestado de Areia
 
 -----------------------------------------------------
 
-03 Tipo Inseto / Bug ( Inglês )
 
---Ofensivamente
-Forte contra : Planta, Veneno e Psíquico
-Fraco contra : Lutador, Fogo, Voador e Fantasma
---Defensivamente
-Resiste contra : Lutador, Planta e Terrestre
-Fraco contra : Fogo, Voador, Venenoso e Pedra
-
--Exemplos de Puros = Geração
-Cascoon =    3
-Caterpie = 1
-Illumise =   3
-Metapod =  1
-Pineco =    2
-Pinsir =   1
-Shelmet =      5
-Silcoon =    3
-Wurmple =    3
-
--Movimentos : Força / Acerto / PP / Efeito / Geração
-Fury Cutter = 10/95//20/Poder dobra a cada acerto até 160
-Leech Life = 20/100/15/Recupera 50% do Dano Causado
-Pin Missile = 14/85/20/Acerta 2-5 vezes por turno
-
--Movimentos de Status :
-
--Movimentos que mexe com a Arena :
-
--Movimentos que mexe com o Rival :
