@@ -1,0 +1,66 @@
+Eevee 
+Tipo : Normal 
+Imune : Fantasma
+Fraco contra golpe : Lutador
+HP:	     55	
+Attack:	 55	
+Defense: 50	
+Sp. Atk: 45	
+Sp. Def: 65	
+Speed:	 55	
+
+Golpes :
+
+Confuse Ray =
+Double-Edge = 
+Explosion = 
+Fire Blast = 
+Fire Punch = 
+Fire Spin =  
+Fly = 
+Giga Drain =
+Hypnosis =  
+Ice Beam = 
+Pin Missile = 
+Protect = 
+Psychic = 
+Return = 
+Sludge Bomb = 
+Surf = 
+Thunderpunch = 
+Toxic =
+Waterfall = 
+
+Velocidade : 
+
+-Abra : 
+Psychic
+Shadow Ball 
+-Caterpie = 
+-Charmander :
+Fire Blast
+-Ditto = 
+Grimer = 
+Hoothoot =
+Hoppip = 
+-Horsea = 
+Ice Beam 
+-Igglybuff = HKO  
+Magikarp = 
+-Pineco :
+Pin Missile 
+-Poliwag = 
+-Sentret = 
+Fire Punch
+-Smeargle = 
+Snubbull = 
+Spinarak = 
+-Squirtle = 
+Surf
+-Sunkern =
+Swinub =  
+Tyrogue = 
+-Vulpix =
+Return 
+-Weedle =
+Zubat =  

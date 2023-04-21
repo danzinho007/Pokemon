@@ -1,0 +1,45 @@
+Troca Pokémon
+
+Geração I
+O jogador não pode trocar Pokémon antes de obter um Pokédex do Professor Oak em Pallet Town .
+
+Geração II
+O jogador não pode trocar Pokémon antes de transportar o Mystery Egg para o Professor Elm . A Time Capsule não pode ser usada até que o jogador encontre Bill no Pokémon Center de Ecruteak City , e esperando até o dia seguinte, quando a configuração estiver concluída.
+
+rubi e safira
+O jogador não pode trocar Pokémon antes de obter um Pokédex do Professor Birch em Littleroot Town . Para trocar com outro jogo, o jogador deve ter pelo menos dois Pokémon no grupo. Negociar com FireRed, LeafGreen ou Emerald ativará automaticamente o National Pokédex.
+
+FireRed e LeafGreen
+O jogador não pode trocar Pokémon antes de obter um Pokédex do Professor Oak em Pallet Town. O jogador deve ter pelo menos dois Pokémon no grupo para negociar com outro jogo.
+
+Afastando-se da tradição da série principal, foram colocadas limitações adicionais nas negociações, que não podem ser levantadas antes de completar o jogo pelo menos uma vez:
+
+No início do jogo, as trocas só são possíveis com outras cópias de FireRed e LeafGreen. Além disso, as trocas envolvendo Ovos ou Pokémon que não estejam no Kanto Pokédex são bloqueadas. Os Pokémon que evoluem para um Pokémon da Geração II por meio de troca deixarão de evoluir.
+A obtenção do Pokédex Nacional desbloqueia as trocas de Pokémon e Ovos fora do Pokédex Regional.
+Trazer os itens-chave Ruby e Sapphire para completar a Network Machine de Celio permite negociar com as versões Ruby, Sapphire e Emerald, bem como com Pokémon Colosseum e Pokémon XD: Gale of Darkness .
+
+Pokémon Versão Esmeralda
+O jogador não pode trocar Pokémon antes de obter um Pokédex do Professor Birch em Littleroot Town . Para trocar com outro jogo, o jogador deve ter pelo menos dois Pokémon no grupo.
+
+Restrições semelhantes às de FireRed e LeafGreen também se aplicam a esta versão:
+
+No início do jogo, as trocas só são possíveis com outras cópias de Emerald, além de Ruby e Sapphire. Além disso, as trocas que envolvam Ovos ou Pokémon que não estejam no Hoenn Pokédex são bloqueadas.
+A obtenção do Pokédex Nacional desbloqueia as trocas de Pokémon fora do Pokédex Regional, bem como Ovos, e permite o comércio com FireRed e LeafGreen, bem como com Pokémon XD: Gale of Darkness .
+O Pokémon Colosseum ignora todas as restrições comerciais.
+
+Diamante, Pérola e Platina
+O jogador não pode trocar Pokémon antes de obter um Pokédex do Professor Rowan em Sandgem Town . Além disso, para trocar com outro jogo, o jogador precisa ter pelo menos dois Pokémon no grupo. É possível obter um Pokémon não regional ao trocar Pokémon de outro jogo da Geração IV sem ter adquirido o National Pokédex. No Platinum, o jogador agora pode pressionar B para selecionar o botão "CANCELAR".
+
+Meu Rancho Pokémon
+Hayley só se oferecerá para trocar com o jogador depois que ele concluir um pedido de procura e só trocará Pokémon específicos e somente se ela já tiver trazido um deles para o Rancho.
+
+HeartGold e SoulSilver
+Semelhante a Diamond, Pearl e Platinum, a negociação não pode ocorrer até que o jogador obtenha seu Pokédex do Professor Oak na casa do Sr. Pokémon . O jogador deve ter pelo menos dois Pokémon no grupo para negociar com outro jogo; mas nenhum pré-requisito adicional é necessário para negociar com os jogos Sinnoh: isso pode ser feito logo no início do jogo.
+
+Preto e branco
+O jogador não pode trocar Pokémon até obter o Trio Badge do Striaton Gym e completar a sub-quest C-Gear para Fennel . Isso evita que o jogador troque por um Pokémon que conheça Cut para acessar a seção bloqueada do Dreamyard mais cedo, já que o uso de HM não é restrito pela propriedade do Badge em Unova.
+
+O jogador também é impedido de trocar Pokémon de grupo que conhecem qualquer movimento HM via Infrared Connection, provavelmente para impedir a troca de um Pokémon cujo movimento HM é necessário em uma determinada área. Um exemplo disso seria trocar qualquer Pokémon do grupo que conheça Fly ou Surf enquanto estiver em um pedaço de terra cercado por água.
+
+Preto 2 e Branco 2
+Semelhante ao Black and White, o jogador não pode trocar Pokémon até receber o Basic Badge do Aspertia Gym e receber o C-Gear de Bianca . Não há pré-requisito para negociar com preto e branco.
