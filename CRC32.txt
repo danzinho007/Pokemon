@@ -52,10 +52,13 @@ Yellow    : 7D527D62
 Game Boy Color :
 
 Game Boy Advance :
-Pokemon 10th :    DE1AD834
-Pokemon Aura :    90CEC13B
-Pokemon Unbound : EA8D9461
-                  4B3D4957
+10th :                       DE1AD834
+Aura :                       90CEC13B
+Gold 97 Reforged (v6.0a) :   78415651
+Silver 97 Reforged (v6.0a) : 17F9BC5F
+Super Gold 97 (v7.40) :      7E7AE668
+Unbound : EA8D9461
+                  4B3D4957         
 Verde MusgoF :    63C55226
 
 ------------------
