@@ -51,11 +51,24 @@ Yellow    : 7D527D62
 
 Game Boy Color :
 
-Game Boy Advance :
-10th :                       DE1AD834
-Aura :                       90CEC13B
-Gold 97 Reforged (v6.0a) :   78415651
-Silver 97 Reforged (v6.0a) : 17F9BC5F
+---Game Boy Advance :
+-10th :                       DE1AD834
+-Aura :                       90CEC13B
+-Gold 97 Reforged (v6.0a) :   78415651
+-Hyper Emerald 807 ( Eng ) :  B7696324
+Versão 3.0 Inglês parcial
+-Hyper Emerald 807 :          D23928FC
+-Hyper Emerald 807 2z Ex :    ECD1F5EE OK
+-Hyper Emerald Ash v4.0Trad8: B51029C9 OK
+-Hyper Emerald DF :           52EE490C
+-Hyper Emerald Eng v2.1 :     C24FC84A
+-Hyper Emerald Real (Eng) :   C4F5F471
+-Hyper Emerald Shiny :        2782B3A0 OK
+Versão 3.0 com Brilhante Aumentada
+-Hyper Emerald V Rainbowv5.3: CA6DCB3D OK
+Versão 5.3 Mais difícil
+-Hyper Emerald V Rainbowv5.4: 2E5A3A  OK
+-Silver 97 Reforged (v6.0a) : 17F9BC5F
 Super Gold 97 (v7.40) :      7E7AE668
 Unbound : EA8D9461
                   4B3D4957         
@@ -74,15 +87,21 @@ Black USA,Europe:   4F6E5580 ( OK ) OK
 Black 2 USA :       25BA3AA6 ( OK )
 White USA :         EDCD5161 ( OK )
 White 2 :           B72BBA42 ( OK )
-Hackrom :
-PK Bl4ze Black v3.2 :   A80ED8D1 ( OK ) OK
-Blaze Black V3.1Clean : AC4AB5F ( OK ) OK
-Blaze Black V3.1Full :  91DE0C52 ( OK ) OK
-BLAZEv3.7.6VanillaPTBR: 31EBDDF4 ( OK ) OK
-BLAZE v3.7.7 CompPTBR : ECFEF72C ( OK ) OK
-Elite Black :           B40C31A1 ( OK ) OK
-Preto [No-Trade PTBR] : E22871F2 ( OK ) OK
-Randomized Black :      1927E333 ( OK ) OK
+---Hackrom :
+-PK Bl4ze Black v3.2 :   A80ED8D1 ( OK ) OK
+Versão editada por outro romhacker : 2021 
+bug na treinadora satomi
+-Blaze Black V3.1Clean : AC4AB5F ( OK ) OK
+-Blaze Black V3.1Full :  91DE0C52 ( OK ) OK
+Ano : 2011 
+-BLAZEv3.7.6VanillaPTBR: 31EBDDF4 ( OK ) OK
+Segue os jogos oficiais
+-BLAZE v3.7.7 CompPTBR : ECFEF72C ( OK ) OK
+Ano : 2023
+Altera Habilidades, Movimentos, Tipos e Status
+-Elite Black :           B40C31A1 ( OK ) OK
+-Preto [No-Trade PTBR] : E22871F2 ( OK ) OK
+-Randomized Black :      1927E333 ( OK ) OK
 
 Tamanho dos jogos :
 
