@@ -32,10 +32,16 @@ Black USA,Europe: 4F6E5580 ( OK ) OK
 Black 2 USA :     25BA3AA6 ( OK )
 White USA :       EDCD5161 ( OK )
 White 2 :         B72BBA42 ( OK )
-
+------------------------------------------
 Hackrom :
 
-Game Boy :
+---Game Boy---
+-Originais :
+Blue USA :        D6DA8A1A ( OK ) OK
+Greeen JAP :      E4468D14 ( OK )
+Red UE :          9F7FDD53 ( OK )
+Yellow USA :      7D527D62 ( OK )
+-Hackrom :
 Azul      : 4C62ADC7
 Blue      : CFE071C8
 Blue BR   : 2A948DAA
@@ -48,26 +54,75 @@ Remixed B : C334DA02
 Remixed R : 239F1B7A
 UB Shin   : DA00F5A
 Yellow    : 7D527D62
+Yellow 151 V2.1.gb       2000B9A4
+Yellow Kaizo Beta 0.4.gb 2750523C
 
-Game Boy Color :
+---Game Boy Color :
+-Pokemon Yellow Supreme v2.gbc B324BD63
 
 ---Game Boy Advance :
+-Originais : 
+Ruby USA 1.0 :    F0815EE7 ( OK )
+Ruby USA 1.0 :    FE507148 ( OK )
+Ruby USA 1.2 :    AEAC73E6 ( OK )
+Sapphire USA :    554DEDC4 ( OK )
+Emerald USA :     1F1C08FB ( OK )
+Fire Red USA 1.0: 16FC65EC ( OK )
+Fire Red USA 1.1: 84EE4776 ( OK ) OK
+Fire Red USA 1.1: DD88761C ( OK )
+Leaf Green USA :  D69C96CC ( OK )
+-China :
+永恆之炎zero.mobius.gba : 119EE49C
+極光石2.5A.gba :          22702CA6
+時空的戰歌 修復版.gba :    4072DFF3
+黑暗升起1.gba :            5B9B009E
+永恆之沫3.0.gba :          63BB5146
+釉色數碼寶貝版.gba :        82764AC3
+漆黑的魅影6.0無限潔白.gba : CEE5318F
+黑暗升起2.gba :            D2BBA6E7
+去吧伊布3.0.gba : D2DC2E16
+去吧 洛奇亞.gba : DA7A3ED4
+-Outras :
 -10th :                       DE1AD834
 -Aura :                       90CEC13B
 -Gold 97 Reforged (v6.0a) :   78415651
+
+---Hyper---
+-Hyper Emerald 807 [ENGLISH]: 8EFDFE71
+Versão 1.0
+Inglês
+-Hyper Emerald v2.0 : FF0B982E
+Versão 2.0
 -Hyper Emerald 807 ( Eng ) :  B7696324
 Versão 3.0 Inglês parcial
 -Hyper Emerald 807 :          D23928FC
 -Hyper Emerald 807 2z Ex :    ECD1F5EE OK
+Tradução Inglês parcial
 -Hyper Emerald Ash v4.0Trad8: B51029C9 OK
+Ash Version v4.0 Trad PT-BR com opção de Exp On / Off
+Versão mais difícil ( ? )
+-Hyper Emerald Ashlocke v4.0 [ENG] : D03A8EE3
+Ash Version
+Zera com Pokémon do Ash somente
+-Hyper EMR Ashlocke [ENG] v4.0 Shiny : 8AA8A943
+Ash Version 4.0 Shiny
 -Hyper Emerald DF :           52EE490C
+DF é Destroyer Former
 -Hyper Emerald Eng v2.1 :     C24FC84A
 -Hyper Emerald Real (Eng) :   C4F5F471
+Destroyer Former Inglês 
 -Hyper Emerald Shiny :        2782B3A0 OK
 Versão 3.0 com Brilhante Aumentada
+Destroyer Former
 -Hyper Emerald V Rainbowv5.3: CA6DCB3D OK
-Versão 5.3 Mais difícil
+Versão 5.3 com 3 dificulades
 -Hyper Emerald V Rainbowv5.4: 2E5A3A  OK
+Versão 5.3 em PT-BR algumas coisas 3 dificulades 
+Vem somente com Pokeblock no PC e Exp Share no inventário
+-Hyper Emerald V Rainbow Eraser v5.4 : 85D3C8DB
+Versão 5.4 em PT-BR algumas partes com 2 dificuldades e Vem com vários itens
+-Pokemon Hyper Emerald V - Rainbow Eraser v5.4 varinha magica : AB995E13
+
 -Silver 97 Reforged (v6.0a) : 17F9BC5F
 Super Gold 97 (v7.40) :      7E7AE668
 Unbound : EA8D9461
@@ -112,3 +167,5 @@ Menor : Oak Vs Gio V1.0 e uselless Yellow 1.0 tem 1.024 KB
 Menor : Várias com 16.384 KB 
 -NDS : Mega Delta v2.2. tem 524.288 KB 
 Menor : Origin Platinum :com 103.524 KB 
+
+https://www.youtube.com/watch?v=csRlOjA8tlU
