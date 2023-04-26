@@ -123,6 +123,21 @@ Vem somente com Pokeblock no PC e Exp Share no inventário
 Versão 5.4 em PT-BR algumas partes com 2 dificuldades e Vem com vários itens
 -Pokemon Hyper Emerald V - Rainbow Eraser v5.4 varinha magica : AB995E13
 
+---Light Platinum : 
+Obs 1 : Usar cheat pra atravessar a parede na caverna, sem conquista no retroarch até o momento 
+Cheat : CE2CCCB25D8D815D
+Obs 2 : Atual que eu digo é porque é usada no RetroArch 
+-Rom Base : Ruby USA, Europe : AEAC73E6
+-Light Platinum a1 :        644CD92E ( Atual )
+-Light Platinum Final :     549202E9 ( Atual )
+-Light Platinum Mega :      56006944
+-Light Platinum Randomizer: 3D0F4CEC
+-Light Platinum Ultimate :  81A73C06
+-Light Platinum :           411C212 ( ??? )
+-Light Platinum :           999AB8CB ( ??? )
+-Super Light Platinum BR :  5BADF4B4 ( Atual )
+-Super Light Platinum ING : 4B04B0C7 ( Atual )
+
 -Silver 97 Reforged (v6.0a) : 17F9BC5F
 Super Gold 97 (v7.40) :      7E7AE668
 Unbound : EA8D9461
