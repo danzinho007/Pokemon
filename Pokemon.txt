@@ -9,13 +9,13 @@ https://www.smogon.com/dex/
 https://pokemondb.net/mechanics/natures
 04 : Abilities :
 https://bulbapedia.bulbagarden.net/wiki/Ability
-03 : Tipo Inseto
+05 : Tipo Inseto
 https://www.smogon.com/dex/rs/types/bug/
-04 : Tipo Pedra
+06 : Tipo Pedra
 https://www.heypikachu.com/tipo-pedra-rock
 https://www.smogon.com/dex/rb/types/
 https://www.smogon.com/dex/dp/types/rock/
-
+07 : Tipo 
 
 ?? : Tipos
 https://www.poke-blast-news.net/2015/10/tipos-de-pokemon.html
@@ -118,7 +118,7 @@ Nenhum
 
 --------------------------------------
 03 Naturezas Natures ( Inglês )
-
+ na 2° geração ( Gold Silver Crystal ) veio +2 atributos ( Spc Atq e Spc Def ), Breeding ( Cruzar pokémon ), Egg Move ( Movimento aprendido por Cruzamento ) e Pokémon segurando ite
 
 -------------------------------------
 04 Habilidades Abilities ( Inglês )
@@ -153,6 +153,293 @@ Etc
 
 
 ---------------------------
+Parei em Grookey 
+https://pokemondb.net/pokedex/all
+https://www.smogon.com/translations/por/best-worst-dual-typings
+
+04 Golpe e Dano em Tipo Pokémon
+
+Número-Tipo = Dano Ofensivamente em Tipo
+Exemplo : Água = 2x em Fogo, Pedra e Terra 
+Isso quer dizer que :
+Golpe Tipo Água vai dar 2x o dano em Pokémon Tipo Fogo, Pedra ou Terra
+
+1-Aço ( Aço ) = 2x em 
+Ex Puro : Registeel
+        : Klink > Klang > Klinklang
+        : Meltan > Melmetal
+        : 
+
+2-Água ( Agu ) = 2x  em Fogo, Pedra e Terra
+               = 1x  em Vários
+               = 1/2 em Água, Dragão e Planta 
+Ex Puro : Squirtle > Wartortle > Blastoise
+        : Psyduck > Golduck 
+        : Horsea > Seadra
+        : Goldeen > Seaking
+        : Totodile > Croconaw > Feraligator 
+        : Remoraid > Octillery 
+        : Suicune
+        : Wailmer > Wailord 
+        : Feebas > Milotic
+        : Clamperl > Huntail / Gorebyss
+        : Ludivis
+        : Kyogre
+        : Buizel > Floatzel
+        : Finneon > Lumineon
+        : Phione
+        : Manaphy
+        : Oshawott > Dewott > Samurott
+        : Panpour > Simipour
+        : Alomomola
+        : Clauncher > Clawitzer
+        : Wishiwashi
+        : Pyukumuku
+        : 
+
+3-Dragão ( Dra ) = 2x  em Dragão 
+                 = 1x em Vários
+Ex Puro : Axe > Fraxure > Haxorus
+        : Druddigon
+        : Goomy > Sliggoo > Goodra
+        : 
+
+4-Elétrico ( Ele ) = 2x  em Água e Voador
+                   = 1x  em Vários
+                   = 1/2 em Dragão, Elétrico e Planta
+                   = 0x  em Terra 
+Ex Puro : Pichu > Pikachu > Raichu
+        : Elekid > Electabuzz > Electivire
+        : Mareep > Flaafy > Ampharos
+        : Raikou 
+        : Electrike > Manetric
+        : Plusle
+        : Shinx > Luxio > Luxray
+        : Pachirisu
+        : Blitzle > Zebstrika
+        : Tynamo > Eeletrik > Eelektross
+        : Xurkitree
+        : Zeraora
+        : 
+        
+5-Fada ( Fad ) = 2x em 
+Ex Puro : Clefairy > Clefable 
+        : Snubbull > Granbull 
+        : Flabébé > Floette > Florges
+        : Spritzee > Aromatisse
+        : Swirlix > Slurpuff
+        : Xerneas
+        : Comfey
+        : 
+
+6-Fantasma ( Fan ) = 2x em Fantasma
+                   = 1x em Vários
+                   = 0x em Normal e Psíquico
+Ex Puro : Misdreavus > Mismagiu
+        : Shuppet > Banette 
+        : Duskull > Dusclops > Duskoir
+        : Absol
+        : Misdreavus > Mismagius
+        : Yamask > Cofagrigus
+        : 
+
+7-Fogo ( Fog ) = 2x  em Inseto, Gelo e Pedra
+               = 1x  em Vários
+               = 1/2 em Água, Dragão, Fogo e Pedra
+Ex Puro : Ponyta > Rapidash
+        : Magby > Magmar > Magmortar
+        : Cyndaquil > Quilava > Typhosion 
+        : Entei 
+        : Pansear > Simisear
+        : Darumaka > Darmanitan
+        : Heatmor
+        : 
+
+8-Gelo ( Gel ) = 2x  em Dragão, Voador, Planta e Terra
+               = 1x  em Vários
+               = 1/2 em Água e Gelo
+Ex Puro : Snorunt > Glalie 
+        : Regice
+        : Darumaka Galar > Darmanitan
+        : Vanillite > Vanillish > Vanilluxe
+        : Cubchoo > Beartic
+        : Cryogonal
+        : 
+
+9-Inseto ( Ins ) = 2x em Planta, Psíquico e Veneno
+                 = 1x em Vários
+                 = 1/2 em Fantasma, Fogo, Lutador e Voador
+Ex Puro : Pinsir
+        : Volbeat
+        : Illumise
+        : Kricketot > Kricketune
+        : Shelmet > Accelgor
+        : 
+
+10-Lutador  ( Lut ) = 2x  em Gelo, Normal e Pedra
+                   = 1x  em Vários 
+                   = 1/2 em Inseto, Psíquico, Veneno e Voador
+                   = 0x  em Fantasma
+Ex Puro : Mankey > Primeape
+        : Machop > Machoke > Machamp
+        : Farfetchd Galar > Sirfetchd Galar
+        : Tyrogue > Hitmonlee, Hitmoncham ou Hitmontop
+        : Makuhita > Hariyama 
+        : Timburr > Gurdurr > Conkeldurr
+        : Throh
+        : Sawk
+        : Mienfoo > Mienshao
+        : Passimian
+        : 
+
+11-Normal ( Nor ) = 2x  em Ninguém
+                 = 1x em Vários
+                 = 0x em Fantasma
+Ex Puro : Meowth > Persian
+        : Happiny > Chansey > Blissey
+        : Kangaskhan
+        : Tauros
+        : Munchlax > Snorlax
+        : Sentret > Furret
+        : Aipom > Ambipom
+        : Dunsparce > Dudunsparce 
+        : Porygon > Porygon2 > Porygon-Z 
+        : Miltank
+        : Slakoth > Vigoroth > Slaking 
+        : Whismur > Loundred > Exploud 
+        : Skitty > Delcatty
+        : Spinda
+        : Zangoose
+        : Castform
+        : Kecleon
+        : Aipom > Ambipom
+        : Buneary > Lopunny
+        : Glameow > Purugly
+        : Regigigas
+        : Arceus
+        : Patrat > Watchdog
+        : Lillipup > Herdier > Stoutland
+        : Audino
+        : Minccino > Cinccino
+        : Bouffalant
+        : Yungoos > Gumshoos
+        : Type Null > Silvally
+        : Komala
+        : 
+
+12-Pedra ( Ped ) = 2x  em Inseto, Fogo, Voador e Gelo 
+                 = 1x  em Vários
+                 = 1/2 em Lutador e Terra
+Ex Puro : Bonsley > Sudowoodo
+        : Regirock
+        : Cranidos > Rampardos
+        : Roggenrola > Boldore > Gigalith
+        : Rockruff > Lycanroc
+        : 
+
+13-Planta ( Pla ) = 2x  em Água, Pedra e Terra 
+                  = 1x  em Vários 
+                  = 1/2 em Dragão, Fogo, Inseto, Planta, Veneno e Voador
+Ex Puro : Tangela > Tangrowth 
+        : Chikorita > Bayleef > Meganium
+        : Sunkern > Sunflora 
+        : Treecko > Grovyle > Sceptile 
+        : Cherubi > Cherrim
+        : Carnivine
+        : Shaymin
+        : Snivy > Servine > Serperior
+        : Pansage > Simisage
+        : Petilil > Lilligant
+        : Maractus
+        : Skiddo > Gogoat
+        : Formantis > Lurantis
+        : Bounsweet > Steenee > Tsareena
+        : 
+
+14-Psíquico ( Psi ) = 2x  em Lutador e Veneno
+                    = 1x  em Vários
+                    = 1/2 em Psíquico 
+Ex Puro : Abra > Kadabra > Alakazam
+        : Unown
+        : Wynaut > Wobbuffet
+        : Mewtwo e Mew 
+        : Spoink > Grumpig
+        : Chingling > Chimecho
+        : Deoxys
+        : Uxie
+        : Mesprit
+        : Azelf
+        : Cresselia
+        : Munna > Musharna
+        : Gothita > Gothorita > Gothitelle
+        : Solosis > Duosion > Reuniclus
+        : Elgyem > Beheeyem
+        : Espurr > Meowstic
+
+15-Sombrio ( Som )
+Ex Puro : Poochyena > Mightyena 
+        : Darkrai
+        : Purrloin > Liepard
+        : Zorua > Zoroark
+        : 
+
+16-Terra ( Ter ) = 2x  em Elétrico, Fogo, Veneno e Pedra
+                 = 1x  em Vários
+                 = 1/2 em Inseto e Planta
+                 = 0x  em Voador
+Ex Puro : Cubone > Marowak
+        : Phanpy > Donphan
+        : Groudon
+        : Hippopotas > Hippowdon
+        : Mudbray > Mudsdale
+        : 
+
+17-Veneno ( Ven ) = 2x  em Inseto e Planta
+                  = 1x  em Vários
+                  = 1/2 em Fantasma, Terra, Veneno e Pedra 
+Ex Puro : Ekans > Arbok
+        : Koffing > Weezing
+        : Gulpin > Swalot
+        : Trubbish > Garbodor
+        : 
+
+18-Voador ( Voa ) = 2x em  Inseto, Lutador e Planta
+                  = 1x em Vários
+                  = 1/2 em Elétrico e Pedra
+Ex Puro : Tornadus
+        : 
+
+Aço Águ = 2x Elétrico, Lutador, Terra
+Aço Lut = 2x em Fogo, Lutador, Terra
+Aço Ven = 4x em Terra   
+        = 2x em Fogo
+Águ Fog = 2x em Elétrico, Pedra, Terra
+Águ Ped = 4x em Planta
+          2x em Elétrico, Lutador, Terra
+Águ Psí = 2x em Elétrico, Fantasma, Inseto, Planta, Sombrio
+Ele Fan = 2x em Fantasma, Sombrio e Terra
+Ele Fog = 4x em Terra
+          2x em Água e Pedra
+Ele Psí = 2x em Fantasma, Inseto, Sombrio, Terra
+Fad Pla = 4x em Veneno
+        = 2x em Aço, Fogo, Gelo, Voador
+Fog Ven = 4x em Terra 
+          2x em Água, Pedra e Psíquico
+Fog Voa = 4x em Pedra
+        = 2x em Água e Elétrico
+Nor Pla = 2x em Fogo, Gelo, Inseto, Lutador, Veneno, Voador
+Nor Psí = 2x em Inseto e Sombrio
+Nor Ven = 2x em Psíquico e Terra
+Ped Psi = 2x em Aço, Água, Fantasma, Inseto, Planta, Sombrio, Terra
+Ped Ven = 4x em Terra
+        = 2x em Aço, Água, Psíquico
+Psí Ter = 2x em Água, Fantasma, Gelo, Inseto, Planta, Sombrio
+Som Dra = 4x em Fada
+          2x em Dragão, Gelo, Insetor e Lutador
+Som Ven = 2x em Terra
+Ter Ven = 2x em Água, Gelo, Psíquico e Terra
+
+
 04 Tipo Inseto / Bug ( Inglês )
 
 --Ofensivamente
@@ -161,6 +448,23 @@ Fraco contra : Lutador, Fogo, Voador e Fantasma
 --Defensivamente
 Resiste contra : Lutador, Planta e Terrestre
 Fraco contra : Fogo, Voador, Venenoso e Pedra
+
+--------------------------------------
+
+05 Tipo Pedra / Rocha / Rock (Inglês)
+
+-Batalhas :
+
+--Ofensivamente 
+Forte contra : Inseto, Fogo, Voador e Gelo
+Ofensivamente Fraco contra : Lutador, Terrestre e Aço
+
+-Defensivamente :
+Resiste : Fogo, Voador, Normal e Venenoso
+Fraco : Lutador, Planta, Terrestre, Aço e Água
+
+06 Tipo 
+
 
 -Exemplos de Puros = Geração
 Cascoon =    3
