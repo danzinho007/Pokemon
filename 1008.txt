@@ -1,38 +1,43 @@
 1008 Pokémon 
 https://www.youtube.com/watch?v=OGziTGl2d58
 
-1-Bulbasaur-
-2Charmander- 
-3Squirtle-
-4Caterpie
-5Weedle
-6Pidgey
-7Rattata
-8Spearow
-9Ekans
-10Pikachu
-11sandshrew
-12Nidoran f 
-13Nidoran M
-14Clefairy
-15Vulpix
-16Jigglypuff
-17Zubat
-18Oddish
-19Paras
-20Venonat
-21Diglett
-22Meowth
-23Psyduck
-24Mankey
-25Growlithe
-26Poliwag
-27Abra
-28Machop 
-29Geodude
-30Slowpoke
-31Magnemite
-32Farfetch'D
+1-Bulbasaur = Mega 
+2-Charmander = Mega 2
+3-Squirtle = Mega 
+4-Caterpie 
+5-Weedle = Mega 
+6-Pidgey = Mega 
+7-Rattata = Alola 
+8-Spearow = 
+9-Ekans = 
+10-Pikachu = Alola 
+11-sandshrew = Alola
+12-Nidoran f  = 
+13-Nidoran M = 
+14-Clefairy =
+15-Vulpix = alola
+16-Jigglypuff =
+17-Zubat = 
+18-Oddish = 
+19-Paras =
+20-Venonat =
+21-Diglett = Alola
+22-Meowth = Alola
+23-Psyduck = 
+24-Mankey =
+25-Growlithe = Hisui
+26-Poliwag
+27-Abra = Mega
+28-Machop = 
+Beelsprout 
+Tentacool
+29-Geodude
+Ponyta
+30-Slowpoke
+31Magnemite =
+32Farfetch'D =
+Doduo
+Seel 
 33Grimer
 34shellder
 35Gastly
@@ -40,113 +45,320 @@ https://www.youtube.com/watch?v=OGziTGl2d58
 37Drowzee
 38Krabby
 39Voltorb
-40Exeggcute
-41Cubone
-42Hitmonlee
-43Hitmonchan
+40Exeggcute =
+41Cubone =
+42Hitmonlee =
+43Hitmonchan =
+Lickitung 
 44Koffing
-45Rhyhorn
+45Rhyhorn =
+Chansey 
+Tangela
 46Horsea
 47Goldeen
 48Mr Mime
-49Scyther
+49-Scyther
 50-Jynx
 Electabuzz
 Pinsir
 Tauros 
 Magikarp 
 Lapras
+Ditto = 
 Eevee 
 Porygon
-Omanyte 
-Snorlax
+Omanyte = 
+Kabuto 
+Aerodactyl
+Snorlax =
 Dratini 
-Cikorita 
+
+Chikorita 
 Cyndaquil
 Totodile
+Sentret 
+Hoothoot 
+Ledbyba
+Spinarak
 Yanma
-Wooper
+194 - Wooper
 Murkrow
-Slowking
-Unown 
-Wobbuffet
-Girafarig
+199 - Slowking
+201 - Unown 
+202 - Wobbuffet
+203 - Girafarig
 Steelix 
 Snubull
-Qwifish
-Heracross
-Teddiursa
-Corsola 
-Remoraid -
-Skarmory - 
-Houndour -
-Phanpy - 
-Porygon 2
-Tyrogue - 
+211 - Qwifish
+214 - Heracross
+216 - Teddiursa
+222 - Corsola 
+223 - Remoraid -
+227 - Skarmory - 
+228 -Houndour -
+231 - Phanpy - 
+233 - Porygon 2
+236 - Tyrogue - 
 Smoochum - 
 Elekid - 
-Larvitar - 
-Treecko - 
-Torchic - 
-Mudkip - 
-Poochyena -
-Zigzagoon - 
-Wurmple - 
-Lotad -  
-Seedot - 
-Taillow - 
-Wingull -
-Ralts - 
-Surskit - 
-Shroomish - 
-Slakoth -
-Nincada - 
-Whismur -
-Makuhita -
-Azurill -
-Nosepass -
+246 - Larvitar - 
+
+252 - Treecko - 
+255 - Torchic - 
+258 - Mudkip - 
+261 - Poochyena -
+263 - Zigzagoon - 
+265 - Wurmple - 
+270 - Lotad -  
+273 - Seedot - 
+276 - Taillow - 
+278 - Wingull -
+280 - Ralts - 
+283 - Surskit - 
+285 -Shroomish - 
+287 - Slakoth -
+290 - Nincada - 
+293 - Whismur -
+296 - Makuhita -
+298 - Azurill -
+299 - Nosepass -
 Sableye - 
 Mawile - 
-Aron - 
-Meditite - 
-Electrike - 
-Plusle 
+304 - Aron - 
+307 - Meditite - 
+309 - Electrike - 
+311 - Plusle 
+312 - Minium
 Volbeat - 
 Roselia - 
 Carvanha - 
 Wailmer - 
-Numel - 
-Torkoal - 
-Spoing - 
+322 - Numel - 
+324 - Torkoal - 
+325 - Spoink - 
 Spinda - 
 Trapinch -
 Cacnea -
 Zangoose - 
 Seviper -
-Barboach -
+339 - Barboach -
 Whishcash -
-Feebas - 
+349 - Feebas - 
 Milotic - 
 Kecleon - 
-Shuppet -
+353 - Shuppet -
 Duskull -
-Chimecho - 
-Absol - 
-Snorunt - 
-Spheal - 
-Calmaperl -
+358 - Chimecho - 
+359 - Absol - 
+361 - Snorunt - 
+363 - Spheal - 
+366 - Calmaperl -
 Relicanth - 
-Bagon - 
-Beldum - 
-Turtwig -
-Chimchar -
-Piplup - 
-Starly - 
-Bidoof -
-Kricketot -
-Shinx -
-Budew - 
+371 - Bagon - 
+374 - Beldum - 
+
+387 - Turtwig -
+390 - Chimchar -
+393 - Piplup - 
+396 - Starly - 
+399 - Bidoof -
+401 - Kricketot -
+403 - Shinx -
+406 - Budew - 
 Cranidos -
-Burmy - 
-Combee -
-Pacirisu - 
+412 - Burmy - 
+415 - Combee -
+417 -Pacirisu - 
+421 - Cherrim
+423 - Gastrodon 
+431 - Glameow 
+434 - Stunky 
+438 - Bonsly 
+443 - Gible 
+446 - Munchlax 
+447 - Riolu
+449 - Hippopotas
+455 - Carnivine 
+461 - Weavile
+465 - Tangrowth
+470 - Leafeon
+479 - Rotom 
+
+495 - Sniny
+498 - Tepig
+501 - Oshawott
+504 - Patrat 
+511 - Pansage
+513 - Pansear
+522 - Blitzle 
+527 - Woobat
+531 - Audino
+532 - Timburr
+538 - Throh
+543 - Venipede
+548 - Petilil
+551 - Sandile 
+554 - Darumaka 
+556 - Maractus 
+562 - Yamask 
+564 - Tirtouga 
+568 - 
+570 - Zorua 
+572 - Minccino 
+577 - Solosis
+580 - Ducklett 
+585 - Deerling
+586 - Sawsbuck
+587 - Emolga 
+592 - Frillish 
+594 - Alomomola
+595 - Joltik
+602 - Tynamo 
+607 - Litwick 
+610 - Axew
+613 - Cubchoo
+618 - Stunfisk
+619 - Mienfoo
+622 - Golett
+629 - Vullaby
+633 - Deino 
+636 - Larvesta 
+
+650 - Chespin
+653 - Fennekin
+656 - Froakie
+659 - 
+661 - Fletchling
+667 - Litleo
+669 - Flabebe > Floette
+672 - Skiddo 
+679 - Hondedge
+682 - Spritzee 
+686 - Inkay 
+688 - Binacle 
+690 - Skrelp 
+700 - Sylveon 
+704 - Goomy 
+707 - Flefki 
+710 - Pumpkaboo > 
+712 - Bermite 
+714 - Noibat 
+
+722 - Rowlet 
+725 - Litten 
+728 - Popplio 
+731 - Pikipek 
+734 - Yungoos
+736 - 
+741 - Oricorio 
+742 - Cutiefly
+746 - 
+747 -
+749 -
+753 - 
+755 -
+759 - 
+761 -
+764 - 
+769 - 
+771 - 
+772 -
+774 - Minior
+775 - 
+777 - 
+779 -
+782 - Jangmo-o 
+
+8° Geração :
+810 - 
+813 - 
+816 -
+819 -
+824 -
+827 -
+829 -
+831 -
+833 -
+835 -
+837 -
+840 -
+843 - 
+845 -
+846 -
+848 - 
+850 -
+852 - 
+854 - 
+856 -
+859 -
+862 -
+864 -
+866 -
+868 -
+870 - 
+872 -
+875 -
+876 -
+877 -
+878 -
+880 -
+881 -
+884 -
+885 -
+
+9° Geração :
+906 - 
+909 -
+912 - 
+915 - 
+917 -
+918 - 
+919 - 
+920 -
+922 -
+924 -
+926 -
+928 -
+929 -
+930 -
+932 -
+933 -
+934 -
+935 -
+936 -
+937 -
+940 -
+941 -
+943 -
+945 -
+946 -
+949 -
+951 -
+ 952 -
+ 953 -
+ 954 -
+ 957 - 
+ 958 -
+ 961 -
+ 963 -
+ 965 -
+ 967 -
+ 969 -
+ 971 -
+ 973 -
+ 975 -
+ 977 0 
+ 980 -
+ 983 -
+ 986 -
+ 987 -
+ 990 -
+ 991 -
+ 993 -
+ 994 -
+ 995 -
+ 996 -
+ 997 -
+ 1000 -
+ 1003 -
+ 1007 

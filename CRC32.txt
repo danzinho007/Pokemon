@@ -138,6 +138,19 @@ Obs 2 : Atual que eu digo é porque é usada no RetroArch
 -Super Light Platinum BR :  5BADF4B4 ( Atual )
 -Super Light Platinum ING : 4B04B0C7 ( Atual )
 
+---Omega :
+Emerald Omega                         : CA0436C7
+Fire Red Omega                        : B197A9B9
+fire-red-omega-dx-v1.9                : 146B255E
+Omega Red                             : 9D2FF971
+Omega Ruby v1.8[PT-BR]                : C4C1FF55
+Omega Red 3.0 - halloween             : 7E6B58E5
+Omega Red v4.1 ENG_By_Player_Brendan  : 11245214
+OmegaRedV4.2 (NO OFICIAL)             : 577EA5B3
+OmegaRedV4.2 [Rival ver] (NO OFICIAL) : 254F2797
+Omega Ruby X And Y                    : 199A416F
+
+
 -Silver 97 Reforged (v6.0a) : 17F9BC5F
 Super Gold 97 (v7.40) :      7E7AE668
 Unbound : EA8D9461

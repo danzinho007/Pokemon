@@ -330,6 +330,7 @@ Ex Puro : Meowth > Persian
 12-Pedra ( Ped ) = 2x  em Inseto, Fogo, Voador e Gelo 
                  = 1x  em Vários
                  = 1/2 em Lutador e Terra
+Leva 2x de Golpe = Aço, Água, Lutador, Planta, Terra
 Ex Puro : Bonsley > Sudowoodo
         : Regirock
         : Cranidos > Rampardos
@@ -409,6 +410,9 @@ Ex Puro : Ekans > Arbok
 Ex Puro : Tornadus
         : 
 
+Defensivamente :
+Tipo Tipo = Quanto de dano toma de Tipo 
+
 Aço Águ = 2x Elétrico, Lutador, Terra
 Aço Lut = 2x em Fogo, Lutador, Terra
 Aço Ven = 4x em Terra   
@@ -420,6 +424,9 @@ Aço Ven = 4x em Terra
 Ele Fan = 2x em Fantasma, Sombrio e Terra
 Ele Fog = 4x em Terra
           2x em Água e Pedra
+Ele Ped = 2x em Água, Lutador, Planta, Terra
+        = 1/2 de Elétrico, Fogo, Normal, Veneno
+        = 1/4 de Voador
 Ele Psí = 2x em Fantasma, Inseto, Sombrio, Terra
 Fad Pla = 4x em Veneno
         = 2x em Aço, Fogo, Gelo, Voador
