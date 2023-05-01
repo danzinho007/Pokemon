@@ -164,7 +164,10 @@ Exemplo : Água = 2x em Fogo, Pedra e Terra
 Isso quer dizer que :
 Golpe Tipo Água vai dar 2x o dano em Pokémon Tipo Fogo, Pedra ou Terra
 
-1-Aço ( Aço ) = 2x em 
+1-Aço ( Aço ) = 2x em Pedra, Gelo e Fada
+              = 1x em Vários
+              = 1/2x em Aço, Fogo, Água e Elétrico
+Leva 
 Ex Puro : Registeel
         : Klink > Klang > Klinklang
         : Meltan > Melmetal
@@ -199,6 +202,8 @@ Ex Puro : Squirtle > Wartortle > Blastoise
 
 3-Dragão ( Dra ) = 2x  em Dragão 
                  = 1x em Vários
+                 = 1/2 em Aço
+                 = 0x em Fada
 Ex Puro : Axe > Fraxure > Haxorus
         : Druddigon
         : Goomy > Sliggoo > Goodra
@@ -222,7 +227,9 @@ Ex Puro : Pichu > Pikachu > Raichu
         : Zeraora
         : 
         
-5-Fada ( Fad ) = 2x em 
+5-Fada ( Fad ) = 2x em Lutador, Dragão e Sombrio
+               = 1x em Vários
+               = 1/2x em Venenoso, Aço e Fogo
 Ex Puro : Clefairy > Clefable 
         : Snubbull > Granbull 
         : Flabébé > Floette > Florges
@@ -232,9 +239,10 @@ Ex Puro : Clefairy > Clefable
         : Comfey
         : 
 
-6-Fantasma ( Fan ) = 2x em Fantasma
+6-Fantasma ( Fan ) = 2x em Fantasma e Psíquico
                    = 1x em Vários
-                   = 0x em Normal e Psíquico
+                   = 1/2x em Sombrio
+                   = 0x em Normal
 Ex Puro : Misdreavus > Mismagiu
         : Shuppet > Banette 
         : Duskull > Dusclops > Duskoir
@@ -257,7 +265,7 @@ Ex Puro : Ponyta > Rapidash
 
 8-Gelo ( Gel ) = 2x  em Dragão, Voador, Planta e Terra
                = 1x  em Vários
-               = 1/2 em Água e Gelo
+               = 1/2 em Aço, Fogo, Água e Gelo
 Ex Puro : Snorunt > Glalie 
         : Regice
         : Darumaka Galar > Darmanitan
@@ -266,9 +274,9 @@ Ex Puro : Snorunt > Glalie
         : Cryogonal
         : 
 
-9-Inseto ( Ins ) = 2x em Planta, Psíquico e Veneno
+9-Inseto ( Ins ) = 2x em Planta, Psíquico e Sombrio
                  = 1x em Vários
-                 = 1/2 em Fantasma, Fogo, Lutador e Voador
+                 = 1/2 em Lutador, Voador, Venenoso, Fantasma, Aço, Fogo e Fada 
 Ex Puro : Pinsir
         : Volbeat
         : Illumise
@@ -276,10 +284,13 @@ Ex Puro : Pinsir
         : Shelmet > Accelgor
         : 
 
-10-Lutador  ( Lut ) = 2x  em Gelo, Normal e Pedra
+10-Lutador  ( Lut ) = 2x em Normal, Pedra, Aço, Gelo e Sombrio
                    = 1x  em Vários 
-                   = 1/2 em Inseto, Psíquico, Veneno e Voador
+                   = 1/2 Voador, Venenoso, Inseto, Psíquico e Fada
                    = 0x  em Fantasma
+Defensivamente leva = 2x de Voador, Psíquico e Fada
+                    = 1x de Vários
+                    = 1/2x de Pedra, Inseto e Sombrio
 Ex Puro : Mankey > Primeape
         : Machop > Machoke > Machamp
         : Farfetchd Galar > Sirfetchd Galar
@@ -292,9 +303,12 @@ Ex Puro : Mankey > Primeape
         : Passimian
         : 
 
-11-Normal ( Nor ) = 2x  em Ninguém
-                 = 1x em Vários
-                 = 0x em Fantasma
+11-Normal ( Nor ) = 1x   em Vários
+                  = 1/2x em Pedra e Aço
+                  = 0x em Fantasma
+Defensivamente leva = 2x de Lutador 
+                    = 1x de Vários
+                    = 0x de Fantasma
 Ex Puro : Meowth > Persian
         : Happiny > Chansey > Blissey
         : Kangaskhan
@@ -327,9 +341,9 @@ Ex Puro : Meowth > Persian
         : Komala
         : 
 
-12-Pedra ( Ped ) = 2x  em Inseto, Fogo, Voador e Gelo 
+12-Pedra ( Ped ) = 2x  em Voador, Inseto, Fogo e Gelo 
                  = 1x  em Vários
-                 = 1/2 em Lutador e Terra
+                 = 1/2 em Lutador e Aço
 Leva 2x de Golpe = Aço, Água, Lutador, Planta, Terra
 Ex Puro : Bonsley > Sudowoodo
         : Regirock
@@ -338,9 +352,9 @@ Ex Puro : Bonsley > Sudowoodo
         : Rockruff > Lycanroc
         : 
 
-13-Planta ( Pla ) = 2x  em Água, Pedra e Terra 
+13-Planta ( Pla ) = 2x  em Terra, Pedra e Fogo
                   = 1x  em Vários 
-                  = 1/2 em Dragão, Fogo, Inseto, Planta, Veneno e Voador
+                  = 1/2 em Voador, Venenoso, Fantasma, Fogo, Elétrico e Dragão
 Ex Puro : Tangela > Tangrowth 
         : Chikorita > Bayleef > Meganium
         : Sunkern > Sunflora 
@@ -359,7 +373,8 @@ Ex Puro : Tangela > Tangrowth
 
 14-Psíquico ( Psi ) = 2x  em Lutador e Veneno
                     = 1x  em Vários
-                    = 1/2 em Psíquico 
+                    = 1/2 em Aço e Psíquico
+                    = 0x em Sombrio
 Ex Puro : Abra > Kadabra > Alakazam
         : Unown
         : Wynaut > Wobbuffet
@@ -377,14 +392,16 @@ Ex Puro : Abra > Kadabra > Alakazam
         : Elgyem > Beheeyem
         : Espurr > Meowstic
 
-15-Sombrio ( Som )
+15-Sombrio ( Som ) = 2x em Fatasma e Psíquico
+                   = 1x em Vários
+                   = 1/2x em Lutador, Sombrio e Fada
 Ex Puro : Poochyena > Mightyena 
         : Darkrai
         : Purrloin > Liepard
         : Zorua > Zoroark
         : 
 
-16-Terra ( Ter ) = 2x  em Elétrico, Fogo, Veneno e Pedra
+16-Terra ( Ter ) = 2x  em Venenoso, Pedra, Aço e Fogo
                  = 1x  em Vários
                  = 1/2 em Inseto e Planta
                  = 0x  em Voador
@@ -395,9 +412,10 @@ Ex Puro : Cubone > Marowak
         : Mudbray > Mudsdale
         : 
 
-17-Veneno ( Ven ) = 2x  em Inseto e Planta
+17-Veneno ( Ven ) = 2x  em Planta e Fada
                   = 1x  em Vários
-                  = 1/2 em Fantasma, Terra, Veneno e Pedra 
+                  = 1/2 em Venenoso, Terrestre, Pedra e Fantasma
+                  = 0x em Aço
 Ex Puro : Ekans > Arbok
         : Koffing > Weezing
         : Gulpin > Swalot
@@ -407,6 +425,10 @@ Ex Puro : Ekans > Arbok
 18-Voador ( Voa ) = 2x em  Inseto, Lutador e Planta
                   = 1x em Vários
                   = 1/2 em Elétrico e Pedra
+Defensivamente leva = 2x de Pedra, Elétrico e Gelo
+                    = 1x de Vários
+                    = 1/2x de Lutador, Inseto e Planta
+                    = 0x de Terrestre
 Ex Puro : Tornadus
         : 
 

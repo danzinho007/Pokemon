@@ -150,6 +150,10 @@ OmegaRedV4.2 (NO OFICIAL)             : 577EA5B3
 OmegaRedV4.2 [Rival ver] (NO OFICIAL) : 254F2797
 Omega Ruby X And Y                    : 199A416F
 
+---Unbound :
+Unbound v1.2.5   = B90C9F13
+Unbound v2.1.1.1 PTBR = EA8D9461
+Unbound v2.1.1.1 ENG = 4B3D4957
 
 -Silver 97 Reforged (v6.0a) : 17F9BC5F
 Super Gold 97 (v7.40) :      7E7AE668
