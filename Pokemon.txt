@@ -230,6 +230,10 @@ Ex Puro : Pichu > Pikachu > Raichu
 5-Fada ( Fad ) = 2x em Lutador, Dragão e Sombrio
                = 1x em Vários
                = 1/2x em Venenoso, Aço e Fogo
+Defensivamente leva = 2x de Veneno e Aço
+                    = 1x de Vários
+                    = 1/2x de Lutador, Inseto e Sombrio
+                    = 0x de Dragão
 Ex Puro : Clefairy > Clefable 
         : Snubbull > Granbull 
         : Flabébé > Floette > Florges
@@ -243,6 +247,10 @@ Ex Puro : Clefairy > Clefable
                    = 1x em Vários
                    = 1/2x em Sombrio
                    = 0x em Normal
+Defensivamente leva : 2x de Fantasma e Sombrio
+                    : 1x de Vários
+                    : 1/2x de Venenoso e Inseto
+                    : 0x de Normal e Lutador
 Ex Puro : Misdreavus > Mismagiu
         : Shuppet > Banette 
         : Duskull > Dusclops > Duskoir
@@ -277,6 +285,9 @@ Ex Puro : Snorunt > Glalie
 9-Inseto ( Ins ) = 2x em Planta, Psíquico e Sombrio
                  = 1x em Vários
                  = 1/2 em Lutador, Voador, Venenoso, Fantasma, Aço, Fogo e Fada 
+Defensivamente leva : 2x de Voador, Pedra e Aço
+                    : 1x de Vários
+                    : 1/2x de Lutador, Terrestre e Planta
 Ex Puro : Pinsir
         : Volbeat
         : Illumise
@@ -344,7 +355,9 @@ Ex Puro : Meowth > Persian
 12-Pedra ( Ped ) = 2x  em Voador, Inseto, Fogo e Gelo 
                  = 1x  em Vários
                  = 1/2 em Lutador e Aço
-Leva 2x de Golpe = Aço, Água, Lutador, Planta, Terra
+Defensivamente leva : 2x de Lutador, Terra, Aço, Água e Planta
+                    : 1x de Vários
+                    : 1/2x de Normal, Voador, Venenoso e Fogo
 Ex Puro : Bonsley > Sudowoodo
         : Regirock
         : Cranidos > Rampardos
@@ -375,6 +388,9 @@ Ex Puro : Tangela > Tangrowth
                     = 1x  em Vários
                     = 1/2 em Aço e Psíquico
                     = 0x em Sombrio
+Defensivamente leva = 2x de Inseto, Fantasma e Sombrio
+                      1x de Vários
+
 Ex Puro : Abra > Kadabra > Alakazam
         : Unown
         : Wynaut > Wobbuffet
@@ -405,6 +421,10 @@ Ex Puro : Poochyena > Mightyena
                  = 1x  em Vários
                  = 1/2 em Inseto e Planta
                  = 0x  em Voador
+Defensivamente leva : 2x de Água, Planta e Gelo
+                    : 1x de Vários
+                    : 1/2x de Venenoso e Pedra
+                    : 0x de Elétrico
 Ex Puro : Cubone > Marowak
         : Phanpy > Donphan
         : Groudon
@@ -416,6 +436,9 @@ Ex Puro : Cubone > Marowak
                   = 1x  em Vários
                   = 1/2 em Venenoso, Terrestre, Pedra e Fantasma
                   = 0x em Aço
+Defensivamente leva : 2x de Psíquico e Terra
+                    : 1x de Vários
+                    : 1/2x de Lutador, Venenoso, Inseto, Planta e Fada
 Ex Puro : Ekans > Arbok
         : Koffing > Weezing
         : Gulpin > Swalot

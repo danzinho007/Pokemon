@@ -365,59 +365,105 @@ Cranidos -
 
 Pokémon em Ordem Alfabética :
 -Altaria = Dragão Voador
+-Ambipom = 
 -Ampharos = Elétrico / M-Ampharos = Dragão Elétrico
 -Armaldo = Inseto Pedra
+-Archeops = Pedra Voador 
+-Aromatisse = 
 -Banette = Fantasma / M-Banette = Fantasma
 -Beedrill = Inseto Veneno / M-Beedril = Inseto Veneno
+-Bewear = 
 -Bruxish = Água Psíquico 
 -Camerupt = Fogo Terra / M-Camerupt = Fogo Terra
 -Carbink = Fada Pedra 
 -Chimecho = Psíquico 
 -Comfey = Fada
 
--Drapion
--Electivire
+-Darmanitan = Fogo
+-Dragalge = Dragão Venenoso
+-Drapion = Sombrio Venenoso
+-Eelektross = Elétrico
+-Electivire = Elétricro
+-Electrode = 
+-Escavalier = Inseto Metal
+-Exeggutor = 
+-Gigalith = Pedra
+-Glaceon = Gelo
+-Granbull = Fada 
+-Hariyama = Lutador
+-Houndoom = Sombrio Fogo
+
 -Kecleon
 -Lickilicky
 -Lycanroc
--Malamar
--Marowak
+-Machamp = 
+-Malamar = 
+-Manetric = 
+-Marowak =  
+-Mawille = 
 -Metagross
--Muk
+-Mudsdale = 
+-Muk = 
+
+-Pinsir = 
 -Probopass
 -Relicanth
--Rotom 
--Sawsbuck
--Swanna
+-Rotom = 
+-Sandslash = / A-Sandslash = 
+-Sawsbuck = 
+-Shiftry = 
+-Shiinotic = 
+-Slowbro = / M-Slowbro = 
+-Skutank = 
+-Swanna =
+-Swoobat = 
+-Tauros = 
+-Throh = 
+-Toucannon = 
+-Turtonator = 
+-Tsareena = 
+-Typhlosion = 
 -Weezing
 
 ---Golpes em Ordem Alfabética : 
 -Air Slash = Pode causar Flinch no adversário (interrompimento de golpe)	
+-Ancient Power = Pode aumentar todos os STATS do usuário em um estágio	
+-Belly Drum = Tira metade do total do HP do usuário e aumenta seu ATTACK	
 -Body Slam = Pode deixar o adversário com status Paralysis	
--Dark Pulse
--Double-Edge
--Dragon Pulse
--Earthquake
--Endeavor
+-Bullet Punch = 40/100/30
+-Dark Pulse = Pode causar Flinch no adversário (interrompimento de golpe)	
+-Double-Edge = Usuário também leva dano ao utilizá-lo	
+-Dragon Pulse = Nada 
+-Earthquake = Causa dano a todos os que estão no campo	
+-Endeavor = Poder aumenta se o HP do usuário for menor que o HP do oponente. Quando o HP do oponente estiver menor que o HP do usuário, o dano será igual ao valor que o HP do oponente está menos o valor que o HP do usuário está, caso contrário, o golpe falha.	
+
 -Fire Punch
 -Flamethrower
 -Focus Blast
+-Gastro Acid = 
 -Grass Knot
+-Gyro Ball = 
 -Ice Beam
 -Knock Off
 -Thunder Wave
 -Magnet Bomb
+-Megahorn = 
 -Moonblast
+-Nasty Plot = 
+-Overheat = 
 -Poison Jab
 -Psychic
+-Reversal = 
 -Rock Blast
 -Rock Slide
 -Roost
 -Scald
 -Shadow Ball
+-Sludge Bomb = 
 -Stockpile
 -Substitute
 -Sucker Punch
+-Thunder Wave = 
 -Wild Charge
 -Will-o-Wisp
 -X-Scissor
