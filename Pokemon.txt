@@ -550,4 +550,20 @@ Sandstorm    = 0/0/10/5t Tempestado de Areia
 
 -----------------------------------------------------
 
+Ubers :
+Tier mais inclusiva da Smogon, permitindo o uso de qualquer de Pokemon. Apenas abilities e táticas que se provaram injustas ou excessivamente poderosas até mesmo para seus parâmetros estão banidas de uso.
 
+UU / Under Used :
+Todos os Pokémon que não são OU por usagem e não foram banidos para Ubers ou UUBL podem ser usados em UU, incluindo Pokémon de RU e NU. Embora qualquer um dos Pokémon mencionados possam ser usados em UU, apenas aqueles com uma usagem de ~3,41% do total da tier são classificados como 'UU'. Um Pokémon é de fato 'UU' se um típico jogador competitivo tiver 50% de chances de encontrar aquele Pokémon pelo menos uma vez por dia a cada vinte batalhas.
+
+RU / Rarely Used :
+Todos os Pokémon que não são OU ou UU por usagem e não são banidos em Ubers, UUBL (UU Borderline) ou RUBL (RU Borderline) podem ser usados em RU, incluindo Pokémon de NU e PU. Embora esses Pokémon possam ser utilizados em RU, apenas aqueles com uma usagem de ~3,41% do total da tier são classificados como "RU". Um Pokémon é de fato "RU" se um típico jogador competitivo tiver 50% de chances de encontrar aquele Pokémon pelo menos uma vez por dia a cada vinte batalhas.
+
+NU / Nerver Used :
+Todos os Pokémon que não são OU, UU ou RU por usagem e não foram banidos para Uber, UUBL (UU Borderline), RUBL (RU Borderline) ou NUBL (NU Borderline) podem ser usados em NU, incluindo os Pokémon de PU. Embora qualquer um dos Pokémon mencionados anteriormente possam ser usados em NU, apenas os Pokémon com pelo menos ~3.41% de usagem total na tier sã chamados de 'NU.' Um Pokémon é de fato NU se um típico jogador competitivo tiver 50% de chances de encontrar aquele Pokémon pelo menos uma vez por dia a cada vinte batalhas.
+
+PU / Partially Used 
+Todos os Pokémon que não são NU por usagem e não foram banidos para Ubers, PUBL, NUBL, RUBL ou UUBL (Borderline) podem ser usados em PU. 
+
+ZU / Zero Used :
+Tier não oficial baseada na usagem abaixo de PU, contendo todos os Pokémon totalmente evoluídos que não são PU por usagem, exceto aqueles que estção banidos.

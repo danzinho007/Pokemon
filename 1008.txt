@@ -362,3 +362,62 @@ Cranidos -
  1000 -
  1003 -
  1007 
+
+Pokémon em Ordem Alfabética :
+-Altaria = Dragão Voador
+-Ampharos = Elétrico / M-Ampharos = Dragão Elétrico
+-Armaldo = Inseto Pedra
+-Banette = Fantasma / M-Banette = Fantasma
+-Beedrill = Inseto Veneno / M-Beedril = Inseto Veneno
+-Bruxish = Água Psíquico 
+-Camerupt = Fogo Terra / M-Camerupt = Fogo Terra
+-Carbink = Fada Pedra 
+-Chimecho = Psíquico 
+-Comfey = Fada
+
+-Drapion
+-Electivire
+-Kecleon
+-Lickilicky
+-Lycanroc
+-Malamar
+-Marowak
+-Metagross
+-Muk
+-Probopass
+-Relicanth
+-Rotom 
+-Sawsbuck
+-Swanna
+-Weezing
+
+---Golpes em Ordem Alfabética : 
+-Air Slash = Pode causar Flinch no adversário (interrompimento de golpe)	
+-Body Slam = Pode deixar o adversário com status Paralysis	
+-Dark Pulse
+-Double-Edge
+-Dragon Pulse
+-Earthquake
+-Endeavor
+-Fire Punch
+-Flamethrower
+-Focus Blast
+-Grass Knot
+-Ice Beam
+-Knock Off
+-Thunder Wave
+-Magnet Bomb
+-Moonblast
+-Poison Jab
+-Psychic
+-Rock Blast
+-Rock Slide
+-Roost
+-Scald
+-Shadow Ball
+-Stockpile
+-Substitute
+-Sucker Punch
+-Wild Charge
+-Will-o-Wisp
+-X-Scissor
