@@ -111,6 +111,7 @@ Tipos : 18
 
 7 : Sun Moon 
 Nenhum
+
 8 : Sword Shield 
 Nenhum
 9 : Scarlet Violet 

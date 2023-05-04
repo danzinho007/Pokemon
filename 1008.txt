@@ -393,17 +393,17 @@ Pokémon em Ordem Alfabética :
 -Hariyama = Lutador
 -Houndoom = Sombrio Fogo
 
--Kecleon
--Lickilicky
--Lycanroc
--Machamp = 
--Malamar = 
--Manetric = 
--Marowak =  
--Mawille = 
--Metagross
--Mudsdale = 
--Muk = 
+-Kecleon = Normal
+-Lickilicky = Normal
+-Lycanroc = Pedra
+-Machamp = Lutador
+-Malamar = Psíquico Sombrio
+-Manetric = Elétrico
+-Marowak =  Terrestre
+-Mawille = Fada Metal
+-Metagross = Metal Psíquico
+-Mudsdale = Terrestre
+-Muk = Venenoso
 
 -Pinsir = 
 -Probopass
