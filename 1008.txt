@@ -1,35 +1,43 @@
 1008 Pokémon 
 https://www.youtube.com/watch?v=OGziTGl2d58
 
-1-Bulbasaur = Mega 
-2-Charmander = Mega 2
-3-Squirtle = Mega 
-4-Caterpie 
-5-Weedle = Mega 
-6-Pidgey = Mega 
-7-Rattata = Alola 
-8-Spearow = 
-9-Ekans = 
-10-Pikachu = Alola 
-11-sandshrew = Alola
-12-Nidoran f  = 
-13-Nidoran M = 
-14-Clefairy =
-15-Vulpix = alola
-16-Jigglypuff =
-17-Zubat = 
-18-Oddish = 
-19-Paras =
-20-Venonat =
-21-Diglett = Alola
-22-Meowth = Alola
-23-Psyduck = 
-24-Mankey =
-25-Growlithe = Hisui
-26-Poliwag
-27-Abra = Mega
-28-Machop = 
-Beelsprout 
+1-Bulbasaur = Mega ( OK )
+2-
+3-
+4-Charmander = Mega 2 ( OK )
+5-
+6-
+7-Squirtle = Mega  ( OK )
+8-
+9-
+10-Caterpie  ( OK )
+11-
+12-
+13-Weedle = Mega  ( OK )
+6-Pidgey = Mega  ( OK )
+7-Rattata = Alola  ( OK )
+8-Spearow =  ( OK )
+9-Ekans =  ( OK )
+10-Pikachu = Alola  ( OK )
+11-sandshrew = Alola ( OK )
+12-Nidoran f  =  ( OK )
+13-Nidoran M =  ( OK )
+14-Clefairy = ( OK )
+15-Vulpix = alola ( OK )
+16-Jigglypuff = ( OK )
+17-Zubat = ( não tem )
+18-Oddish =  ( OK )
+19-Paras = ( OK )
+20-Venonat = ( OK )
+21-Diglett = Alola ( OK )
+22-Meowth = Alola ( OK )
+23-Psyduck =  ( OK )
+24-Mankey = ( OK )
+25-Growlithe = Hisui ( OK )
+26-Poliwag ( OK )
+27-Abra = Mega ( OK )
+28-Machop =  ( OK )
+Beelsprout = ( não tem )
 Tentacool
 29-Geodude
 Ponyta
