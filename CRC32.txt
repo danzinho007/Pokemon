@@ -16,8 +16,8 @@ Ruby USA 1.2 :    AEAC73E6 ( OK )
 Sapphire USA :    554DEDC4 ( OK )
 Emerald USA :     1F1C08FB ( OK )
 Fire Red USA 1.0: 16FC65EC ( OK )
-Fire Red USA 1.1: 84EE4776 ( OK ) OK
-Fire Red USA 1.1: DD88761C ( OK )
+Fire Red USA 1.1: 84EE4776 ( OK )
+Fire Red USA 1.1: DD88761C ( OK )               
 Leaf Green USA :  D69C96CC ( OK )
 
 Diamond USA :     84427823 ( OK )
@@ -110,7 +110,17 @@ Ash Version 4.0 Shiny
 DF é Destroyer Former
 -Hyper Emerald Eng v2.1 :     C24FC84A
 -Hyper Emerald Real (Eng) :   C4F5F471
-Destroyer Former Inglês 
+Destroyer Former Inglês ( Versão 3 em Inglês )
+Features
+809 Catchable Pokemon
+All Pokemon from Generation 1-7
+In-battle Mega Evolution
+Z Moves
+Fakemon
+New Tileset
+Different Difficulty Modes
+Fossil Ressurection
+Side Story
 -Hyper Emerald Shiny :        2782B3A0 OK
 Versão 3.0 com Brilhante Aumentada
 Destroyer Former
