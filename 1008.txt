@@ -371,6 +371,14 @@ Cranidos -
  1003 -
  1007 
 
+Gen 1 : Exggecute Gengar Jynx Jolteon Starmie Tauros 
+Alakazam : SeismicToss / 
+Chansey : IceBeam / Sing 
+Gengar : ConfuseRay / 
+Jynx : LovelyKiss /
+Rhydon : RockSlide / Substitute / 
+Starmie : ThunderWave / 
+
 Pokémon em Ordem Alfabética :
 -Altaria = Dragão Voador
 -Ambipom = 
@@ -384,6 +392,7 @@ Pokémon em Ordem Alfabética :
 -Bruxish = Água Psíquico 
 -Camerupt = Fogo Terra / M-Camerupt = Fogo Terra
 -Carbink = Fada Pedra 
+-Chansey = Normal 
 -Chimecho = Psíquico 
 -Comfey = Fada
 
@@ -395,12 +404,18 @@ Pokémon em Ordem Alfabética :
 -Electrode = 
 -Escavalier = Inseto Metal
 -Exeggutor = 
+-Gengar =  Fantasma Venenoso 
+Confuse Ray
+
 -Gigalith = Pedra
 -Glaceon = Gelo
 -Granbull = Fada 
 -Hariyama = Lutador
 -Houndoom = Sombrio Fogo
-
+-Jynx = 
+Ice Beam 
+Lovely Kiss
+Psychic 
 -Kecleon = Normal
 -Lickilicky = Normal
 -Lycanroc = Pedra
@@ -416,11 +431,17 @@ Pokémon em Ordem Alfabética :
 -Pinsir = 
 -Probopass
 -Relicanth
+-Rhydon =
+Earthquake
+Rock Slide
+Substitute
+
 -Rotom = 
 -Sandslash = / A-Sandslash = 
 -Sawsbuck = 
 -Shiftry = 
 -Shiinotic = 
+-Skarmory = Metal Voador
 -Slowbro = / M-Slowbro = 
 -Skutank = 
 -Swanna =
@@ -451,25 +472,31 @@ Pokémon em Ordem Alfabética :
 -Gastro Acid = 
 -Grass Knot
 -Gyro Ball = 
--Ice Beam
--Knock Off
--Thunder Wave
+-Ice Beam = !!!
+-Ingrain = O usuário restaura HP a cada turno. O usuário não pode escapar/trocar.
+-Knock Off = 
+-Leech Seed = O usuário recupera metade do HP infligido ao oponente.
+-Lovely Kiss = 
+
 -Magnet Bomb
 -Megahorn = 
 -Moonblast
 -Nasty Plot = 
 -Overheat = 
 -Poison Jab
--Psychic
+-Psychic = !!!
+-Reflect = 
 -Reversal = 
 -Rock Blast
 -Rock Slide
 -Roost
 -Scald
+-Seismic Toss = 
 -Shadow Ball
 -Sludge Bomb = 
+-Stealfh Rock = Causa dano ao oponente ao entrar na batalha.
 -Stockpile
--Substitute
+-Substitute = !!!
 -Sucker Punch
 -Thunder Wave = 
 -Wild Charge
