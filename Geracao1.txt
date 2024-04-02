@@ -1,0 +1,112 @@
+Geracao 1 
+Desync Clause Mod: Desyncs changed to move failure.
+Sleep Clause Mod: Limit one foe put to sleep
+Freeze Clause Mod: Limit one foe frozen
+Species Clause: Limit one of each Pokémon
+OHKO Clause: OHKO moves are banned
+Evasion Moves Clause: Evasion moves are banned
+Endless Battle Clause: Forcing endless battles is banned
+HP Percentage Mod: HP is shown in percentages
+
+Ordem de ataque :
+Primeiro > Segundo
+
+Exeggutor > Rhydon
+Jolteon > Jynx / Snorlax
+Exeggutor / Zapdos > Chansey  > Starmie > Rhydon / Zapdos
+Snorlax > Zapdos
+
+----
+Pokémon :
+Golpe = Efetivo contra
+
+Alakazam :
+Psychic = Gengar
+Recover = 
+Thunder Wave = 
+
+Chansey :
+Ice Beam = Exeggutor /  Rhydon / Zapdos
+Seismic Toss
+Sing 
+Soft-Boiled = 
+Thunder Wave = 
+
+Charizard :
+Fire Blast
+
+Cloyster :
+Blizzard
+Clamp
+
+Exeggutor :
+Mega Drain = Rhydon
+Psychic = Snorlax
+Sleep Powder = 
+Stun Spore
+
+Gengar :
+Confuse Ray = 
+Explosion = 
+Hypnosis
+Night Shade = 
+Psychic = Gengar
+Toxid = 
+
+Jynx :
+Lovely Kiss = 
+Psychic = 
+
+Jolteon :
+Thunder Wave
+Thunderbolt = 
+
+Lapras :
+Ice Beam
+Surf
+
+Marowak :
+Blizzard 
+Toxic 
+
+Ninetales :
+Fire Blast
+Fire Spin
+Hyper Beam 
+
+Rhydon :
+Bubble Beam
+Earthquake
+Rock Slide = Exeggutor
+Substitute = 
+Thunderbolt
+
+Snorlax :
+Amnesia ( 2x Spc ) = 
+Blizzard
+Body Slam ( 30% Paralyze ) = Jynx
+Earthquake = Rhydon
+Hyper Beam = 
+Ice Beam = Snorlax / Zapdos
+Reflect = 
+Rest = 
+
+Starmie :
+Blizzard = Exeggutor
+Surf
+Thunder Wave = 
+
+Tauros :
+Blizzard = Rhydon
+Body Slam
+Earthquake = 
+Fire Blast
+Hyper Beam = Alakazam / Snorlax
+
+Venusaur :
+Sleep Powder = 
+Swords Dance = 
+
+Zapdos :
+Drill Peck
+Thunderbolt

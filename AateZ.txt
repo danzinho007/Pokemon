@@ -1,0 +1,38 @@
+Pokémon de A até Z :
+
+Geração- Nome ( Tipo )
+
+6- Amaura ( Gelo Pedra )
+3- Anorith ( Inseto Pedra )
+
+---Letra C
+6- Carbink ( Fada Pedra )
+Toma 4x em : Metal
+Toma 2x em : Água, Planta e Terrestre
+Toma 1/2x em : Normal, Fogo, Voador, Inseto e Sombrio
+Imune : Dragão
+
+4- Cranidos ( Pedra )
+
+---Letra D
+
+8- Drednaw ( Água Pedra )
+Toma 4x   em : Planta 
+Toma 2x   em : Elétrico, Lutador e Terrestre
+Toma 1/2x em : Fogo, Gelo, Normal, Venenoso e Voador
+
+8- Stonjourner ( Pedra )
+
+
+Amaura
+
+-Carbink
+Body Press
+Light Screen
+Reflect
+Stealth Rock
+-Drednaw
+Bulldoze
+Rock Blast
+
+TM41

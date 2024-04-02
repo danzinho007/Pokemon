@@ -1,0 +1,68 @@
+Geracao 2 
+Sleep Clause Mod: Limit one foe put to sleep
+Freeze Clause Mod: Limit one foe frozen
+Species Clause: Limit one of each Pokémon
+OHKO Clause: OHKO moves are banned
+Evasion Items Clause: Evasion items are banned
+Evasion Moves Clause: Evasion moves are banned
+Endless Battle Clause: Forcing endless battles is banned
+HP Percentage Mod: HP is shown in percentages
+
+Blastoise :
+Hydrop Pump
+Ice Punch
+
+Blissey + Leftovers :
+Heal Bell
+Toxic
+
+Cloyster :
+
+Gengar :
+Ice Punch = Zapdos
+Thief
+Thunder
+
+Golem :
+Earthquake = 
+Explosion
+
+Machamp + Lefttovers :
+Cross Chop = Tyranitar
+Curse ( ) = 
+Earthquake = 
+Low Kick = 
+Rest
+
+Magmar + Leftovers :
+Cross Chop
+Fire Blast
+Fire Punch
+
+Nidoking :
+Mega Punch
+Toxic
+
+Nidoqueen + Leftovers :
+Earthquake
+Fire Blast = Machamp
+Mega Punch
+
+Snorlax + Leftovers :
+Fire Blast
+Lovely Kiss
+Return
+
+Starmie + Leftovers :
+Recover
+Reflect
+Surf
+
+Steelix :
+Explosion
+
+Zapdos + Leftovers :
+Hidden Power = 
+Rest = 
+Sleep Talk = 
+Thunder = Machamp

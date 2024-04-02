@@ -1,0 +1,14 @@
+Movimentos :
+
+https://www.poke-blast-news.net/2013/07/tipo-rock-pedra.html
+https://www.poke-blast-news.net/2013/07/tipo-ground-terra.html
+
+Geração- Nome- Tipo- Categoria- Poder- Precisão- PP- Descrição
+
+---Letra B
+
+5- Bulldoze- Terra- Físico- 60- 100%-20 O usuário bate em tudo ao seu redor pisando no chão. Isso diminui a estatística de velocidade daqueles atingidos.
+
+---Letra R
+
+3- Rock Blast- Pedra- Físico- 25- 90%- 10- O usuário arremessa pedras duras no alvo. Duas a cinco pedras são lançadas em uma fileira.
