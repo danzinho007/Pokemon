@@ -2,58 +2,58 @@
 https://www.youtube.com/watch?v=OGziTGl2d58
 
 1-Bulbasaur = Mega ( OK )
-2-
-3-
+2-Ivysaur
+3-Venusaur
 4-Charmander = Mega 2 ( OK )
-5-
-6-
+5-Charmeleon
+6-Charizard
 7-Squirtle = Mega  ( OK )
-8-
-9-
+8-Wartortle
+9-Blastoise
 10-Caterpie  ( OK )
-11-
+11-Metapod
 12-
 13-Weedle = Mega  ( OK )
 6-Pidgey = Mega  ( OK )
-7-Rattata = Alola  ( OK )
-8-Spearow =  ( OK )
-9-Ekans =  ( OK )
-10-Pikachu = Alola  ( OK )
-11-sandshrew = Alola ( OK )
-12-Nidoran f  =  ( OK )
-13-Nidoran M =  ( OK )
-14-Clefairy = ( OK )
-15-Vulpix = alola ( OK )
+19-Rattata = Alola  ( OK )
+21-Spearow =  ( OK )
+23-Ekans =  ( OK )
+25-Pikachu = Alola  ( OK )
+27-sandshrew = Alola ( OK )
+29-Nidoran f  =  ( OK )
+32-Nidoran M =  ( OK )
+35-Clefairy = ( OK )
+37-Vulpix = alola ( OK )
 16-Jigglypuff = ( OK )
-17-Zubat = ( não tem )
+41-Zubat = ( não tem )
 18-Oddish =  ( OK )
-19-Paras = ( OK )
+46-Paras = ( OK )
 20-Venonat = ( OK )
-21-Diglett = Alola ( OK )
+50-Diglett = Alola ( OK )
 22-Meowth = Alola ( OK )
-23-Psyduck =  ( OK )
-24-Mankey = ( OK )
+54-Psyduck =  ( OK )
+56-Mankey = ( OK )
 25-Growlithe = Hisui ( OK )
-26-Poliwag ( OK )
-27-Abra = Mega ( OK )
-28-Machop =  ( OK )
-Beelsprout = ( não tem )
-Tentacool
-29-Geodude
-Ponyta
-30-Slowpoke
-31Magnemite =
-32Farfetch'D =
+60-Poliwag ( OK )
+3-Abra = Mega ( OK )
+66-Machop =  ( OK )
+69-Beelsprout = ( não tem )
+72-Tentacool
+74--Geodude
+77-Ponyta
+-Slowpoke
+Magnemite =
+Farfetch'D =
 Doduo
 Seel 
-33Grimer
-34shellder
-35Gastly
-36Onix
-37Drowzee
-38Krabby
-39Voltorb
-40Exeggcute =
+Grimer
+shellder
+Gastly
+Onix
+Drowzee
+Krabby
+Voltorb
+Exeggcute =
 41Cubone =
 42Hitmonlee =
 43Hitmonchan =
@@ -83,87 +83,90 @@ Dratini
 
 Chikorita 
 Cyndaquil
-Totodile
+Totodile - Croconaw
+
 Sentret 
-Hoothoot 
-Ledbyba
+165-Lebyba
 Spinarak
 Yanma
+185-Sudowoodo
 194 - Wooper
-Murkrow
+196-Espeon
+198-  Murkrow
 199 - Slowking
-201 - Unown 
+201 - Unown  = 
 202 - Wobbuffet
 203 - Girafarig
-Steelix 
-Snubull
+204 - Pinsir
 211 - Qwifish
-214 - Heracross
-216 - Teddiursa
-222 - Corsola 
+214 - Heracross - Mega Heracross
+216 - Teddiursa - Ursaring
+222 - Corsola - Galarian Corsola
 223 - Remoraid -
 227 - Skarmory - 
 228 -Houndour -
-231 - Phanpy - 
+231 - Phanpy - Donphan
 233 - Porygon 2
-236 - Tyrogue - 
-Smoochum - 
-Elekid - 
+236 - Tyrogue - Hitmontop
+238 - Smoochum - 
 246 - Larvitar - 
+249 - Lugia
 
 252 - Treecko - 
 255 - Torchic - 
-258 - Mudkip - 
-261 - Poochyena -
+258 - Mudkip - Marshtomp - Swampert
+
+261 - Poochyena - Mightyena
 263 - Zigzagoon - 
-265 - Wurmple - 
-270 - Lotad -  
-273 - Seedot - 
-276 - Taillow - 
-278 - Wingull -
-280 - Ralts - 
+265 - Wurmple - Silcoon
+270 - Lotad -  Lombre
+273 - Seedot - Nuzleaf
+276 - Taillow - Swellow
+278 - Wingull - Pelipper
+280 - Ralts - Krilia - Gardevoir
 283 - Surskit - 
 285 -Shroomish - 
-287 - Slakoth -
+287 - Slakoth - Vigoroth
 290 - Nincada - 
-293 - Whismur -
-296 - Makuhita -
+293 - Whismur -Loudred
+296 - Makuhita -Hariyama
 298 - Azurill -
 299 - Nosepass -
 Sableye - 
 Mawile - 
-304 - Aron - 
-307 - Meditite - 
+304 - Aron - Lairon
+307 - Meditite - Medicham - 
 309 - Electrike - 
 311 - Plusle 
 312 - Minium
-Volbeat - 
+313 - Volbeat - 
 Roselia - 
 Carvanha - 
-Wailmer - 
+320 - Wailmer - 
 322 - Numel - 
 324 - Torkoal - 
 325 - Spoink - 
-Spinda - 
+327 - Spinda - 
 Trapinch -
-Cacnea -
-Zangoose - 
-Seviper -
+331 - Cacnea -
+335 - Zangoose - 
+336 - Seviper -
 339 - Barboach -
 Whishcash -
-349 - Feebas - 
-Milotic - 
-Kecleon - 
+349 - Feebas - Milotic -  
 353 - Shuppet -
 Duskull -
 358 - Chimecho - 
 359 - Absol - 
 361 - Snorunt - 
-363 - Spheal - 
-366 - Calmaperl -
-Relicanth - 
-371 - Bagon - 
-374 - Beldum - 
+363 - Spheal - Sealeo - 
+366 - Calmaperl -Huntail - 
+371 - Bagon - Shelgon
+374 - Beldum - Metang - Metagross
+
+377 - Regirock
+385 - Jirachi 
+386 - Deoxys
 
 387 - Turtwig -
 390 - Chimchar -

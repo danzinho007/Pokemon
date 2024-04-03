@@ -1,10 +1,30 @@
+https://www.poke-blast-news.net/p/jogos-pokemon.html
+
 ---Aprendendo Pokemon---
 
-Jogando :
-Poz'ké bola
-Pokémon inicial
-Pokémon shiny
-Elite 4
+Informações 
+Tipos 
+Base Status
+Nature
+IV 
+EV
+Moves
+Ability
+Item
+Terrenos
+Clima
+
+Outros :
+    Pokemon inicial
+    Poké bolas
+    Pokémon shiny
+    Elite 4
+    POkérus
+    Pokémon Mítico
+    Pokémon Pseudolendário
+    Pokémon Bebê
+    Fósseis
+    Formatos de Batalha
 
 ---Aula 00 Pokemon
 

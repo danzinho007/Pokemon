@@ -1,45 +1,34 @@
-Anorith
-Stonournr
-Cranidos
-Amaura
-
--Carbink
-Body Press
-Light Screen
-Reflect
-Stealth Rock
--Drednaw
-Bulldoze
-Rock Blast
-
-TM41
-
--Anorith = ?
--Beedril = Tem
--Bellsprout = ?
--Bulbasaur = Tem
--Cascoon = Tem
+Pokémon Hyper Emerald 5.5 Lost Artifacts 
 
 Rota 101 :
 -Caterpie = Lv 3
--Nidoran Azul = Lv 4
--Poochyena = Lv 4
--Wurmple = Lv 5
--Zigzagoon = Lv 3
+-Nidoran Azul = Lv 3/4/5
+-Nidoran Roxo = Lv 4/5
+-Lillipup = Lv 3
+-Poochyena = Lv 4/5
+-Totodile = Lv 2/3/4
+-Weedle = Lv 2
+-Wurmple = Lv 3/4/5
+-Zigzagoon = Lv 2/3
+-Zigzagoon alola = Lv 2
 
 *Tenho Wurmple 
        Zigzagoon
 
 Rota 103 :
+-Budew = Lv 2/3
+-Bulbasaur = Lv 2
 -Kricketot = Lv 2
--Pidgey = Lv 3
--Pidove = Lv 3
+-Ledyba = Lv 4
+-Pidgey = Lv 2/3
+-Pidove = Lv 2/3
+-Pikipek = Lv 3
 -Starly = Lv 2/3
--Wingull = Lv 3
+-Wingull = Lv 2/3
 
 *Tenho Starly
 
-Rota 103:
+Rota 102:
 -Grookey = Lv 3
 -Hatenna = Lv 2
 -Rookidee = Lv 3
@@ -49,7 +38,7 @@ Rota 103:
 *Tenho 
 
 Timeless Woods :
--Bellsprout = Lv 2
+-Bellsprout = Lv 2/3/5
 -Burmy = Lv 3
 -Oddish = Lv 2 / 3
 -Skiddo = Lv 
@@ -69,23 +58,30 @@ Rota 102:
 *Tenho Ralts
 
 Rota 104:
--Lillipup = Lv 3
--Oddish = Lv 4
--Pichu = Lv 3/5
--Rattata = Lv 4/5
--Swirtle = Lv 5
--Taillow = Lv 4/5/6
+01-Blipbug = Lv 5
+02-Dedenne = Lv 4
+03-Lillipup = Lv 3
+04-Meowth = Lv 3
+05-Oddish = Lv 4
+06-Pichu = Lv 3/4/5
+07-Rattata = Lv 4/5/6
+08-Spearow = Lv 3
+09-Squirtle = Lv 4/5
+10-Taillow = Lv 4/5/6
+11-Togepi = Lv 6
 
 *Tenho  Pichu
 	Squirtle
 	Taillow
 
-Petalburg Woods:
--Blipbug = Lv 4/6
--Fletchling = Lv 3
--Foongus = Lv 3
--Sewaddle = Lv 2
--Shroomish = Lv 5
+---Petalburg Woods: 
+1-Blipbug = Lv 3/4/6
+2-Fletchling = Lv 3
+3-Foongus = Lv 3
+4-Impidimp = Lv 3
+5-Paras = Lv 3/4
+6-Sewaddle = Lv 2
+7-Shroomish = Lv 3/5
 
 *Tenho
 
