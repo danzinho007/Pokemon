@@ -1,3 +1,17 @@
+Eevee -
+Delibird -
+Horsea-
+Marill
+Nidoran M
+Sandshrew-
+Smeargle-
+
+Eevee :
+- Body Slam = Fis 85 Paralyze
+- Double-Edge = Fis 120
+- Quick Attack 
+- Sand Attack
+
 Eevee 
 Tipo : Normal 
 Imune : Fantasma

@@ -1,0 +1,17 @@
+Pokemon 
+
+Legenda : 
+Pok = Quantidade de Pokémon
+Len = Quantidade de Lendário
+Sta = Status dos Pokemon
+Ins = Quantidade de Insígnias
+
+---RGB :
+Pok = 151 - 251 - 386 - 493 - 649 - 721
+Len = 5   - 6    - 10 - 14  - 13  - ?
+Sta = 4   - 4    - 6  - 6   - 6   - 6
+Ins = 8 -  16    - 8  - 8   - 8   - 8
+
+- New Bar     -
+- Cherrygrove -
+- Violet      -

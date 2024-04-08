@@ -1,0 +1,9 @@
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 24 Def / 232 SpD
+IVs: 0 Spe
+Sassy Nature
+- Spikes > Stealth Rock
+- Leech Seed > Ingrain
+- Gyro Ball
+- Power Whip

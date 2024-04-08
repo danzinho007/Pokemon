@@ -1,0 +1,8 @@
+Sandshrew
+- Swords Dance
+- Slash
+- Rock Slide
+- Earthquake
+
+Earthquake = Phy 100
+Dig        = Phy 80

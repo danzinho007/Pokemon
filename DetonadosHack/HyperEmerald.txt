@@ -75,32 +75,67 @@ Rota 104:
 	Taillow
 
 ---Petalburg Woods: 
-1-Blipbug = Lv 3/4/6
-2-Fletchling = Lv 3
-3-Foongus = Lv 3
-4-Impidimp = Lv 3
-5-Paras = Lv 3/4
-6-Sewaddle = Lv 2
-7-Shroomish = Lv 3/5
+01-Blipbug = Lv 3/4/6
+02-Chikorita = Lv 5
+03-Fletchling = Lv 3
+04-Foongus = Lv 3
+05-Impidimp = Lv 3
+06-Paras = Lv 3/4
+07-Sewaddle = Lv 2
+08-Shroomish = Lv 3/5
+09-Skwovet = Lv 4
+10-Spinarak = Lv 5
 
 *Tenho
 
 Rota 116:
--Grubbin = Lv 6
--Scorbunny = Lv 3
--Slakoth = Lv 6
--Stufful = Lv 5
--Surskit = Lv 9
--Venonat = Lv 6
+01- Cascoon = Lv 8
+02- Growlithe = Lv 6
+03- Grubbin = Lv 6
+04- Metapod = Lv 8
+05- Nickit = Lv 5
+06- Silcoon = Lv 8
+07- Scorbunny = Lv 3/6
+08- Slakoth = Lv 6/9
+09- Stufful = Lv 5
+10- Surskit = Lv 9
+11- Venonat = Lv 6
 
 *Tenho 
 
 Rusturf Tunnel 
--Diglett = Lv 7
--Geodude = Lv 6
--Rockuff = Lv 5
--Rolycoly = Lv 4
--Whismur = Lv 5
+01- Diglett = Lv 7
+02- Geodude = Lv 6
+03- Rockuff = Lv 5
+04- Rolycoly = Lv 4
+05- Slowpoke = Lv 5
+06- Whismur = Lv 5
 
 *Tenho	Geodude
 	 
+Ginásio : 
+		1 = Lunatone 18
+Grass Knot
+Icy Wind
+Psywave
+Weather Ball
+		2 = Lycanroc Dusk Form 18
+Accelerock
+Fire Fang
+Zen Headbutt
+		3 = Arcanine Alola 18
+Flame Charge
+Rock Blast
+		4 = Aerodactyl @Pressure
+Bulldoze
+Dual Wing Beat
+Thunder Fang
+Rock Blast
+		5 - Graveler Alola
+Bulldoze
+Rock Blast
+Thunderpunch
+
+1 = Water Grass Ground Bug Ghost Dark Steel
+2 = Water Grass Fight Ground Steel
+4 = Water Electric Ice Rock Steel

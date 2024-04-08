@@ -1,0 +1,12 @@
+Primarina @ Choice Specs
+Water Fairy - UU
+Ability: Torrent
+EVs: 40 HP / 252 SpA / 216 Spe
+Modest Nature
+- Hydro Pump
+- Moonblast
+- Sparkling Aria
+- Psychic
+
+Visão geral
+Primarina é um temível wallbreaker na tier UU, possuindo um alto stat de Special Attack que é complementado muito bem por seu fantástico tipo ofensivo e defensivo em Water/Fairy. Sua digitação junto com seu sólido bulk special natural lhe permite lidar com Hydreigon de forma confiável , bem como golpes estomacais de ameaças como Moltres , Chandelure e Mega Pidgeot e nocauteá-lo em troca. No entanto, Primarina acaba sendo prejudicado por seu fraco stat de Defense, piorando seu matchup mano-a-mano contra Pokémon comuns como Mega Aerodactyl , Scizor e Dragon Dance Mega Altaria . Além disso, devido ao seu baixo stat de Speed, Primarina é frequentemente forçada a sofrer dano para escapar de seus próprios ataques, limitando sua longevidade em combinação com sua vulnerabilidade a todos os entry hazards.

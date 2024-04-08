@@ -1,5 +1,7 @@
 https://www.poke-blast-news.net/p/jogos-pokemon.html
 
+https://br.ign.com/pokemon-sun-and-moon/43091/feature/guia-de-pokemon-competitivo-1-como-criar-um-monstrinho-poderoso
+
 ---Aprendendo Pokemon---
 
 Informações 
@@ -13,6 +15,7 @@ Ability
 Item
 Terrenos
 Clima
+Imunidades : Toxic, Spore, Ground, Electric
 
 Outros :
     Pokemon inicial
@@ -25,6 +28,15 @@ Outros :
     Pokémon Bebê
     Fósseis
     Formatos de Batalha
+
+Ginásios :
+
+https://pokeportuga.pt/outras/lideres-de-ginasio/kanto/#google_vignette
+
+Obediência :
+
+https://www.poke-blast-news.net/2023/02/obediencia-jogos-pokemon.html
+https://pokemon.fandom.com/wiki/Gym_Badges
 
 ---Aula 00 Pokemon
 

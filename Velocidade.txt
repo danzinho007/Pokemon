@@ -1,0 +1,20 @@
+Pokémon Velocidade :
+
+Minior    120
+Archeops  110
+Charizard 100
+Klinklang 090
+Heracross 085
+Milotic   081
+Mamoswine 080
+Venusaur  080
+Tyrantrum 071
+
+Primarina 060 <<<
+Weezing   060
+Golurk    055
+Aggron    050
+Lurantis  045
+Probopass 040
+Steelix   030
+Gigalith  025

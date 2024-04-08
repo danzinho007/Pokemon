@@ -1,0 +1,8 @@
+-Dragapult : 
+Dragon Ghost
+
+Atq 120
+SpcAtq 100
+Speed 142
+
+Thunderbolt

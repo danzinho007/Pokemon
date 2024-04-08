@@ -1,0 +1,8 @@
+Blaziken @ Blazikenite
+Ability: Speed Boost
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Swords Dance
+- Flare Blitz
+- Low Kick
+- Stone Edge

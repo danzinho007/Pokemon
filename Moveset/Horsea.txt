@@ -1,0 +1,8 @@
+Horsea
+- Surf
+- Blizzard
+- Agility
+- Smokescreen
+
+Bubblebeam = Spc 64
+Twister    = Spc 40

@@ -1,0 +1,18 @@
+https://pokemondb.net/pokedex/all
+
+Base stats :
+
+Temos atualmente 1025 pokémon
+1025 | 2
+ 02  | 512,5 Média de Stats
+ 005 |
+ 001 |
+ 0
+
+100 + = Muito fraco
+200 + = Fraco
+300 + = Básico ou Nível Inferior
+400 + = Comum ou Equilibrado
+500 + = Poderoso ou Forte
+600 + = Mítico ou Lendário
+700 + = 

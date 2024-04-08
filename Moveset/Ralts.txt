@@ -1,3 +1,11 @@
+Ralts > Krilia > Lv 30 Gardevoir
+               > Dawn Stone Male > Gallade
+            
+Nature : Timid ( + SpA - Atq )
+Ability : Trace
+Item : Choice Scarf
+EVs 4 Def 252 SpA 252 Spe
+
 Moveset :
 
 Ralts :

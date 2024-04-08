@@ -1,0 +1,12 @@
+Dusknoir : Ghost
+
+Atq 100
+Def 135
+SpD 135
+
+Moves :
+Earthquake
+
+Fraqueza :
+Ghost 
+Dark

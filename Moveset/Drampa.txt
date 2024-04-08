@@ -1,0 +1,8 @@
+Drampa @ Choice Specs
+Ability: Sap Sipper
+EVs: 140 HP / 252 SpA / 116 Spe
+Modest Nature
+- Draco Meteor
+- Hyper Voice
+- Fire Blast
+- Focus Blast

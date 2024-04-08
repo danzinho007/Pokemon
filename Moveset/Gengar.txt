@@ -1,0 +1,8 @@
+Gengar @ Gengarite
+Ability: Cursed Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Wave = não pode
+- Icy Wind
+- Thunder

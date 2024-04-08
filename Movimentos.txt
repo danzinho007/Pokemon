@@ -1,14 +1,33 @@
 Movimentos :
 
+https://pokemondb.net/move/generation/1
 https://www.poke-blast-news.net/2013/07/tipo-rock-pedra.html
 https://www.poke-blast-news.net/2013/07/tipo-ground-terra.html
 
 Geração- Nome- Tipo- Categoria- Poder- Precisão- PP- Descrição
 
+---Letra A
+
+Aceelerock 
+User attacks first.
+
 ---Letra B
 
-5- Bulldoze- Terra- Físico- 60- 100%-20 O usuário bate em tudo ao seu redor pisando no chão. Isso diminui a estatística de velocidade daqueles atingidos.
+5- Bulldoze- Terra- Físico- 60- 100%-20 
+O usuário bate em tudo ao seu redor pisando no chão. Isso diminui a estatística de velocidade daqueles atingidos.
+
+---Letra F
+
+6- Freeze-Dry- Gelo- Especial- 70 100% 20 
+Causa dano e tem 10% de chance de congelar o alvo. Ao contrário de outros movimentos do tipo Gelo , ele causa dano supereficaz a Pokémon do tipo Água , mesmo durante Batalhas Inversas ou se o usuário tiver a Habilidade Normalizar 
+
+---Letra M
+
+Moonblast = May lower opponent's Special Attack.
 
 ---Letra R
 
-3- Rock Blast- Pedra- Físico- 25- 90%- 10- O usuário arremessa pedras duras no alvo. Duas a cinco pedras são lançadas em uma fileira.
+3- Rock Blast- Pedra- Físico- 25- 90%- 10- 
+O usuário arremessa pedras duras no alvo. Duas a cinco pedras são lançadas em uma fileira.
+
+---Letra U

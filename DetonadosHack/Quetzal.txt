@@ -1,0 +1,32 @@
+Antidoto   = 43
+Iv Max     = 72
+Poção      = 28 ao 32
+Pokebola   = 01 ao 27
+Rare Candy = 102
+Timid Mint = 97
+
+Nature :
+Timid = 10
+
+Moves : 832
+AxeKick = 781
+DragonPulse = 406
+DragonTail = 525
+Earthquake = 89
+Fake Out = 252
+Mega Drain = 72
+Overdrive = 714
+Protect = 182
+Rest = 156
+Rock Tomb = 317
+Rollout = 205
+SelfDestruct = 120
+Thunderbolt = 85
+
+Butterfree Lv 10 @Leftover
+Tinted Lens / Timid
+4 Def 252 SpA 252 Spe
+Move 1	Quiver Dance Lv 47
+Move 2	Sleep Powder Lv 13
+Move 3	Bug Buzz Lv 31
+Move 4	Protect TM
