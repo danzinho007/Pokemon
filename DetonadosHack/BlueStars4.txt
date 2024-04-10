@@ -1,0 +1,39 @@
+Pokémon Blue Stars 4 
+
+3 idiomas
+Level Cap = S ou N
+Dificuldade = Normal, Hard e Expert
+
+Senhas : r291456 
+
+Legenda :
+1- Peace City
+2- Rota 1
+3- Rota 1 Ato 2
+4- Brave City
+
+Missões :
+
+1 : 10x Cheri Berry = Lucy Egg
+1 : 15x Star Coin = 3 Inicias
+2 : 3x Burn Heal = 10x Star Coin + 1x Itemfinder
+2 : Resgatar o Skitty = 15x Star Coin
+2 : Troca Mareep = Emolga
+3 : Troca Milcery = Shroomish
+3 : Dustox = 10x Star Coin
+3 : Troca qlq = Dedenne
+4 : Beautifly = ???
+4 : Troca qlq = Misdreavus
+4 : 3x Rare Candy = 10x Attack
+4 : 15x Star Coin = 3 Inicias
+
+0-Exp share
+1-Mapa Novo
+2-Mostra os tipos dos pokémon na batalha
+3-Sistema de Berry em árvore
+4-Pokémon da Rota
+5-Missões
+6-Trocas 
+7-Equipe Rival Team Cosmic
+8-Sistema de Senha
+9-Líder do ginásio especializado em 3 tipos, você escolhe

@@ -114,6 +114,7 @@ Rusturf Tunnel
 *Tenho	Geodude
 	 
 Ginásio : 
+
 		1 = Lunatone 18
 Grass Knot
 Icy Wind

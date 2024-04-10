@@ -1,12 +1,13 @@
-Dusknoir : Ghost
+https://www.smogon.com/dex/sm/pokemon/dusknoir/
 
-Atq 100
-Def 135
-SpD 135
+---Dusknoir---
 
-Moves :
-Earthquake
-
-Fraqueza :
-Ghost 
-Dark
+Tipo Ghost
+Item : Darkinium Z
+Ability: Frisk
+EVs: 252 HP / 112 Atk / 144 Def
+Relaxed Nature
+- Trick Room
+- Will-O-Wisp
+- Brick Break
+- Memento

@@ -1,4 +1,14 @@
-Ponyta 
+---Rapidash---
+
+Tipo : Fogo 
+Item : Firium Z / Life Orb
+Ability: Flash Fire / Flame Body
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Wild Charge
+- High Horsepower > WillOWisp
+- Morning Sun > Protect
 
 Tackle 
 5-Growl 

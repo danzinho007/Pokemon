@@ -1,0 +1,16 @@
+Bug  = Kanto , Unova
+Dragon = Johto , Unova
+Eletric = Kanto , Hoenn > Sinnoh > Unova > Kalos
+Fighting = Kanto , Hoenn > Sinnoh 
+Fire = Kanto , Hoenn
+Fly = Kanto , Hoenn , Unova 
+Ghost = Kanto , Sinnoh ,
+Grass = Kanto , Sinnoh 
+Ground = Kanto , Unova  
+Ice = Kanto , Sinnoh > Unova 
+Normal = Kanto , Hoenn , Unova
+Poison
+Psychic = Kanto , Hoenn
+Rock = Kanto , Hoenn > Sinnoh
+Steel = Kanto , Sinnoh , 
+Water = Kanto , Hoenn > Sinnoh > Unova

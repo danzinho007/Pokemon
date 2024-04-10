@@ -1,0 +1,337 @@
+Meu time 
+
+-Axew Dragão Força 203
+Dragão = 2 casas
+-Sneasel Escuridão e Gelo
+Escuridão = 1 casa
+-Staraptor Normal e Voador
+Voador = 1 casa em volta
+-Beedrill Inseto Veneno
+Inseto = 2 casas
+-Ekans Veneno
+Veneno = 2 casas
+-Jigglypuff Normal
+Normal = 1 casa
+-Pikachu Elétrico
+Elétrico = 03 casas horizontais
+-Shieldon Pedra/Aço
+Aço = 2 casas
+
+
+Nene Força 432
+-Croagunk Veneno/Lutador
+Veneno = 1 casa 
+-Axew Dragão
+Dragão = 2 casas
+-Joltik Inseto/Elétrico
+Elétrico = 01 casa
+-Pichu Elétrico
+Elétrico = 2 casas
+-Sewaddle Inseto/Planta
+Inseto = 1 casa
+
+Não usar : 
+-Água   ( Elét x2 )
+-Dragão ( Drag x2 )
+-Escuri ( Inse x2 ) 
+-Planta ( Vene x2 Inse x2 )
+-Psíqui ( Inse x2 )
+-Voador ( Elét x2 )
+
+x2
+e2000200 00000010
+e3570006 20800001
+30800081 ea01bc83
+5206f418 e59fc008
+0206f41c eafe4377
+d2000000 00000000
+
+x4
+e2000200 00000010
+e3570006 20800001
+30800101 ea01bc83
+5206f418 e59fc008
+0206f41c eafe4377
+d2000000 00000000
+
+x8
+e2000200 00000010
+e3570006 20800001
+30800181 ea01bc83
+5206f418 e59fc008
+0206f41c eafe4377
+d2000000 00000000
+
+
+x16
+e2000200 00000010
+e3570006 20800001
+30800201 ea01bc83
+5206f418 e59fc008
+0206f41c eafe4377
+d2000000 00000000
+
+Fix Code
+5380e000 00000000
+d3000000 02100000
+f380e000 00001000
+d2000000 00000000
+6380e000 00000000
+023ff1d8 0380e000
+d2000000 00000000
+
+Principal
+00000000 00000000
+00000000 00000001
+00000000 00000000
+00000000 00000000
+00000000 00000000
+00000000 023ff090
+00000000 023ff190
+00000000 02100000
+
+1-Reino de Aurora
+2-Koroku = Companheiro de Hideyoshi
+3-Nagayasu = Companheiro de Hideyoshi
+4-Ignis = Tipo Fogo - Líder Hideyoshi
+5-Região de Ransei = 17 reinos
+6-Warlord 
+7-Hideyoshi = Líder de Ignis
+10-Masanori
+14-Greenleaf = Tipo Grama = Líder Motonari
+15-Fontaine = Tipo Água - Líder Motochika
+16-Farm
+17-Cave
+18-Shop
+19-Ponigiri Shop = Aumenta Energia do Pokémon
+20-Rikyu 
+
+Chikamasa = Companheiro de Motochika
+Hideaki
+-Kenshin = Psíquico 1.203
+Recomendado : Inseto e Mal 
+Não usar : Lutador e Veneno
+Usei : Charizard 
+
+Kotarõ = Líder de Yaksha 1.523
+Tipo : Escuridão
+Recomendado : Inseto e Lutador 
+Não usar : Psíquico
+
+-Morichika 77/36/83/5/Water/
+Eagle Eye( Acerto 3 turno )
+Wooper 70%
+
+-Masamune = Líder de Avia 1.733 
+Recomendado : Elétrico , Gelo e Pedra 
+Não usar : Terra
+
+-Motoharu = Companheiro de Motonari
+Motonari
+
+-Nene = Líder de Viperia
+Tipo : Veneno
+Recomendado : Psíquico e Terra
+Não usar : Planta
+
+-Nõ = Líder de Spectra 1.890
+Tipo : Fantasma
+Recomendado : Escuridão
+Não usar : Normal e Lutador
+
+Nobuchika = Panpour 70%
+Nobunaga = 
+Norishige
+Takakage = Companheiro de Motonari
+Takamoto = Companheiro de Motonari
+Takanobu = 
+Takayori 
+
+Ujiyasu = Líder de Cragspur 1.300
+
+
+Tipo de Evolução	Método	Pokémons
+
+Standard	Evoluem após alcançarem determinados pontos nos stats	A maioria deles
+
+Item	Coloque no pokémon a evoluir e batalhe com o mesmo	Pikachu, Jigglypuff, Munna, Minccino,
+Kirlia, Snorunt, Lampent, Cottonee, Petilil,
+Eevee, Pansage, Pansear, Panpour,
+Sneasel, Rhydon, Dusclops, Scyther e Onix
+
+Link (União)	Evoluem até uma porcentagem específica ser alcançada	Igglybuff, Pichu, Chingling, Riolu, Golbat e Munchlax
+
+Ambiental	Após chegar ao Link ou stats desejado,
+vá até a nação específica e entre em uma batalha.	Por Link:
+Eevee paraEspeon – Illusio
+Eevee paraUmbreon – Yaksha
+Por Stats:
+Eevee paraLeafeon – Greenleaf
+Eevee paraGlaceon – Nixtorm
+
+Combatendo Warlords	Após alcançar um determinado Link, batalhe com um Warlord em qualquer nação	Machoke, Kadabra, Boldore, Gurdurr, Haunter
+
+Pokemon	Evoluções	Critério para Evoluir
+
+Eevee	 
+
+Espeon	Evolui quando percentagem da ligação é de 70% em Illusion
+Flareon	Evolui com a Fire Stone
+Glaceon	Evolui quando status de Attack é 91 em Nixtorm
+Jolteon	Evolui com a Thunderstone
+Leafeon	Evolui quando status Defense é de 94 em Greenleaf
+Umbreon	Evolui quando percentagem da ligação é de 70% em Yaksha
+Vaporeon	Evolui com a Water Stone
+
+Ralts	 Kirlia	Evolui quando status de Attack é 44
+Kirlia	 Gallade	Evolui com uma Dawn Stone. Deve ser utilizado por um Warlord masculino
+Gardevoir	Evolui quando status de Attack é 75
+
+Magikarp	 Gyarados	Evolui quando status de Attack é 16
+ 
+Pichu	 Pikachu	Evolui quando percentual da ligação é de 50%
+Pikachu	 Raichu	Evolui com a Thunderstone
+ 
+Wooper	 Quagsire	Evolui quando status de HP é 94
+
+Igglybuff	 Jigglypuff	Evolui quando percentual da ligação é de 50%
+Jigglypuff	 Wigglytuff	Evolui com a Moon Stone
+
+Zubat	 Golbat	Evolui quando status de Speed é 55
+ Golbat	 Crobat	Evolui quando percentual da ligação é de 65%
+
+Starly	 Staravia	Evolui quando status de Speed é 48
+ Staravia	 Staraptor	Evolui quando status de Attack é 92
+
+Bidoof	 Bibarel	Evolui quando status de Attack é 39
+
+Venipede	 Whirlipede	Evolui quando status de Defense é 50
+ Whirlipede	 Scolipede	Evolui quando status de Speed é 57
+
+Shinx	 Luxio	Evolui quando status de Attack é 35
+ Luxio	 Luxray	Evolui quando status de Attack é 95
+
+Litwick	 Lampent	Evolui quando status de Attack é 84
+ Lampent	 Chandelure	Evolui com a Dusk Stone
+
+Roggenrola	 Boldore	Evolui quando status de Defense é 59
+ Boldore	 Gigalith	Evolui quando percentual da ligação é de 60%. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+
+Petilil	 Lilligant	Evolui com a Sun Stone
+
+Mareep	 Flaaffy	Evolui quando status de Attack é 53
+
+Flaaffy	 Ampharos	Evolui quando status de Attack é 90
+
+Cottonee	 Whimsicott	Evolui com a Sun Stone
+
+Riolu	 Lucario	Evolui quando percentual da ligação é de 50%
+
+Chingling	 Chimecho	Evolui quando percentual da ligação é de 50%
+ 
+Ekans	 Arbok	Evolui quando status de Attack é 59
+ 
+Pineco	 Forretress	Evolui quando status de Defense é 73
+ 
+Meowth	 Persian	Evolui quando status de Speed é 96
+ Spheal	 Sealeo	Evolui quando status de HP é 138
+ Sealeo	 Walrein	Evolui quando status de HP é 195
+ 
+Gothita	 Gothorita	Evolui quando status de Defense é 70
+ Gothorita	 Gothitelle	Evolui quando status de Defense é 106
+ 
+Sandile	 Krokorok	Evolui quando status de Attack é  80
+ 
+Krokorok	 Krookodile	Evolui quando status de Attack é 110
+ Duskull	 Dusclops	Evolui quando status de Defense é 104
+ Dusclops	 Dusknoir	Evolui com uma Reaper Cloth. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+ Munna	 Musharna	Evolui com a Moon Stone
+ 
+Blitzle	 Zebstrika	Evolui quando status de Speed é 81
+ 
+Dratini	 Dragonair	Evolui quando status de Attack é 60
+ Dragonair	 Dragonite	Evolui quando status de Attack é 132
+ 
+Larvitar	 Pupitar	Evolui quando status de Attack é 74
+ Pupitar	 Tyranitar	Evolui quando status de Attack é 132
+ 
+Beldum	 Metang	Evolui quando status de Defense é 64
+ Metang	 Metagross	Evolui quando status de Attack é 111
+ 
+Gible	 Gabite	Evolui quando status de Attack é 44
+ Gabite	 Garchomp	Evolui quando status de Attack é 136
+ 
+Croagunk	 Toxicroak	Evolui quando status de Attack é 81
+ Deino	 Zweilous	Evolui quando status de Attack é 72
+ Zweilous	 Hydreigon	Evolui quando status de Attack é 143
+ 
+Snorunt	 Froslass	Evolves with a Dawn Stone. Must be used by a female Warlord
+ Glalie	Evolui quando status de HP é 128
+ Minccino	 Cinccino	Evolui com a Shiny Stone
+ 
+Machop	 Machoke	Evolui quando status de Attack é 86
+ Machoke	 Machamp	Evolui quando percentual da ligação é de 60%. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+ 
+Timburr	 Gurdurr	Evolui quando status de Attack é 81
+ Gurdurr	 Conkeldurr	Evolui quando percentual da ligação é de 60%. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+ 
+Cubchoo	 Beartic	Evolui quando status de Attack é 73
+ Oshawott	 Dewott	Evolui quando status de Attack é 54
+ Dewott	 Samurott	Evolui quando status de Attack é 104
+ 
+Charmander	 Charmeleon	Evolui quando status de Attack é 50
+ Charmeleon	 Charizard	Evolui quando status de Attack é 83
+ 
+Gastly	 Haunter	Evolui quando status de Attack é 99
+ Haunter	 Gengar	Evolui quando percentual da ligação é de 60%. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+ 
+Chimchar	 Monferno	Evolui quando status de Speed é 48
+ Monferno	 Infernape	Evolui quando status de Speed é 102
+ Snivy	 Servine	Evolui quando status de Speed é 54
+ Servine	 Serperior	Evolui quando status de Speed é 104
+ 
+Tepig	 Pignite	Evolui quando status de Attack é 41
+ Pignite	 Emboar	Evolui quando status de Attack é 115
+ 
+Sewaddle	 Swadloon	Evolui quando status de Defense é 60
+ Swadloon	 Leavanny	Evolui quando percentual da ligação é de 65%
+ 
+Abra	 Kadabra	Evolui quando status de Attack é 83
+ Kadabra	 Alakazam	Evolui quando percentual da ligação é de 55%. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+ 
+Treecko	 Grovyle	Evolui quando status de Speed é 58
+ Grovyle	 Sceptile	Evolui quando status de Speed é 118
+ 
+Piplup	 Prinplup	Evolui quando status de Attack é 51
+Prinplup	 Empoleon	Evolui quando status de Attack é 102
+ 
+Pansage	 Simisage	Evolui com a Leaf Stone
+ Pansear	 Simisear	Evolui com a Fire Stone
+ Panpour	 Simipour	Evolui com a Water Stone
+ 
+Darumaka	 Darmanitan	Evolui quando status de Attack é 110
+ 
+Axew	 Fraxure	Evolui quando status de Attack é 113
+ Fraxure	 Haxorus	Evolui quando status de Attack é 173
+ Joltik	 Galvantula	Evolui quando status de Speed é 84
+ Aron	 Lairon	Evolui quando status de Defense é 83
+ Lairon	 Aggron	Evolui quando status de Defense é 130
+ Drilbur	 Excadrill	Evolui quando status de Attack é 97
+ Zorua	 Zoroark	Evolui quando status de Attack é 90
+ Skorupi	 Drapion	Evolui quando status de Defense é 90
+ Pawniard	 Bisharp	Evolui quando status de Attack é 118
+ Rhyhorn	 Rhydon	Evolui quando status de Attack é 108
+ Rhydon	 Rhyperior	Evolui com um Protector. Você deve acertar o golpe final em um inimigo Pokemon de um Guerreiro
+ Shieldon	 Bastiodon	Evolui quando status de Defense é 113
+ Scraggy	 Scrafty	Evolui quando status de Defense é 86
+ Drifloon	 Drifblim	Evolui quando status de HP é 146
+ Rufflet	 Braviary	Evolui quando status de Attack é 119
+ Anorith	 Armaldo	Evolui quando status de Attack é 116
+ Larvesta	 Volcarona	Evolui quando status de Attack é 131
+ Onix	 Steelix	Evolui com um Metal Coat. Você deve aterrar o golpe final em um inimigo Pokemon de um Guerreiro
+ Munchlax	 Snorlax	Evolui quando percentual da ligação é 50%
+ Sneasel	 Weavile	Evolui quando status de Speed é de 175 e com uma Razor Claw
+ Misdreavus	 Mismagius	Evolui com a Dusk Stone
+ Scyther	 Scizor	Evolui com um Metal Coat. Você deve aterrar o golpe final em um inimigo Pokemon de um Guerreiro
+
+

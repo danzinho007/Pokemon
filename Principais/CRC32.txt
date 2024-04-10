@@ -43,14 +43,18 @@ Blue USA :        D6DA8A1A ( OK ) OK
 Greeen JAP :      E4468D14 ( OK )
 Red UE :          9F7FDD53 ( OK )
 Yellow USA :      7D527D62 ( OK )
+
 -Hackrom :
 Azul      : 4C62ADC7
 Blue      : CFE071C8
+Blue (2)  : FEFC5E86
 Blue BR   : 2A948DAA
+BluePatch : 4533B550
 Brown     : 926EE644
 Green     : 46885EC0
 PerfectRed: 4A935F2F
 Prime     : 6B42FF20
+Red       : E3BDF903
 RedPlus   : 3A10014B
 Remixed B : C334DA02
 Remixed R : 239F1B7A

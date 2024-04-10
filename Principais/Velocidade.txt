@@ -18,3 +18,20 @@ Lurantis  045
 Probopass 040
 Steelix   030
 Gigalith  025
+
+Jogo :
+
+Gengar     350
+Ampharos   ???
+Heatran    ???
+Charizard  328
+Salamence  289
+Buttefree  262
+Blaziken   259
+Primarina  210
+Venusaur   197
+Vaporeon   167
+Drampa     137
+Ferrothorn 120
+
+Dragapult = SS / SV

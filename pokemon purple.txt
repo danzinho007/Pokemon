@@ -1,0 +1,43 @@
+Vídeos 
+
+303 = parte 1 
+039 =
+779 = parte 2
+745 = parte 3
+
+Rota Guru
+
+Grubbin Lv 2  = OK 17 exp
+Lillipup Lv 2  = OK 15 exp
+Patrat Lv 2-3 = OK 21/32 exp
+Pidgey Lv 3 = OK 32 exp
+Pidove Lv 2 = OK 15 exp
+Torchic Lv 2 = 
+Weedle Lv 3 = OK 22 exp
+Yungoos Lv 3 = OK 21 exp
+Zorua Lv 3 = OK 77 exp
+
+Lago Shiry
+
+Bounsweet Lv 3 = OK
+Ducklett Lv 3 = 38 exp (2x)
+Hoothoot Lv 3 = 24 exp
+Oshawott Lv 2 = Ok 
+Pikachu Lv 3 = OK 35 exp
+Shroomish Lv 4 = ok
+Tangela Lv 3 = Ok 71 exp
+Wingull Lv 3 = (2x)
+Zorua Lv 2-5 = 51/128 exp
+
+
+-Oshawott(Água)
+Careful
+
+-Tangela(Planta)
+Bold
+
+-Torchic(Fogo)
+Gentle
+
+-Zorua(Fantasma)
+Docile 
