@@ -1,0 +1,157 @@
+
+Lista :
+
+Abra
+Alakazam
+Articuno
+
+Blaziken = OK
+Butterfree = OK
+
+Charmander
+Charizard
+Crobat = 
+
+Dragapult = Falta
+Drampa = OK
+Dusknoir = OK
+
+Eevee = OK
+Espeon = 
+
+Feraligator = 
+Ferrothorn = OK
+
+Gastly = 
+Gengar = OK
+
+Hitmoncham
+Horsea = Falta
+
+Ivysaur = 
+
+Jolteon
+
+Lapras
+Latios = 
+
+Magnemite
+Mamoswine
+Mew
+Mewtwo
+Moltres = 
+
+Nidoran F
+Nidoran M
+
+Oshawott 
+Pachirisu = OK
+Pikachu
+
+Ponyta = OK
+Primarina = OK
+Q
+
+Raichu = 
+Ralts
+Rowlet
+
+Sandshrew
+Snivy = 
+Snorlax
+Starmie
+Staryu
+
+Tauros
+
+U
+
+Vaporeon = OK
+
+Wartortle = 
+
+X
+
+Zapdps
+Zecrom
+Zubat = 
+
+Classificando :
+
+Iniciais 
+Aves Regionais
+Roedores Regionais
+Insetos Regionais
+Roedores Elétricos
+Extraterrestre
+Planta com aparência feminina
+Fada que parece Planta
+Baseados em comida / bebida
+Humanoide Psíquico
+Humanoide Lutador
+Artificiais
+Peixe
+Duplicam / Triplicam
+Golens
+Pyukumuku / Pincurchin / Snom
+Bebês
+Incompatíveis com TMs
+Fósseis
+Formas Regionais
+Fakes Regionais
+Psudo-Lendários
+Lendário
+Míticos
+Ultra Beasts
+Paradoxos
+Titãs Lendários
+Gênios Lendários
+Lendários Mosqueteiros
+Tesouro da Ruína
+Trio Lendário
+Dupla de Lendário
+
+Iniciais :
+
+Bulbasaur - Chikorita  - Treecko   - Turtwig   - Snivy
+Ivysaur   - Bayleef    - Grovyle   - Grotle    - Servine
+Venusaur  - Meganium   - Sceptile  - Torterra  - Serperior
+Charmander- Cyndaquil  - Torchic   - Chimchar  - Tepig
+Charmeleon- Quilava    - Combusken - Monferno  - Pignite
+Charizard - Typhlosion - Blaziken  - Infernape - Emboar
+Squirtle  - Totodile   - Mudkip    - Piplup    - Oshawott
+Wartortle - Croconaw   - Mashtomp  - Prinplup  - Dewott
+Blastoise - Feraligator- Swampert  - Empoleon  - Samurott
+
+Lendários :
+Articuno - Raikou
+Zapdos   - Entei
+Moltres  - Suicune
+Mew      - Lugia
+Mewtwo   - Ho-oh 
+         - Celebi 
+
+Aves Regionais :
+Pidgey
+Pidgeotto
+Pidgeot
+Spearow
+Fearow
+Hoothoot
+Noctowl
+Taillow
+Swellow
+Wingull
+Pelipper
+Starly
+Staravia
+Staraptor
+Pidove
+Traquill
+Unfezant
+Fletchling
+Fletchinder
+Talonflame
+Pikipek
+Trumbeak
+Toucannon

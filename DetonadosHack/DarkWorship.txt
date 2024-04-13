@@ -1,0 +1,10 @@
+Motivos :
+1- PT-BR
+2- 4 Modos de dificuldade
+3- Level cap Sim ou não
+4- 8 Geração de Iniciais
+5- Região Nova
+6- Placa que informa os pokémon da rota
+7- Mostra o tipo dos pokémon em batalha
+8- Mostra a efetividade de cada golpe
+9- Missões

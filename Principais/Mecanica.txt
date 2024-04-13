@@ -1,0 +1,107 @@
+1- 8 pokémon no time
+OK
+2- 9° Geração
+OK
+3- Animação antes da batalha editada
+OK
+4- Competitivo = Foco em ganhar batalhas pra comprar pokémon ( pode ser em Batalha da Fronteira ou 3x3 ), também tem hackrom que disponibiliza todos pra pessoa escolher
+OK
+5- Conquistas
+OK
+6- Dexnav
+OK
+7- Diálogo mostrando o personagem : 2 opções 
+OK
+8- Em batalha : Mostrar Tipo de Golpe, quanto de dano ele dá, porcentagem de acerto e o PP
+OK
+9- Em batalha Mostra Golpe Efetivo contra o Pokémon Adversário : Falta FOTO mas tem hackrom assim
+OK
+10- Em batalha : Mostrar Tipo do Pokémon Adversário
+11- Efetividade dos golpes
+OK
+11- Emulador não suportado
+OK
+12- Escolher em qual cidade vai começar
+OK
+12- Estátua pokémon 
+OK
+13- Expansão da Box = 50 
+OK 50
+14- Informações sobre o save
+OK
+15- Inicial aleatório = Precisa ficar resetando pra mudar
+OK
+16- Inserção de caracteres chineses
+OK
+17- Inserção de outras franquias ( Digimon Maple Story ) no jogo 
+OK 2
+18- Lançar pokebola sem precisar clicar no Inventário
+OK
+19- Level acima de 100 ( tem hackrom que você ultrapassa o 100 mas tem aquelas que só o oponente ultrapassa ) : Falta FOTO mas tem hackrom assim
+21- Mapa no Menu
+OK
+20- Mega Evolução em Batalha ou Permanente : Falta FOTO mas tem hackrom assim
+21- Menu alterado 
+OK 2
+21- Missões Principais e Secundárias
+- ( 2 tipos )
+OK 1 
+22- Mistery Gift
+OK
+23- Modos de Jogo :
+2 Player
+Caverna
+Challenge
+Deslizante
+Dificuldade
+Level Cap
+Marowak
+Multiplicar Exp
+Normal
+New Game +
+Nuzlocke
+Randomizer 
+Sem HUD ( 2 opções )
+
+Cheats, 2 Player, Sem HUD, NoExp, Little Cup e Lv 100
+25- Mundo aberto
+OK
+26- Música : Escolher qual quer escutar
+OK
+27- Novos Tipos 
+OK
+28- Placa informando quais pokémon tem na rota ( seja andando, quanto por headbutt ou surf )
+OK
+30- Pokedex : Mostra o pokémon anterior ao que você capturou
+OK
+29- Pokémon Beta : Não lançados ou alterados
+OK
+30- Pokémon com cores modificadas
+OK 2
+31- Pokémon Gigante
+OK
+32- Pokémon nas Rotas : Algumas só incluem pra ficar mais bonito, outras tem como você capturar
+OK
+33- Pokémon seguindo
+OK
+34- Raid : Falta FOTO mas tem hackrom assim
+35- Rebatalhar com os treinadores quantas vezes quiser em 1 local específico
+OK 
+36- Rebatalhar com alguns treinadores quantas vezes quiser nas rotas que eles estão
+OK
+36- Senha
+OK 01
+37- Shinyzer : Você passa pelo MatoEspecial e seu próximo pokémon é Shiny
+37- Sistema de Berry ( balnçar árvore )
+OK
+38- Sistema de código / senha 
+OK
+38- Troca sem exigência
+OK
+39- Visualizar IV EV do Pokémon
+OK
+40- Wonder Trade = Falta FOTO mas tem hackrom assim
+-
+41- Veneno em algumas rotas
+OK
+45- Raid 

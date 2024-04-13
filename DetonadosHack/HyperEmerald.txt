@@ -1,32 +1,56 @@
 Pokémon Hyper Emerald 5.5 Lost Artifacts 
 
 Rota 101 :
--Caterpie = Lv 3
--Nidoran Azul = Lv 3/4/5
--Nidoran Roxo = Lv 4/5
--Lillipup = Lv 3
--Poochyena = Lv 4/5
--Totodile = Lv 2/3/4
--Weedle = Lv 2
--Wurmple = Lv 3/4/5
--Zigzagoon = Lv 2/3
--Zigzagoon alola = Lv 2
+1-Blipbug = Lv 4
+2-Caterpie = Lv 3
+3-Lillipup = Lv 3
+4-Nidoran Azul = Lv 3/4/5
+5-Nidoran Roxo = Lv 4/5
+6-Poochyena = Lv 4/5
+7-Totodile = Lv 2/3/4
+8-Weedle = Lv 2
+9-Wurmple = Lv 3/4/5
+10-Zigzagoon = Lv 2/3
+11-Zigzagoon alola = Lv 2
 
-*Tenho Wurmple 
-       Zigzagoon
+*Tenho  
+	1Blipbug
+	2Caterpie
+	3Lillipup
+	4Nidoran Azul 
+	5Nidoran Roxo
+	6Poochyena
+	7Totodile
+	8Weedle
+	9Wurmple
+    10Zigzagoon
+	11Zigzagoon alola
 
 Rota 103 :
--Budew = Lv 2/3
--Bulbasaur = Lv 2
--Kricketot = Lv 2
--Ledyba = Lv 4
--Pidgey = Lv 2/3
--Pidove = Lv 2/3
--Pikipek = Lv 3
--Starly = Lv 2/3
--Wingull = Lv 2/3
+1-Budew = Lv 2/3
+2-Bulbasaur = Lv 2
+3-Hoppip = Lv 2
+4-Kricketot = Lv 2
+5-Ledyba = Lv 4
+6-Pidgey = Lv 2/3
+7-Pidove = Lv 2/3
+8-Pikipek = Lv 3
+9-Starly = Lv 2/3
+10-Taillow = Lv 3
+11-Wingull = Lv 2/3
 
-*Tenho Starly
+*Tenho 
+	1Budew
+	2Bulbasaur
+	3Hoppip
+	4Kricketot
+	5Ledyba
+	6Pidgey
+	7Pidove
+	8Pikipek
+	9Starly
+	10Taillow
+	11Wingull
 
 Rota 102:
 -Grookey = Lv 3
@@ -124,7 +148,8 @@ Weather Ball
 Accelerock
 Fire Fang
 Zen Headbutt
-		3 = Arcanine Alola 18
+		3 = Arcanine Hisui  18
+		Fire Rock
 Flame Charge
 Rock Blast
 		4 = Aerodactyl @Pressure
@@ -133,10 +158,40 @@ Dual Wing Beat
 Thunder Fang
 Rock Blast
 		5 - Graveler Alola
+		Rock Electric
 Bulldoze
 Rock Blast
 Thunderpunch
+		6 - Drednaw
+		Water Rock
+Ice Fang
+Razor Shell
 
-1 = Water Grass Ground Bug Ghost Dark Steel
-2 = Water Grass Fight Ground Steel
+1 = Water Grass Bug Ghost Dark Steel
+	Surskit com BubbleBeam (Water) 65
+	Eevee com Bite (Dark) 60
+	Mightyena com Bite (Dark) 60
+	Ivysaur com RazorLeaf (Grass) 55
+	Zigzagoon com Snarl (Dark) 55
+2 = Lycanroc Dusk Form 18
+	Water Grass Fight Ground Steel
+	Combusken com DoubleKick (Fight) 30x2
+	Ralts = Resiste 1
+	Staravia = Resiste 1
+	Beedrill = Fail
+	Wimpod = Fail
+3 = Arcanine Hisui  18
+	Ground (4x) Water (2x) Fight Rock 
+	Mightyena com Bite (Dark) 60
+	Geodude Alola com RockThrow (Rock) 50
+	Combusken = Resiste 1
 4 = Water Electric Ice Rock Steel
+	Slowpoke com WaterPulse (Water) 60
+5 = Ground (4x) Water (2x) Grass Fight 
+	Gloom com GigaDrain (Plant) 75
+6 = Grass (4x) Electric (2x) Fight Ground
+	Mightyena com Bite (Dark) 60
+
+
+HP Atq Def 
+Sp Sa Sd 

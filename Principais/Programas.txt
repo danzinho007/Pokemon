@@ -1,0 +1,20 @@
+
+F:\Roms de Jogos\Pokemon Jogos\Original\Original Blue Version (USA, Europe) (SGB Enhanced)
+
+---Game Boy :
+
+-Attack Editor = Altera os movimentos 
+-Challenge = Altera o pokémon inicial 
+                   o pokémon do rival rival
+-g2map_v01 = Altera o mapa de GSC
+-Gym Edit = Altera os pokémon dos ginásios
+-OakIntro = Altera o pokémon que aparece na tela
+-PokeEdit = Altera os pokémon
+Experiência : 
+Quanto maior = mais difícil de upar
+Taxa de Captura : 
+Quanto maior = mais fácil capturar
+-PokeMap = Altera o mapa do jogo
+                  o evento
+                  o teleporte
+-TM Editor = pesquisar !!!!
