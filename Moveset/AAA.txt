@@ -1,5 +1,18 @@
+Exemplos :
 
-Lista :
+Nome :
+Tipo :
+Habilidade :
+Base Stats :
+HP = 
+Atq =
+Def = 
+SpA = 
+SpD =
+Spd = 
+Fraquezas :
+Moveset : 
+Treinamento :
 
 Abra
 Alakazam
@@ -14,6 +27,7 @@ Crobat =
 
 Dragapult = Falta
 Drampa = OK
+Dreepy = ???
 Dusknoir = OK
 
 Eevee = OK
@@ -37,6 +51,8 @@ Latios =
 
 Magnemite
 Mamoswine
+Mantyke = ???
+Meowstic = ???
 Mew
 Mewtwo
 Moltres = 
@@ -57,6 +73,7 @@ Ralts
 Rowlet
 
 Sandshrew
+Sawk = ???
 Snivy = 
 Snorlax
 Starmie

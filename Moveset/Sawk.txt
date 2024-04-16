@@ -1,0 +1,10 @@
+Sawk @ Fightinium Z
+Ability: Sturdy
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Close Combat
+- Knock Off
+- Taunt
+- Poison Jab
+
+Sawk consegue criar um nicho para si mesmo entre os Pokémon do tipo Fighting de RU por alguns motivos. Ele bate forte e tem uma cobertura geral sólida com moves como Knock Off e Poison Jab, e uma Speed ​​tier sólida o coloca acima de ameaças comuns do metagame, como Mega Blastoise e Nidoqueen . A habilidade Sturdy de Sawk lhe dá um grande nicho em geral como uma resposta abrangente a muitas ameaças ofensivas e também lhe permite fazer check a setup sweepers como Barbaracle em apuros. Devido à sua boa Speed ​​tier, Sawk pode se dar ao luxo de executar moves utilitários como Taunt que outros Fighting-types da tier não conseguem. Entretanto, Sawk é bastante frágil e superado por muitas ameaças ofensivas, como Swellow , Roserade e Zygarde-10% . Por fim, enfrenta competição com outros wallbreakers Fighting-type, como Flame Orb Machamp e Bewear . Por ser um Fighting-type mais rápido, ele também enfrenta concorrência de Virizion , Toxicroak , Medicham e Passimian .

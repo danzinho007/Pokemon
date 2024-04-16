@@ -1,18 +1,21 @@
-Pokémon Radical Red 
+Pokï¿½mon Radical Red 
 
-Início 8:47
+CRC32 
+4.1 = 84DC7239
+
+Inï¿½cio 8:47
 Termino 9:35
 Eu comecei : Escolhi Bulbasaur ( Total 1 )
 
-Ele começou : Pegou Charmander e Wingull ( Total 2 )
+Ele comeï¿½ou : Pegou Charmander e Wingull ( Total 2 )
 
 Eu : Peguei Panpour e Pidgey  ( Total 3 no time )
 
 Ele : Pikachu e Shroomish ( Total 4 no time )
 
-Eu : ( Não posso pegar : Charmander , Wingull , Pikachu e Shroomish )
+Eu : ( Nï¿½o posso pegar : Charmander , Wingull , Pikachu e Shroomish )
 
-Início 8:36
+Inï¿½cio 8:36
 
 Bidoof
 Budew = Rota 1,22,
@@ -53,7 +56,7 @@ Pikachu
 Scatterbug Lv 5
 Weedle
 
-Líder Falkner
+Lï¿½der Falkner
 
 Fletchling Lv 9
 Corvsquire Lv 11

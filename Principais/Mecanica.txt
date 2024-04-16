@@ -105,3 +105,19 @@ OK
 41- Veneno em algumas rotas
 OK
 45- Raid 
+
+
+Customizar o jogo
+Dificuldade
+Cheat Code 
+Escolher qual região do pokémon Inicial
+Ver IV e EV 2° forma 
+Quiz / Perguntas 
+Mudar hora do dia 
+Alterar Natureza 
+Alterar Gênero
+Jogos extras 
+Menu Extra 
+Objeto Gigante 
+Repel infinito 
+Corrida infinita 

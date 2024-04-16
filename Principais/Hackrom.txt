@@ -13,8 +13,12 @@ Capa OK
 Capa OK
 -Adventures Red Chapter =
 Capa OK
+-Africanvs = 
+
 -Altered Platinum = 
 Capa OK
+-Amalga Magenta
+
 -Ambre Rouge = 
 Capa OK
 -Apollo Version = 
@@ -51,6 +55,9 @@ Capa OK
 Capa OK
 -Battle Ultimate = OK 01
 -Battle World = ???03
+
+-Berilo
+
 -Better Than Better Emerald = ???04
 -Bizarre = 
 Capa OK
@@ -108,9 +115,12 @@ Letra C = 03
 -Cloud White 2 =
 -Clover = 
 -Complete Crystal = 
+-Completed = 
+
 -Conquest =
 -Copper =
 -Coral Island 2022 Demo v1.2 = OK 02
+-Crush = 
 -Crystal Advance = 
 -Crystal Advance Redux 08/04 = ???06
 -Crystal Clear 2.5.6 = OK 03
@@ -131,6 +141,7 @@ Letra D = 05
 -Dark Rising Order =
 -Dark Violet Final 2018 V1 = OK 03
 -Dark Worship 3.8 = OK 04
+
 -Diamond = 
 -Diamond Jade =
 -Digimon Nova Red = 
@@ -181,6 +192,10 @@ Letra F = 05
 -Fire Red Definitive Edition = 
 -Fire Red Distorted = 
 -Fire Red Extended 3.4.6 Atualização Maio 2023 = OK 03
+Região Nova
+Ger 1 até 08
+-Fire Red Hardcore Challenge
+
 -Fire Red Fat = 
 -Fire Red Legacy = 
 -Fire Red Minus = !!!
@@ -188,6 +203,8 @@ Letra F = 05
 -Flora Sky Rebirth = OK 04
 -Frontier Adventure v16.12.20 = OK 05
 -Fused Dimensions = 
+
+-Future Green = 
 
 Letra G = 03
 -Gaia v2.5-230418-024339 = OK 01
@@ -211,6 +228,8 @@ Letra I = 04
 -ice Blue 2.0 = OK 02
 -Inclement Emerald = 
 -Indigo Power Tournament vApril 25th 2021 = OK 03
+-Infinite Fusion = 
+
 -Inflamed Red (v1.0.5) = ?17
 -Inheritance_Demo_1 = ? 18
 -Intense Indigo = 
@@ -237,6 +256,7 @@ Letra M = 02
 -Manly Pink = OK 01
 -Marble Beta 2.1 = OK 02
 -Mega Power = 
+-Memories = 
 -Mirage of Tales =
 -MissingNo Challenge = 
 -Modern Emerald = 
@@ -265,53 +285,63 @@ Apenas Pokémon até a 3ª Gen
 -Normal Version Build 3.0 = 
 -NSanSBeta = 
 
-Letra O = 01
+Letra O = 02
 -Odyssey = 
--Omega Red = OK 01
--
+-Old Ruby v 1.3 = OK 01
+-Omega Red = OK 02
+-Orange = 
 
-Letra P
+Letra P = 03
 -Perfect Blue = 
--Perfect Red = OK
+-Perfect Red = OK 01
 -Personal Fire Red = ???
 -Pikamon = 
 -Pisces = 
--Platinum Pro Full = OK
+-Platinum Pro Full = OK 02
 -Polished Crystal = 
 -Prims = ?
--Purple = OK
+-Purple = OK 03
 
-Letra Q
+Letra Q = 02
 -Quartz = OK
 -Quetzal = OK
 
-Letra R
--Radical Red 4.1 = ???
+Letra R = 02
+-Radical Red 4.1 = OK 01
 -Reboot = OK
 -Regis Origin = 
 -Resolute = 
 -Rocket Edition =
+-Rowe = 
+-Ruby ++ 1.0.3 = OK 02
+-Ruby Einglocke = 
 
-Letra S
--Saiph Full v2020 = OK
+Letra S = 05
+-Sacred = 
+
+-Saiph Full v2020 = OK 01
 -Serene Crystal = 
 -Shining Victory = 
 -Shiny Gold = 
 -Shiron Castle = 
 -Sienna = 
+-Silver Yellow Hardest = 
 -Sors = 
 -Sovereign of the Skies = 
--Stone Dragon = OK
+-Stone Dragon = OK 02
 -Stone Dragon 2 = 
 -Stone Dragon 3 = 
 -Stone Dragon 4 = 
 -Sun Sky and Moon Galaxy = 
--Super Auto Pokémon Emerald = OK
--Sweet 2th = OK
--Sword Shield 9.1 PT BR = OK
+-Super Auto Pokémon Emerald = OK 03
+-Sweet 2th = OK 04
+-Sword Shield 9.1 PT BR = OK 05
 -Sword Shield Ultimate = 
 
-Letra T
+Letra T = 02
+-team_rocket_jessie_james_edition_beta_2.5 = OK 01
+-This Gym is Mine = OK 02
+
 -Tits = 
 Capa OK
 
@@ -319,6 +349,7 @@ Letra U = 01
 -
 -Ultimate Fusion = 
 -Unbound = 
+-Universe = 
 -Universe MegaEvolution = OK 01
 
 Letra V

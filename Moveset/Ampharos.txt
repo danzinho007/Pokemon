@@ -1,0 +1,14 @@
+Nome : Ampharos
+Tipo : Eletric
+Habilidade : Static / Plus
+Base Stats :
+HP = 90
+Atq = 75
+Def = 85
+SpA = 115
+SpD = 90
+Spd = 55
+Fraquezas : Ground (2x) Eletric (1/2) Fly Steel
+Moveset : 
+Treinamento :
+Lista :
