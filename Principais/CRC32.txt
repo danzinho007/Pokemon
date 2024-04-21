@@ -16,9 +16,8 @@ Ruby USA 1.0 :    FE507148 ( OK )
 Ruby USA 1.2 :    AEAC73E6 ( OK )
 Sapphire USA :    554DEDC4 ( OK )
 Emerald USA :     1F1C08FB ( OK )
-Fire Red USA 1.0: 16FC65EC ( OK )
-Fire Red USA 1.1: 84EE4776 ( OK )
-Fire Red USA 1.1: DD88761C ( OK )               
+Fire Red USA 1.0: DD88761C ( OK )       
+Fire Red USA 1.1: 84EE4776 ( OK )        
 Leaf Green USA :  D69C96CC ( OK )
 
 Diamond USA :     84427823 ( OK )
@@ -101,6 +100,17 @@ Leaf Green USA :  D69C96CC ( OK )
 -10th :                       DE1AD834
 -Aura :                       90CEC13B
 -Gold 97 Reforged (v6.0a) :   78415651
+
+
+Advanced v2 C1BF3C1B
+Advanced v3 9AD0A0C1
+Black Dark Beta? 2015 CA9BA807
+Black Dark Beta4 2018 9E691FB2
+Cloud White 2 v237 2019 6941C705
+Cloud White 2 v279 2020 FF75F457
+DeltaEmerald v?.?.? 2015 9EDEA99C
+DeltaEmerald v1.1.4 2020 2BF1544
+DeltaEmerald v1.1.5 2020 18ECBC08
 
 ---Dark Worship :
 Dark Worship 3.0 Final = 91EDD38C
@@ -262,6 +272,12 @@ Dark Worship 3.7
 🔸 Time do Lider Fighting modificado
 
 Dark Worship 3.8       = 2183FDBD
+
+-Emerald ++ 
+Antiga = 4CF627D0
+patched = A07193D
+
+Fire Red USA 1.0 f1: 16FC65EC ( OK )
 
 ---Hyper---
 -Hyper Emerald 807 [ENGLISH]: 8EFDFE71

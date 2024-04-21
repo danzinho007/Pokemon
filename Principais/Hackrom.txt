@@ -4,11 +4,12 @@ Hackrom Pokémon :
 極光石2.5A / AURORA STONE 2.5A = OK
 永恆之沫3.0 = OK
 
-Letra A = 04
+Letra A = 05
 -Accept Defeat V2 = ???01
 -Advanced Adventure 2013 Final = ???02
 -Advanced Version = 
 Capa OK
+-Advanced Version 2 = OK 01
 -Adventures in Orange Islands = 
 Capa OK
 -Adventures Red Chapter =
@@ -47,7 +48,7 @@ Capa OK
 -Axon = 
 Capa OK
 
-Letra B = 07
+Letra B = 08
 -Baby Blue = 
 Capa OK
 -Battle Factory = 
@@ -64,6 +65,7 @@ Capa OK
 -Black 2 Version Kaizo = OK 02
 Capa OK
 -black-advanced-d2 = OK 03
+-Black Dark Beta = OK 4
 -Black Dark Version = 
 Capa OK
 -Blast Burn v4.4 de 2020 = OK 04
@@ -106,13 +108,14 @@ Capa OK
 -Bushido = 
 Capa OK
 
-Letra C = 03
+Letra C = 05
 -CAOS 2 English v1.0 = ???05
+-Cerice v1.5 = OK 
 -Ceylon = 
 -Chaos Emerald v2.4c = OK 01
 -Celias Smart Romhack = 
 -Cloud White = 
--Cloud White 2 =
+-Cloud White 2 v237 = OK 05
 -Clover = 
 -Complete Crystal = 
 -Completed = 
@@ -129,7 +132,7 @@ Letra C = 03
 -Crown = 
 -Cyan =
 
-Letra D = 05
+Letra D = 06
 -Daia_beta = ???07
 -Dark Blue Beta v1.9 = ???08
 -Dark Cry The Legend Of Giratina = OK 01
@@ -140,7 +143,9 @@ Letra D = 05
 -Dark Rising 3 = 
 -Dark Rising Order =
 -Dark Violet Final 2018 V1 = OK 03
+-Dark Worship 3.0 = 
 -Dark Worship 3.8 = OK 04
+-Delta Emerald v1.1.4 = OK 06
 
 -Diamond = 
 -Diamond Jade =
@@ -291,7 +296,7 @@ Letra O = 02
 -Omega Red = OK 02
 -Orange = 
 
-Letra P = 03
+Letra P = 04
 -Perfect Blue = 
 -Perfect Red = OK 01
 -Personal Fire Red = ???
@@ -300,26 +305,28 @@ Letra P = 03
 -Platinum Pro Full = OK 02
 -Polished Crystal = 
 -Prims = ?
--Purple = OK 03
+-Pure Green = OK 03
+-Purple = OK 04
 
 Letra Q = 02
 -Quartz = OK
 -Quetzal = OK
 
-Letra R = 02
+Letra R = 05
 -Radical Red 4.1 = OK 01
--Reboot = OK
+-Reboot = OK 02
+-Red ++ Normal = OK 03
 -Regis Origin = 
 -Resolute = 
 -Rocket Edition =
--Rowe = 
--Ruby ++ 1.0.3 = OK 02
+-Rowe = OK 04
+-Ruby ++ 1.0.3 = OK 05
 -Ruby Einglocke = 
 
-Letra S = 05
+Letra S = 08
 -Sacred = 
 
--Saiph Full v2020 = OK 01
+-Saiph Full v2020 = OK 04
 -Serene Crystal = 
 -Shining Victory = 
 -Shiny Gold = 
@@ -328,14 +335,14 @@ Letra S = 05
 -Silver Yellow Hardest = 
 -Sors = 
 -Sovereign of the Skies = 
--Stone Dragon = OK 02
+-Stone Dragon = OK 05
 -Stone Dragon 2 = 
 -Stone Dragon 3 = 
 -Stone Dragon 4 = 
 -Sun Sky and Moon Galaxy = 
--Super Auto Pokémon Emerald = OK 03
--Sweet 2th = OK 04
--Sword Shield 9.1 PT BR = OK 05
+-Super Auto Pokémon Emerald = OK 06
+-Sweet 2th = OK 07
+-Sword Shield 9.1 PT BR = OK 08
 -Sword Shield Ultimate = 
 
 Letra T = 02
@@ -345,28 +352,32 @@ Letra T = 02
 -Tits = 
 Capa OK
 
-Letra U = 01
+Letra U = 02
 -
 -Ultimate Fusion = 
--Unbound = 
+-Unbound = OK 01
 -Universe = 
--Universe MegaEvolution = OK 01
+-Universe MegaEvolution = OK 02
 
-Letra V
--Verde Musgo = OK
+Letra V = 02
+-Verde Musgo = OK 01
 -Victory Fire = 
+-Volcano = OK 02
 
-Letra W
--White 2 Version Kaizo = OK
+Letra W = 02
+-White 2 Version Kaizo = OK 01
+-World Championship = OK 02
 
 Letra X
 -
--
+-X Y Version = OK 01
 -
 
-Letra Y
+Letra Y = 02
 -Yellow Cross 
--Yellow Kaizo Beta 0.4 = OK
+-Yellow Editada = OK 01
+-Yellow Kaizo Beta 0.4 = OK 02
 
-Letra Z
--Zelda Sacred Paradox = OK
+Letra Z = 02
+-Zelda Sacred Paradox = OK 01
+-Zoala v0.1.7 = OK 02

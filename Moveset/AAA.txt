@@ -14,41 +14,61 @@ Fraquezas :
 Moveset : 
 Treinamento :
 
+-Letra A
 Abra
 Alakazam
+Amaura
+Ampharos
 Articuno
 
+-Letra B
+Blastoise = 
 Blaziken = OK
 Butterfree = OK
 
+-Letra C
+Cascoon = 
 Charmander
+Charmelon = 
 Charizard
 Crobat = 
 
+-Letra D
+Dedenne = 
 Dragapult = Falta
 Drampa = OK
 Dreepy = ???
 Dusknoir = OK
 
+-Letra E
 Eevee = OK
 Espeon = 
 
+-Letra F
 Feraligator = 
 Ferrothorn = OK
 
+-Letra G
 Gastly = 
 Gengar = OK
 
+-Letra H
 Hitmoncham
 Horsea = Falta
 
+-Letra I
 Ivysaur = 
 
+-Letra J
 Jolteon
 
+-Letra K
+
+-Letra L
 Lapras
 Latios = 
 
+-Letra M
 Magnemite
 Mamoswine
 Mantyke = ???
@@ -57,21 +77,28 @@ Mew
 Mewtwo
 Moltres = 
 
+-Letra N
 Nidoran F
 Nidoran M
+Noctowl
 
+-Letra O
 Oshawott 
+
+-Letra P
 Pachirisu = OK
 Pikachu
-
 Ponyta = OK
 Primarina = OK
-Q
 
+-Letra Q
+
+-Letra R
 Raichu = 
 Ralts
 Rowlet
 
+-Letra S
 Sandshrew
 Sawk = ???
 Snivy = 
@@ -79,16 +106,22 @@ Snorlax
 Starmie
 Staryu
 
+-Letra T
 Tauros
 
-U
+-Letra U
 
+-Letra V
 Vaporeon = OK
 
+-Letra W
 Wartortle = 
 
-X
+-Letra X
 
+-Letra Y
+
+-Letra Z
 Zapdps
 Zecrom
 Zubat = 
