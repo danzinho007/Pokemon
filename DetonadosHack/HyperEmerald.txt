@@ -8,23 +8,25 @@ Rota 101 :
 5-Nidoran Roxo = Lv 4/5
 6-Poochyena = Lv 4/5
 7-Totodile = Lv 2/3/4
-8-Weedle = Lv 2
-9-Wurmple = Lv 3/4/5
-10-Zigzagoon = Lv 2/3
-11-Zigzagoon alola = Lv 2
+8-Venonat = 
+9-Weedle = Lv 2
+10-Wurmple = Lv 3/4/5
+11-Zigzagoon = Lv 2/3
+12-Zigzagoon alola = Lv 2
 
 *Tenho  
 	1Blipbug
 	2Caterpie
 	3Lillipup
-	4Nidoran Azul 
+	4Nidoran Azul = F
 	5Nidoran Roxo
 	6Poochyena
-	7Totodile
+	7Totodile = F
+	8Venonat
 	8Weedle
 	9Wurmple
     10Zigzagoon
-	11Zigzagoon alola
+	11Zigzagoon alola = F
 
 Rota 103 :
 1-Budew = Lv 2/3
@@ -41,13 +43,13 @@ Rota 103 :
 
 *Tenho 
 	1Budew
-	2Bulbasaur
-	3Hoppip
+	2Bulbasaur = F
+	3Hoppip = F
 	4Kricketot
 	5Ledyba
 	6Pidgey
 	7Pidove
-	8Pikipek
+	8Pikipek = F
 	9Starly
 	10Taillow
 	11Wingull

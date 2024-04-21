@@ -1,3 +1,162 @@
+
+Dark Worship 3.0 Final = 91EDD38C
+🔸 Dois novos Beta Testers
+🔸 Gracidea, Griseous Orb e Lutrous Orb obtiveis na Beta Tower
+🔸 Hail aumenta defesa de tipo gelo no Expert
+🔸 Evento Dialga, Palkia, Giratina
+🔸 Correção gerais de bugs
+🔸 Regice capturável
+🔸 Regirock capturável
+🔸 Registeel capturável
+🔸 Todos os iniciais obtíveis
+🔸 Sprite do Fear removido do trainer card
+
+Dark Worship 3.1 Final = DC0F577B
+
+Dark Worship 3.2 = 
+🔸 Correções gerais de bugs!
+🔸 Loja de Ervas no Vovô Iranau
+🔸 Correção evento da Líder Normal
+🔸 Correção dos pokemon da Frigost Cave
+🔸 Correção evento Registeel e Regirock
+🔸 Correção batalhas Beta Tower
+
+Dark Worship 3.3 = 
+🔸 Z-Cube agora pode ensinar Moves Assinatura do Zygarde.
+🔸 EXP Share corrigido, agora pode ativar e desativar normalmente.
+🔸 Rematch Contra Rebeca corrigido.
+🔸 Yveltal adicionaldo para capturar.
+🔸 TM86 (Grass Knot) Adicionado (Route 13)
+🔸 Evento Boss Otomai Island corrigido
+🔸 TM104 (Psyshock) adicionado (Otomai Island)
+🔸 Regigigas adicionado (Snow Hill Cave)
+🔸 Lunalium Z adicionado (Snow Hill Cave)
+🔸 Maquina de troca de TMs adicionado no Laboratório de Pompano .
+🔸 Abomasite adicionada (Snow Hill Cave)
+
+Dark Worship 3.3.1 = 
+🔸 Correções gerais de bugs
+🔸 Adição de uma nova entrada na Snow Hill Cave
+🔸 Yveltal está na Luris Cave
+Mudanças anteriores da 3.3.0
+🔸 Z-Cube agora pode ensinar Moves Assinatura do Zygarde.
+🔸 EXP Share corrigido, agora pode ativar e desativar normalmente.
+🔸 Rematch Contra Rebeca corrigido.
+🔸 Yveltal adicionaldo para capturar.
+🔸 TM86 (Grass Knot) Adicionado (Route 13)
+🔸 Evento Boss Otomai Island corrigido
+🔸 TM104 (Psyshock) adicionado (Otomai Island)
+🔸 Regigigas adicionado (Snow Hill Cave)
+🔸 Lunalium Z adicionado (Snow Hill Cave)
+🔸 Maquina de troca de TMs adicionado no Laboratório de Pompano .
+🔸 Abomasite adicionada (Snow Hill Cave)
+
+Dark Worship 3.4 = 
+🔸 Mini sprite do Giratina corrigido.
+🔸 Objetos de trocar forma do Rotom adicionados (Sufokia Town)
+🔸 Deino adicionado na Cave Rota 6
+🔸 Batalha contra Danilo na Beta Tower corrigido.
+Novos premios Beta Tower:
+🔸 Rusted Shield
+🔸 Rusted Sword
+🔸 TM93 (Dragon Tail)
+🔸 TM103 (Sludge Wave)
+🔸 Black Flute
+🔸 Max Elixir
+🔸 Poço da Rota 14 virou poço da sorte.
+(Jogando 3k você pode ganhar incenços)
+🔸 TM83 (Scald) adicionado na Route 11
+🔸 Caterpie adicionado na Route 02
+🔸 Evento Landorus adicionado (Lab de Pompano City)
+🔸 Evento Thundurus adicionado (Hidrelétrica)
+🔸 Evento Tornadus adicionado (Prefeitura Rangiroa)
+🔸 Arceus removido do Mystery Gift
+🔸 Diancie adicionada no Mystery Gift
+🔸 Cobalion, Terrakion e Virizion adicionados (Route 3)
+🔸 Item DNA Splices adicionado (Route 3)
+🔸 Evento Kyurem adicionado (Cave Snow Hill)
+🔸 Item Douse Drive adicionado (Cave Snow Hill)
+🔸 Encounter Frigost Cave fixado
+
+Dark Worship 3.5 = 
+🔸Sufokia Town e Shell Town agora tem Flying Position
+🔸Beta Tower reformulada
+🔸Times da Liga modificados
+🔸Evento Mew adicionado
+🔸Mewnium Z adicionado
+🔸Mind Plate adicionado
+🔸Rock Plate adicionado
+🔸Splash Plate adicionado
+🔸HM07 (Waterfall) adicionado
+🔸Zacian adicionado
+🔸Zamazenta adicionado
+🔸Desert Flower agora é armazenado em Itens Pocket
+🔸Sky Plate adicionado
+🔸Loja de Memorias do Sylvally adicionada
+🔸Preço Power Lens corrigido
+🔸Cresselia adicionada ao Mystery Gift
+🔸Correção evento da Seita Limia City
+
+Dark Worship 3.6 = 
+🔸 Evento Arceus adicionado
+🔸 Evento Zygarde adicionado
+🔸 Item Shock Drive adicionado
+🔸 Meadow Plate adicionado
+🔸 Pixie Plate adicionado
+🔸 Dread Plate adicionado
+🔸 Earth Plate adicionado
+🔸 Pokémon Fantasma adicionado nas primeiras rotas (Noite)
+🔸 Pokémon Água adicionado nas primeiras rotas(Noite)
+🔸 Dificuldade ajustada
+🔸 Algumas habilidades banidas do Expert Mode:
+"Desolate Land, Primordial Sea, Snow Warning, Sandstram,
+Sandspit, Speed Boost, Contrary, Deafiant, Competitive,
+Magic Bounce, Psychic Surge, Misty Surge, Electric Surge
+Grassy Surge, Moxie, Soul Heart, Beast Boost, Imposter
+Storm Drain, Motor Drive, Triage, Trace, Stamina."
+🔸 Premios da Beta Tower agora podem ser escolhidos.
+🔸 Evento Genesect adicionado
+🔸 Novos encontros adicionados na Rota 19 (Noite)
+🔸 Evento do Izac na Luris Cave reescrito!
+🔸 Safari Zone adicionado
+🔸 TM74 (Gyro Ball) adicionado
+🔸 TM95 (Struggle Bug) adicionado
+🔸 Groundium Z adicionado
+🔸 Evento Mesprit adicionado
+🔸 Evento Uxie adicionado
+🔸 Skull Fossil adicionado
+🔸 Buginium Z adicionado
+🔸 Pokémon que faltavam adicionados na Safari Zone
+🔸 Armor Fossil adicionado
+🔸 Poisonium Z adicionado
+🔸 Evento Phione adicionado
+🔸 Psychium Z adicionado
+🔸 Evento Tapu Fini adicionado
+🔸 Evento Tapu koko adicionado
+🔸 Volcanion adicionado no Mystery Gift
+🔸 Meloetta adicionado no Mystery Gift
+🔸 Evento Zarude adicionado
+🔸 Evento Calyrex adicionado
+🔸 Evento Glastrier adicionado
+🔸 Evento Spectrier adicionado
+🔸 Batalhas da Beta Tower modificadas
+🔸 Evento Jirachi adicionado
+🔸 Helix Fóssil adicionado
+🔸 Keldeo adicionado no Mystery Gift
+🔸 Evento Eternatus adicionado
+🔸 Novos Pokémon adicionados no cemitério (Dia e Noite)
+🔸 Victini adicionado no Mystery Gift
+
+Dark Worship 3.7
+🔸 Agora é possivel obter Manaphy breedando o Phione
+🔸 Sprititomb adicionado no Cemiterio
+🔸 Meltan obtivel na Rota 20
+🔸 Drudigon adicionado na Rota 18
+🔸 Bugs do evento do Arceus corrigido
+🔸 Bug da saída do Safari Zone corrigido
+🔸 TM11 (Sunny Day) e TM14 (Blizzard) adicionados na Maquina de TM em Pompano City
+🔸 Time do Lider Fighting modificado
+
 Motivos :
 1- PT-BR
 2- 4 Modos de dificuldade

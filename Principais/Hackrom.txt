@@ -1,8 +1,91 @@
 Hackrom Pokémon :
 
+PT-BR :
+GBA 
+GBA Ash Gray
+GBA Blue Stars 1
+-GBA Blue Stars 2
+-GBA Blue Stars 3
+GBA Blue Stars 4
+GBA Brunocity Adventures
+GBA Dark Pearl
+-GBA Dark Worship
+GBA Eclat Pourpre
+GBA Emerald BR Deluxe
+GBA Emerald Randomizer
+GBA Fire Red Randomizer
+GBA Flora Sky
+GBA Follow Platinum 
+-GBA Gaia
+-GBA Glazed
+-GBA Hyper Emerald 5.4 = Parcial
+-GBA Ice Adventure
+GBA Legend 
+-GBA Legends Arceus
+GBA Light Platinum
+GBA Mega
+GBA Mega Rebellito 
+GBA Mega Ruby
+GBA Mega Version 
+GBA Moemon Fire Red
+GBA Moemon Emerald
+GBA Moemon Ruby
+-GBA Mew Adventures
+GBA My Ass
+-GBA Naki
+GBA New Era
+GBA Omega Ruby
+GBA Omega Ruby X and Y
+GBA Purple
+-GBA Random Sky
+-GBA Resolute 
+GBA Ruby Randomizer
+GBA S.T.A.R 
+GBA Sapphire Randomizer
+GBA Shadow Force
+GBA Stone Dragon 1
+-GBA Stone Dragon 2
+GBA Stone Dragon 3
+GBA Super Fire Red
+GBA Sword and Shield
+GBA Sword and Shield Ultimate
+GBA Ultra 
+GBA Ultra Green
+GBA Ultra Lua
+-GBA Ultra Red 
+GBA Ultra Sol
+-GBA Unbound
+-GBA Verde Musgo
+GBA Volcano
+NDS 
+NDS Blaze Black 2
+NDS 
+
+++ :
+Emerald ++ =
+Red ++ =
+Ruby ++ = 
+
+Kaizo :
+Black 2 Kaizo = 
+Blue Kaizo = 
+Crystal Kaizo = 
+Dark Rising Kaizo = 
+Emerald Kaizo = 
+Fire Red Kaizo = 
+Ironemon Red Kaizo = 
+White 2 Kaizo = 
+Yellow Kaizo =
+
+Lunatic :
+
+China :
+
 漆黑的魅影6.0無限潔白 / Dark Phantom = OK
 極光石2.5A / AURORA STONE 2.5A = OK
 永恆之沫3.0 = OK
+
+Outras :
 
 Letra A = 05
 -Accept Defeat V2 = ???01
@@ -156,15 +239,18 @@ Letra D = 06
 -Dreams = 
 -DumbDumb Island = 
 
-Letra E = 07
+Letra E = 08
 -Eclat Purpre = OK 01
 -Eclipse = OK 02
 -Elite Black = OK 03
+-Emerald 1 in 100 = OK 08
 -Emerald 386 = 
 -Emerald 802 = 
+-Emerald Crest = 
 -Emerald Docal = 
 -Emerald Double Edition = 
--Emerald Crest = 
+-Emerald Enhanced v10.109 ] 
+-Emerald Final v7.41 = 
 -Emerald Full = 
 -Emerald Kaizo = 
 -Emerald Rogue = 
@@ -183,7 +269,7 @@ Letra E = 07
 -Evo Yellow = 
 -Exceeded = 
 
-Letra F = 05
+Letra F = 06
 -Factory Adventure = 
 -Fallen = 
 -Fat Kid Beta 1.2.4 = OK 01
@@ -196,7 +282,10 @@ Letra F = 05
 -fire-red-backwards-edition = OK 02
 -Fire Red Definitive Edition = 
 -Fire Red Distorted = 
--Fire Red Extended 3.4.6 Atualização Maio 2023 = OK 03
+-Fire Red Extended 3.4.4 =
+-Fire Red Extended 3.4.5 = 
+-Fire Red Extended 3.4.6 = OK 06 
+Atualização Maio 2023 = OK 03
 Região Nova
 Ger 1 até 08
 -Fire Red Hardcore Challenge
@@ -211,10 +300,14 @@ Ger 1 até 08
 
 -Future Green = 
 
-Letra G = 03
+Letra G = 04
+-Gaia = 
+Verificar CRC32 = 
 -Gaia v2.5-230418-024339 = OK 01
 -Gaia v3.2 = ?13
+Verificar CRC32 = 
 -Galacta Completed = ?14
+-Galacta Mega Version = OK 04
 -Gen 1 2Player = 
 -Glazed = OK 02
 -God of Arena = OK
@@ -224,9 +317,14 @@ Letra G = 03
 
 Letra H = 03
 -Heart and Seed = 
+-Hyper Emerald 2.96 = 
+-Hyper Emerald 5.3 = 
+-Hyper Emerald 5.5 = OK 03
 -Hyper Emerald 807 ( HE 807 DF-230418-041812 ) = OK 01
 -Hyper Emerald Ash Version (ENG) v4.0 [Trad. 8.0] = OK 02
--Hyper Emerald 5.5 = OK 03
+-Hyper Emerald Real v3 = 
+-Hyper Emerald V Rainbow Reaser = 
+
 
 Letra I = 04
 -Ice Adventure = OK 01
@@ -245,21 +343,31 @@ Letra J = 02
 https://www.pokecommunity.com/threads/pok%C3%A9mon-jasper-lapis-versions.478628/
 -Jewel 0.1 = 
 -Justicieros Beta 1.0 = OK 02
+Verificar CRC32 = FC073C3D
 
 Letra K = 02
 -Kanto Black 2.08 = OK 01
+Verificar CRC32 = B4D95C19
+-Kanto Black 2.08 Beartic Edition = 
+Verificar CRC32 =62578A4A
+-Kanto Complete = 
 -Kanto Expansion Pak = 
 -Kanto Origins [Spanish] = OK 02
+-Kanto Reformation = 
 
-Letra L = 02
+Letra L = 03
+-Leaf Green v1.1 =
+Verificar CRC32 = DAFFECEC
 -Lets Go Lugia = 
 -Life Alpha 1.9 = OK 01
+-Light Platinum Ultimate 2017 = OK 03
 -Liquid Cristal 3.3.00451 = OK 02
 -Lunatic Crystal = 
 
-Letra M = 02
+Letra M = 03
 -Manly Pink = OK 01
 -Marble Beta 2.1 = OK 02
+-Mega Emerald X and Y = OK 03
 -Mega Power = 
 -Memories = 
 -Mirage of Tales =
@@ -323,13 +431,14 @@ Letra R = 05
 -Ruby ++ 1.0.3 = OK 05
 -Ruby Einglocke = 
 
-Letra S = 08
+Letra S = 09
 -Sacred = 
 
 -Saiph Full v2020 = OK 04
 -Serene Crystal = 
 -Shining Victory = 
--Shiny Gold = 
+-Shiny Gold Sigma 1.3.8b = 
+-Shiny Gold Sigma 1.5 = 
 -Shiron Castle = 
 -Sienna = 
 -Silver Yellow Hardest = 
@@ -341,6 +450,7 @@ Letra S = 08
 -Stone Dragon 4 = 
 -Sun Sky and Moon Galaxy = 
 -Super Auto Pokémon Emerald = OK 06
+-Super Light Platinum BR = OK 09
 -Sweet 2th = OK 07
 -Sword Shield 9.1 PT BR = OK 08
 -Sword Shield Ultimate = 
