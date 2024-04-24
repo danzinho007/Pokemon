@@ -1,18 +1,23 @@
+Pachear e Verificar CRC32 :
+https://www.romhacking.net/patch/
+https://www.romhacking.net/hash/
+
 Jogos :
 https://gearoid.me/pokemon/
 https://pkmnquiz.com/
 
-https://libreflix.org/assistir/castelo-ratimbum/ep/1
-https://plus-move-dex.blogspot.com/2021/10/grupos-de-pokemon.html
-https://pokemondb.net/pokedex
+Competitivo :
+https://www.poke-blast-news.net/2012/09/prioridade-de-velocidade.html
+https://pokemondb.net/move/all
+https://pokemondb.net/pokedex/all
+https://pokemondb.net/item/all
 
 Pokemon Hackrom Sites :
 
-Programas :
-https://www.youtube.com/watch?v=hxl6JWCi0Eg&ab_channel=Mayck-Pok%C3%A9mon
-
 Principal :
 https://www.pokecommunity.com/forums/rom-hacks-showcase.184/
+
+https://docs.google.com/spreadsheets/d/1ZkEjsFK4x1RI1XIXxjb1Ezndm4TYzgQyVtm3t2h09zE/edit#gid=1453109482
 
 Download :
 https://pokebat.net/
@@ -43,6 +48,17 @@ Emerald ++
 https://www.pokemoncoders.com/best-pokemon-rom-hacks/
 -Não tem :
 Emerald ++
+
+Outros :
+https://www.reddit.com/r/PokemonROMhacks/comments/hrc44a/brief_guidelist_for_fakemon_romhacks_and_fangames/
+
+Várias
+https://www.reddit.com/r/PokemonROMhacks/comments/1bp2c2i/remarkable_gen_i_ii_romhack_list
+
+https://www.reddit.com/r/PokemonROMhacks/comments/1bgijj0/a_collection_of_rom_hacks_for_every_generation_in/
+
+Top 3
+https://www.reddit.com/r/PokemonROMhacks/comments/1bcsx8j/what_are_your_top_3_finish_free_pokemonromhacks/
 
 2023 :
 https://pokebat.net/2023/12/top-10-hack-roms-mais-baixadas-2023-pokebat-net.html
@@ -81,22 +97,75 @@ https://pokebat.net/?s=2014
 Pokemon Sites :
 
 Importantes
-https://www.pokemothim.net/
 https://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes
-https://www.pocketmonsters.net/episodes
 https://www.hackromtools.info/hack-tools-gb/
+https://www.pocketmonsters.net/episodes
+https://pokebat.net/2023/07/pokemon-black-2-white-2-deluxe-pt-br.html
+https://pokemongo-up.blogspot.com/2016/09/lista-com-todas-roms-de-pokemon.html
+https://www.pokemothim.net/
 https://pokemonromhack.com/hack-tools
+https://pokeromcodex.notion.site/8f188f1761b9430f9adb68833c44e5b8?v=bb31503a729442f798b4233509dacab8
+China
+https://seesaawiki.jp/chibiquetaira/d/
 
 Gera pokémon automático / por IA 
 https://replicate.com/lambdal/text-to-pokemon
 https://nokemon.eloie.tech/
 
-https://www.youtube.com/@TeamStoneDragon3/videos
-https://www.yxss.com/azyx/38072.html#gamedown
+Ferramentas :
+
+https://github.com/haven1433/HexManiacAdvance/releases
+
+https://www.reddit.com/r/PokemonROMhacks/comments/1aknc66/you_can_now_use_frlgs_vs_seeker_in_pok%C3%A9mon_emerald/
+
+https://www.reddit.com/r/PokemonROMhacks/comments/18dsgvd/damage_calculator_new_battle_info_ui/
+
+https://www.reddit.com/r/PokemonROMhacks/comments/16vb14x/revolutionize_your_pok%C3%A9mon_decomp_with_qol_field/
+
+Outros :
+
+Sun Moon 1080 1 ao 11 + Filme 21 e 22
+https://drive.google.com/drive/folders/1gh-01seo2GySjRmSHBzWSSj1um72E3A4
+Download Filmes :
+https://www.mediafire.com/folder/sxb1kgch7dauz/Filmes
+
+Database
+https://bulbapedia.bulbagarden.net/wiki/Main_Page
+Presente Pokemon 
+https://bulbapedia.bulbagarden.net/wiki/Gift_Pok%C3%A9mon
+Pokémon Favorito de Cada Tipo 
+https://cajunavenger.github.io/
+Encontrar Feebas :
+https://drayx.github.io/feebas/
+Encontrar Feebas :
+https://lincoln-lm.github.io/JS-Finder/Tools/BDSPFeebas.html
+Encontrar Feebas :
+https://mucksw.github.io/Feebas-Tile-Calculator/
+Grupos de Pokémon :
+https://plus-move-dex.blogspot.com/2021/10/grupos-de-pokemon.html
+Yu-Gi-Oh Pokémon :
+https://pokedueldb.com/
+Detonado Hackrom :
+https://pokuniverse.com/best-pokemon-rom-hacks/
+Ferramentas :
 https://projectpokemon.org/home/forums/forum/204-saves-tools/
+Saves de jogos :
 https://projectpokemon.org/home/files/category/195-user-contributed-saves/
+Informações do jogo POkémon Mega Despertar chinês 
+https://www.yxss.com/azyx/38072.html#gamedown
+
+Youtube :
+https://www.youtube.com/@TeamStoneDragon3/videos
+
+https://www.reddit.com/r/PokemonROMhacks/comments/z85jvk/pok%C3%A9mon_unown_v08_release_firered_dynamic/
+
+https://www.reddit.com/r/PokemonROMhacks/comments/12hwr1g/garbage_gold_rom_hack_6_month_development_checkin/
+
+https://libreflix.org/assistir/castelo-ratimbum/ep/1
 
 
+Programas :
+https://www.youtube.com/watch?v=hxl6JWCi0Eg&ab_channel=Mayck-Pok%C3%A9mon
 
 Oficial
 
@@ -104,28 +173,13 @@ Temporada 23 com 48 episódios :
 https://www.pokemon.com/br/episodios-pokemon/temporadas-da-tv-pokemon/temporada-23/
 Temporada 24 com 42 episódios :
 https://www.pokemon.com/br/episodios-pokemon/temporadas-da-tv-pokemon/temporada-24/
-Temporada 25 : 91 ao 117
-https://www.mediafire.com/folder/zv5qjt5pt0pcj/25%C2%AA+Temporada
-Filmes
-https://www.mediafire.com/folder/sxb1kgch7dauz/Filmes
-
-Database
-https://bulbapedia.bulbagarden.net/wiki/Main_Page
 
 Evento Pokemon 
 https://bulbapedia.bulbagarden.net/wiki/List_of_in-game_event_Pok%C3%A9mon_(Generation_I)
 Evento Distribuição Pokemon 
 https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_event_Pok%C3%A9mon_distributions_(Generation_I)
-Presente Pokemon 
-https://bulbapedia.bulbagarden.net/wiki/Gift_Pok%C3%A9mon
-
-Download 
-
-Sun Moon 1080
-https://drive.google.com/drive/folders/1gh-01seo2GySjRmSHBzWSSj1um72E3A4
 2019
 https://drive.google.com/drive/folders/15KmYNM-2S4Cp8WIFNJVbCu0ZjI_jFfb-
-
 Torrent
 Filmes (1 a 20): https://nyaa.si/download/1118494.torrent
 Temporada 01: https://nyaa.si/download/1379122.torrent
@@ -150,22 +204,14 @@ Temporada 19: https://nyaa.si/download/1379322.torrent
 Temporada 20: https://nyaa.si/download/1379326.torrent
 Temporada 21: https://nyaa.si/download/1379330.torrent
 Temporada 22: https://nyaa.si/download/1379335.torrent
-
 Episodios Pokemon XYZ 
 https://animextp.blogspot.com/2016/08/pokemon-xyz-serie-episodios.html
-
 Fusão :
 https://aegide.pokemoninfinitefusion.io/
-
-Pokémon Favorito de Cada Tipo 
-https://cajunavenger.github.io/
-
 Manga XY
 https://centralpokeverso.wixsite.com/portal/single-post/2016/11/12/mang%C3%A1-pok%C3%A9mon-adventure-xy
-
 Revistas :
 https://www.emuparadise.me/magazine-comic-guide-scans/guides
-
 Fandom
 https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki
 

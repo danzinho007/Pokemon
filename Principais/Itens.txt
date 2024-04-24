@@ -1,0 +1,5 @@
+Itens :
+
+---Letra F
+Focus Sash = Um item para ser segurado por um Pokémon. Se tiver HP total, o titular sofrerá um ataque potencial de KO, deixando 1 HP.
+

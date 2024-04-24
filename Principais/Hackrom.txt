@@ -1,5 +1,8 @@
 Hackrom Pokémon :
 
+https://docs.google.com/document/u/0/d/15D1KAywrhAt8h5Ra70PMkZ8lJkzvbzvu4weUI46J4Kk/pub
+https://docs.google.com/document/u/0/d/1yiPtvmsAMwAEzPVtD_324flA-8MeR78T2_uIwyq7YP8/pub#h.fs8nt8sywul3
+
 PT-BR :
 GBA 
 GBA Ash Gray
@@ -15,7 +18,7 @@ GBA Emerald BR Deluxe
 GBA Emerald Randomizer
 GBA Fire Red Randomizer
 GBA Flora Sky
-GBA Follow Platinum 
+GBA Following Platinum Ex 
 -GBA Gaia
 -GBA Glazed
 -GBA Hyper Emerald 5.4 = Parcial
@@ -66,6 +69,10 @@ Emerald ++ =
 Red ++ =
 Ruby ++ = 
 
+Competitivo :
+Unbound Battle Frontier = 
+World Stadium v2.1 =
+
 Kaizo :
 Black 2 Kaizo = 
 Blue Kaizo = 
@@ -78,6 +85,23 @@ White 2 Kaizo =
 Yellow Kaizo =
 
 Lunatic :
+Hyper Emerald 5.5 = 
+
+Emerald :
+Emerald Enhanced v10109 = 
+Hyper Emerald 807 DF v1.0 = 
+
+Fire Red :
+AlteRed = 
+Galacta Mega 2016 = 
+Mega Moemon FireRed =
+Nameless =  
+Noon = 
+Radical Red = Completa
+Sevii = 
+Stranded = 
+Torquoise = 
+Unbound = Completa 
 
 China :
 
@@ -105,6 +129,8 @@ Capa OK
 
 -Ambre Rouge = 
 Capa OK
+-Ancestral X v1.0 = 
+https://www.reddit.com/r/PokemonROMhacks/comments/11w2yhh/pokemon_ancestral_x_v10_official_release_is/
 -Apollo Version = 
 Capa OK
 -Aqua = 
@@ -125,6 +151,8 @@ Capa OK
 Capa OK
 -Ass = 
 Capa OK
+-Atlas Emerald = 
+https://www.pokecommunity.com/threads/pokemon-atlas-emerald-beta-1-0rq-update-apr24.496848/
 -Atsign&SmallAnt e Gen 1 2Player = OK 02
 -Atsign&SmallAnt = OK 03
 -Awesome Version XD Version = OK 04
@@ -164,6 +192,7 @@ Capa OK
 -Blazing Emerald = OK
 -Bloody Platinum = 
 Capa OK
+https://www.reddit.com/r/PokemonROMhacks/comments/13t7sim/pok%C3%A9mon_bloody_platinum_reduxcomplet_version/
 -Blue = 
 
 -Blue Kaizo = 
@@ -193,6 +222,8 @@ Capa OK
 
 Letra C = 05
 -CAOS 2 English v1.0 = ???05
+-Carmine Red 1.0 = 
+https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_red_10_has_been_released/
 -Cerice v1.5 = OK 
 -Ceylon = 
 -Chaos Emerald v2.4c = OK 01
@@ -234,12 +265,14 @@ Letra D = 06
 -Diamond Jade =
 -Digimon Nova Red = 
 -Distorted = 
+-Doubles FireRed 1.0 = 
+https://www.reddit.com/r/PokemonROMhacks/comments/132a3m5/pokemon_doubles_firered_official_10_release/
 -Drab Conspiracy - Capitolo 1 (v1.3.2) = OK 05
 -Dragon Ball Z =
 -Dreams = 
 -DumbDumb Island = 
 
-Letra E = 08
+Letra E = 09
 -Eclat Purpre = OK 01
 -Eclipse = OK 02
 -Elite Black = OK 03
@@ -247,9 +280,10 @@ Letra E = 08
 -Emerald 386 = 
 -Emerald 802 = 
 -Emerald Crest = 
+https://www.reddit.com/r/PokemonROMhacks/comments/122pqma/pokemon_emerald_crest_v108_got_released_new_open/
 -Emerald Docal = 
 -Emerald Double Edition = 
--Emerald Enhanced v10.109 ] 
+-Emerald Enhanced v10.109 = OK 09
 -Emerald Final v7.41 = 
 -Emerald Full = 
 -Emerald Kaizo = 
@@ -263,6 +297,8 @@ Letra E = 08
 -Emeralds Eight v1.5 = OK 07
 -Empyrean = 
 -Energized = 
+-Equilibrium Initial = 
+https://www.reddit.com/r/PokemonROMhacks/comments/14mdkub/pokemon_equilibrium_initial_release_ver_10/
 -Escudo = 
 -Espada = 
 -Eternal Colosseum = 
@@ -288,6 +324,7 @@ Letra F = 06
 Atualização Maio 2023 = OK 03
 Região Nova
 Ger 1 até 08
+-Fire Red Extended 3.5.1 = 
 -Fire Red Hardcore Challenge
 
 -Fire Red Fat = 
@@ -308,6 +345,8 @@ Verificar CRC32 =
 Verificar CRC32 = 
 -Galacta Completed = ?14
 -Galacta Mega Version = OK 04
+-Gauntlet Gold = 
+https://www.reddit.com/r/PokemonROMhacks/comments/1bg5twj/pokemon_gauntlet_gold/
 -Gen 1 2Player = 
 -Glazed = OK 02
 -God of Arena = OK
@@ -315,12 +354,13 @@ Verificar CRC32 =
 -Gold and Silver 97 Reforged = 
 -GS Chronicles = 
 
-Letra H = 03
+Letra H = 04
 -Heart and Seed = 
 -Hyper Emerald 2.96 = 
 -Hyper Emerald 5.3 = 
 -Hyper Emerald 5.5 = OK 03
 -Hyper Emerald 807 ( HE 807 DF-230418-041812 ) = OK 01
+-Hyper Emerald 807 English v1 = OK 04
 -Hyper Emerald Ash Version (ENG) v4.0 [Trad. 8.0] = OK 02
 -Hyper Emerald Real v3 = 
 -Hyper Emerald V Rainbow Reaser = 
@@ -365,15 +405,55 @@ Verificar CRC32 = DAFFECEC
 -Lunatic Crystal = 
 
 Letra M = 03
+-Magma = 
+-Magnetic = 
 -Manly Pink = OK 01
+-Mansion Mystery = 
 -Marble Beta 2.1 = OK 02
+-Mario Mon = 
+-Master Quest Johto = 
+-Mega Delta = 
 -Mega Emerald X and Y = OK 03
+-Mega Evolution = 
+-Mega Fire Red = 
+-Mega Moemon Fire Red v 1.3c
+-Mega Moemon Fire Red v 1.4c =
+https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august2023/
+-Mega Origins = 
 -Mega Power = 
+-Mega Power Beta 5.59 = 
+-Mega Prime Emerald X = 
+-Mega Rebellito = 
+-Mega Ruby = 
+-Mega Sol X 3.0 = 
+-Mega Version Beta 5 = 
 -Memories = 
+-Meta Fire Red X / Meta Fire Red Y = 
+-Metal = 
+-Metal Red = 
+-Metallic = 
+-Mezame = 
+-Mind = 
 -Mirage of Tales =
 -MissingNo Challenge = 
+-Mitic Island = 
 -Modern Emerald = 
+-Moemon Ash Gray = 
+-Moemon Bonds = 
+-Moemon DS = 
+-Moemon Emerald = 
+-Moemon Emerald 386 = 
+-Moemon Extreme Randomizer = 
+-Moemon Fire Red = 
+-Moemon Platinum = 
+-Moemon Ruby = 
 -Moon Emerald = 
+-Moon Y = 
+-Mutatipo = 
+-My ass = 
+-Mystery Magikarp / Emerald Mystery Magikarp = 
+-Mystical Beta 3.08 Espanhol = 
+-Mythic Legends = 
 
 ---Letra N = 02
 
@@ -405,15 +485,26 @@ Letra O = 02
 -Orange = 
 
 Letra P = 04
+-Parallel Emerald = 
+https://www.reddit.com/r/PokemonROMhacks/comments/13c023k/release_pok%C3%A9mon_parallel_emerald_v025_out_now_see/
 -Perfect Blue = 
+-Perfect Crystal = 
+https://www.youtube.com/watch?app=desktop&v=oeJBVY3z_uE&ab_channel=SmithPlaysPok%C3%A9mon
+-Perfect Emerald = 
 -Perfect Red = OK 01
+-Peridot Version = 
 -Personal Fire Red = ???
 -Pikamon = 
 -Pisces = 
 -Platinum Pro Full = OK 02
 -Polished Crystal = 
--Prims = ?
+-Prism = ?
+https://rainbowdevs.com/title/prism/
+-Project Bugs = 
+https://www.reddit.com/r/PokemonROMhacks/comments/128zt7v/project_bugs_public_release_completed_romhack/
+-Puffy Pink = 
 -Pure Green = OK 03
+-Pure RGB = 
 -Purple = OK 04
 
 Letra Q = 02
@@ -423,10 +514,19 @@ Letra Q = 02
 Letra R = 05
 -Radical Red 4.1 = OK 01
 -Reboot = OK 02
--Red ++ Normal = OK 03
+-Red ++ Normal 3A10014B= OK 03
+-Red ++ v3.0.2 Hard AFFC498E =
+-Red Battle Factory =  
+-Red DX = 
+-Red Map Randomizer = 
 -Regis Origin = 
 -Resolute = 
+-Roaming Red =
+-Robust Red = 
+https://www.reddit.com/r/PokemonROMhacks/comments/15xximp/pokemon_robust_red_official_full_release_completed/
 -Rocket Edition =
+-Rough Red = 
+https://www.reddit.com/r/PokemonROMhacks/comments/yw2v8z/fire_red_pokemon_rough_red_prr_enhancement_of/
 -Rowe = OK 04
 -Ruby ++ 1.0.3 = OK 05
 -Ruby Einglocke = 
@@ -436,6 +536,7 @@ Letra S = 09
 
 -Saiph Full v2020 = OK 04
 -Serene Crystal = 
+-Shin Pokemon v1.24.1 = 
 -Shining Victory = 
 -Shiny Gold Sigma 1.3.8b = 
 -Shiny Gold Sigma 1.5 = 
@@ -443,6 +544,9 @@ Letra S = 09
 -Sienna = 
 -Silver Yellow Hardest = 
 -Sors = 
+=Sour Crystal = 
+https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_improvement_hack_by/
+
 -Sovereign of the Skies = 
 -Stone Dragon = OK 05
 -Stone Dragon 2 = 
@@ -459,24 +563,38 @@ Letra T = 02
 -team_rocket_jessie_james_edition_beta_2.5 = OK 01
 -This Gym is Mine = OK 02
 
+-Titanic 2 = 
+https://www.reddit.com/r/PokemonROMhacks/comments/193n33k/titanic_2_mini_hack_my_magm_8_submission/
+
 -Tits = 
 Capa OK
+-TRE 2 = 
+https://www.reddit.com/r/PokemonROMhacks/comments/122txky/pokemon_tre2_beta_released/
 
-Letra U = 02
+Letra U = 03
 -
 -Ultimate Fusion = 
 -Unbound = OK 01
+-Unbound Battle Frontier = OK 03 
 -Universe = 
 -Universe MegaEvolution = OK 02
+-Unknown 1.0 =
+https://www.reddit.com/r/PokemonROMhacks/comments/18xz0ey/pokemon_unknown_10_released/
+-Unova Emerald = 
+https://www.reddit.com/r/PokemonROMhacks/comments/12mx274/pok%C3%A9mon_unova_emerald_got_released/
 
 Letra V = 02
 -Verde Musgo = OK 01
 -Victory Fire = 
 -Volcano = OK 02
 
-Letra W = 02
+Letra W = 03
+-Wasteland =
+https://z3bra.org/pokerom/
+https://www.reddit.com/r/PokemonROMhacks/comments/12ukx95/pokemon_wasteland_release_candidate/
 -White 2 Version Kaizo = OK 01
 -World Championship = OK 02
+-World Stadium = OK 03
 
 Letra X
 -

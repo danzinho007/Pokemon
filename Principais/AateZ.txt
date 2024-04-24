@@ -4,6 +4,9 @@ Geração- Nome ( Tipo )
 
 6- Amaura ( Gelo Pedra )
 3- Anorith ( Inseto Pedra )
+- Axew ( Dragão )
+Toma   2x em : Dragão, Fada e Gelo
+Toma 1/2x em : Água, Elétrico, Fogo e Grama
 
 ---Letra C
 6- Carbink ( Fada Pedra )
@@ -12,7 +15,16 @@ Toma 2x em : Água, Planta e Terrestre
 Toma 1/2x em : Normal, Fogo, Voador, Inseto e Sombrio
 Imune : Dragão
 
+- Carkol ( Fogo Pedra ) :
+Toma 4x em : Água e Terra
+
+- Clefairy ( Fada ) :
+Toma  2x em : Veneno e Metal
+
 4- Cranidos ( Pedra )
+
+- Crustle ( Inseto Pedra ) :
+Toma 2x em : Água, Pedra e Metal
 
 ---Letra D
 
@@ -25,10 +37,57 @@ Toma 1/2x em : Fogo, Gelo, Normal, Venenoso e Voador
 
 Drapion
 
+---Letra E
+
+- Eelektrik ( Elétrico ) :
+Toma   2x em : 
+Toma 1/2x em : Elétrico, Voador e Metal
+
+---Letra F
+
+611- Fraxure ( Dragão )
+Toma   2x em : Dragão, Fada e Gelo
+Toma 1/2x em : Água, Elétrico, Fogo e Grama
+
 ---Letra G
 
-Gliscor
+-Gliscor
+-Goomy ( Dragão )
+Toma   2x em : Dragão, Fada e Gelo
+Toma 1/2x em : Água, Elétrico, Fogo e Grama
+
+-Gothorita ( Psíquico )
+Toma 2x : Inseto, Fantasm e Sombrio
+
+---Letra H
+
+- Hakamo-o ( Dragão Letador ) :
+Toma 4x em : Fada
+Toma 2x em : Gelo, Fogo, Psíquico e Dragão
+
+---Letra M
+
+- Mr Mime Galar ( Gelo Psíquico ) :
+Toma 2x em : Fogo, Inseto, Pedra, Fantasma, Sombrio e Metal
 
 ---Letra S
 
+- Skrelp ( Água Veneno ) :
+Toma  2x em : Elétrico, Terra e Psíquico
+
+705- Sliggoo ( Dragão ) : 
+Toma   2x em : Dragão, Fada e Gelo
+Toma 1/2x em : Água, Elétrico, Fogo e Grama
+
 8- Stonjourner ( Pedra )
+
+---Letra T
+
+- Togedemaru ( Água Aço ) :
+Toma 4x em : Terra
+Toma 2x em : Fogo e Lutador
+
+---Letra W
+
+- Watchog ( Normal ) :
+Toma 2x em : Lutador
