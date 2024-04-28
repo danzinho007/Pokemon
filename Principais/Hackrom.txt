@@ -1,3 +1,183 @@
+
+HexMania Advance :
+https://github.com/haven1433/HexManiacAdvance/blob/master/src/HexManiac.Core/Models/Code/scriptReference.md#specials
+
+https://www.youtube.com/watch?v=gUj-lP2Zccg
+
+Bandeiras :
+	0x0230 = ?
+Variáveis :
+	0x4001 = Insígnia
+	0x405F = Insígnia
+	0x4031 = ? ( Achei no 168471 )
+	var0 = Insígnias
+	varLastTalked = ? ( Achei no 168471 )
+
+Endereços :
+	<1722CD>
+	<17233F> = Mensagem 
+	<172371> = Mensagem
+	<17238D> = Mensagem
+	<1889D1>
+	<18DE92>
+	<1A7653>
+	<1A7655>
+	<1C5102>
+	<1C559B>
+	<1C55B4>
+	<47F1CC>
+
+Função: AnimatePcTurnOn 
+	CallTrainerTowerFunc 
+	GetQuestLogState
+	Script_SetHelpContext
+	SetHelpContextForMap
+
+Comandos :
+
+giveEgg NomeDoPokemon
+giveMoney Quantidade Checagem ( Se for 0, jogador leva a grana )
+givePokemon NomeDoPokemon ItemSegurando
+
+{
+delay_16
+delay_16
+delay_16
+}
+-A sequência delay_16 delay_16 delay_16 faz com que o script pause por três vezes consecutivas, cada vez por um período de 16 unidades de tempo, antes de continuar com as próximas instruções. 
+
+addvar temp3 1
+-Adiciona 1 ao valor de temp3.
+
+closeonkeypress
+-Fecha a caixa de mensagem quando uma tecla é pressionada.
+
+copyvar var0 varResult
+-Copia o valor de var0 para varResult
+
+{
+emote_exclamation_mark
+}
+-O NPC 3 faz um emote de exclamação.
+
+find.item POTION 1
+-Encontrar item Potion 1
+
+goto <1C528C>
+-Pula para 1C528C
+
+if.compare.goto var0 == 0 <section3>
+-Se var0 for igual a 0, o script pula para section3
+
+if.compare.goto temp3 == 1 <section5>
+-Se temp3 for igual a 1, o código pula para a seção <section5>.
+
+move.npc 3 <1A7653>
+-Move o NPC 3 para a localização 1A7653
+
+msgbox.autoclose <172497>
+{
+Sometimes, you can find stuff on
+the ground.
+
+I'm looking for the stuff I
+dropped. Can you help me?
+}
+end
+-Exibe uma caixa de mensagem que se fecha automaticamente após ser exibida, com conteúdo proveniente de <172497>
+
+msgbox.default <2021D18>
+-Exibe uma caixa de mensagem padrão com conteúdo de <2021D18>.
+
+msgbox.npc <1722CD>
+{
+I came here with some friends to
+catch us some BUG POKéMON!
+
+They're all itching to get into
+some POKéMON battles!
+}
+-Exibe uma caixa de diálogo falada por um NPC com conteúdo proveniente de <1722CD>
+
+setflag 0x0254
+-É usada para definir (set) uma flag ou sinalizador (flag) com o identificador 0x0254
+
+setvar temp3 0
+-Define temp3 como 0
+
+setvar var4 3
+-Define a variável var4 como 3
+
+single.battle SAMMY <17244C> <17247A>
+{
+Hey, wait up!
+What's the hurry? Why the rush?
+}
+{
+I give!
+You're good at this!
+}
+-Inicia uma batalha individual com um personagem chamado "SAMMY". Os diálogos associados a esta batalha são definidos entre chaves {}.
+
+single.battle.continue.silent BROCK <190D4C> <190EC7> <section1>
+- Esta é uma instrução que provavelmente inicia uma batalha individual de forma contínua e silenciosa, o que significa que a batalha acontece sem interrupções e sem diálogos durante a batalha.
+
+special CallTrainerTowerFunc
+-Chama uma função especial chamada CallTrainerTowerFunc
+
+special ChooseMonForMoveTutor
+-Ensina um Pokémon o golpe Comet Punch
+
+special EnableNationalPokedex
+-Ativar a Pokedex Nacional
+
+special HealPlayerParty
+-Todos os Pokémon do personagem principal são totalmente restaurados como se tivessem sido curados em um Centro Pokémon.
+
+special playsong
+-
+
+special SpawnCameraObject
+-Ao chamar isso por meio de um specialcomando, ele permite que comandos applymovemente futuros move.cameramovam a câmera em vez de um NPC. (A câmera tem um ID 127.) Em Pokémon Ruby e Sapphire, o especial é nomeado SpawnCameraDummy.
+
+special StartRematchBattle
+playsong [song name] playOnce
+trainerbattle 01 [trainer name] 0 <introText> <defeatText> <continueScript>
+-Rebatalhar contra o treinador
+
+special UpdatePickStateFromSpecialVar5
+-Chama uma função especial chamada 
+UpdatePickStateFromSpecialVar5
+
+special trainerbattle
+
+
+---Trainer AI Script :
+https://www.youtube.com/watch?v=NZoIevjHBsc&ab_channel=StarstruckShiny
+Sprite 64x64 
+
+-CheckBadMove
+Makes sure that the AI doesn't do something useless
+-CheckViability
+Like CheckBadMove, but more sophisticated
+-TryToKO
+Tries to knock out your Pokémon with priority moves if possible
+-SetupFirstTurn
+Preferes boosting a stat right after being sent in
+-Risky
+Prefers ballsy play (succh as exploding early or fishing for critcs) at random
+-PreferStrongestMove
+Preferes high-power moves with bad side-effects
+-PreferBatonPass
+Uses Baton Pass after boosting stats. Can cause softlock
+-DoubleBattle
+Buffs allies that have Guts, Flash Fire, etc
+-HPAware
+Picks moves primarily base on remaining HP
+-Unknown
+Incomplete Double Battle AI script involving Sunny Day
+
+
 Hackrom Pokémon :
 
 https://docs.google.com/document/u/0/d/15D1KAywrhAt8h5Ra70PMkZ8lJkzvbzvu4weUI46J4Kk/pub
@@ -70,7 +250,10 @@ Red ++ =
 Ruby ++ = 
 
 Competitivo :
+Battle 
+God of Arena
 Unbound Battle Frontier = 
+World Championships
 World Stadium v2.1 =
 
 Kaizo :
@@ -87,9 +270,15 @@ Yellow Kaizo =
 Lunatic :
 Hyper Emerald 5.5 = 
 
-Emerald :
-Emerald Enhanced v10109 = 
-Hyper Emerald 807 DF v1.0 = 
+Perfect :
+Perfect Blue    	   = 20FCD69 (Bug)
+Perfect Blue           = B2F9C5A7
+Perfect Red     	   = 4A935F2F
+Perfect Crystal        =
+Perfect FireRed DX v3  = 26E97CFD
+Perfect FireRed Deluxe = 54DD47BF
+Perfect Emerald v4.0   = 78BBE94F
+Perfect Soul           = 
 
 Fire Red :
 AlteRed = 
@@ -103,6 +292,57 @@ Stranded =
 Torquoise = 
 Unbound = Completa 
 
+Emerald :
+Emerald Enhanced v10109 = 
+Hyper Emerald 807 DF v1.0 = 
+
+Gostei : 20
+-Aqua Version
+-Blast Burn
+-Blue Stars 4
+-Chaos Emerald 
+-Cloud White 2 v279
+-Dark Worship
+-Delta Emerald v1.1.5
+-Eclat Purpre 
+-Emerald Eight 
+-Emerald Enhanced
+-Fat Kid Beta = Incompleta ?
+-Fire Red Extended 
+-Frontier Adventure 
+-Glazed 
+-Hyper Emerald 807 v1.0
+-Hyper Emerald v5.5
+-Ice Adventure
+-Islas Doradas
+-Justicieros = Incompleta ?
+-Kanto Black 
+-Kanto Origins 
+-Kanto Ultimate
+-Life Alpha 
+-Light Platinum Ultimate 
+-Liquid Cristal = Incompleta ? 
+-Manly
+-Marble Beta
+-Naranja
+-Omega Red 
+-Pure Green
+-Radical Red
+-Red ++
+-R.O.W.E
+-Ruby ++
+-Saiph Full
+-Scarlet and Violet 
+-Stone Dragon
+-Super Auto Pokémon Emerald 
+-Team Rocket Jessie & James Edition
+-Triángulo Origen Beta 5 = Incompleta
+-Unbound 
+-Unbound Battle Frontier
+-Universe MegaEvolution
+-Volcano = Incompleta
+-World Stadium
+
 China :
 
 漆黑的魅影6.0無限潔白 / Dark Phantom = OK
@@ -110,6 +350,10 @@ China :
 永恆之沫3.0 = OK
 
 Outras :
+
+Letra # :
+10th Anniversary =
+100 Demo = 
 
 Letra A = 05
 -Accept Defeat V2 = ???01
@@ -228,21 +472,22 @@ https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_r
 -Ceylon = 
 -Chaos Emerald v2.4c = OK 01
 -Celias Smart Romhack = 
+-Classic = 
 -Cloud White = 
 -Cloud White 2 v237 = OK 05
 -Clover = 
 -Complete Crystal = 
 -Completed = 
-
 -Conquest =
 -Copper =
 -Coral Island 2022 Demo v1.2 = OK 02
 -Crush = 
 -Crystal Advance = 
--Crystal Advance Redux 08/04 = ???06
+-Crystal Advance Redux 08/04 = 
 -Crystal Clear 2.5.6 = OK 03
 -Crystal Kaizo = 
 -Crystal Kanto = 
+-Crystal Prodigy = 
 -Crown = 
 -Cyan =
 
@@ -272,17 +517,22 @@ https://www.reddit.com/r/PokemonROMhacks/comments/132a3m5/pokemon_doubles_firere
 -Dreams = 
 -DumbDumb Island = 
 
-Letra E = 09
+Letra E = 11
 -Eclat Purpre = OK 01
 -Eclipse = OK 02
 -Elite Black = OK 03
+-Elite Redux v2.0 = OK 11
+https://www.pokecommunity.com/threads/pok%C3%A9mon-elite-redux-v1-6-1-complete-%E2%80%94-unique-multi-ability-difficulty-hack.499227/
 -Emerald 1 in 100 = OK 08
 -Emerald 386 = 
 -Emerald 802 = 
+-Emerald Boss Rush = 
 -Emerald Crest = 
 https://www.reddit.com/r/PokemonROMhacks/comments/122pqma/pokemon_emerald_crest_v108_got_released_new_open/
 -Emerald Docal = 
--Emerald Double Edition = 
+-Emerald Double Up Delevelled v2.5 = 
+-Emerald Double Version 386 v1.1 = OK 10
+-Emerald Double Version 368 v1.2 = 
 -Emerald Enhanced v10.109 = OK 09
 -Emerald Final v7.41 = 
 -Emerald Full = 
@@ -291,6 +541,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/122pqma/pokemon_emerald_crest_
 -Emerald Entire Map Randomizer = OK 04
 -Emerald Green Version = ???09
 -Emerald Horizons = 
+-Emerald Johto Edition = 
 -Emerald Markplier Smash or Pass Edition - playtest version = ???10
 -Emerald Negative EXP = OK 05
 -Emerald Open Version 1.0.0 = OK 06
@@ -305,7 +556,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/14mdkub/pokemon_equilibrium_in
 -Evo Yellow = 
 -Exceeded = 
 
-Letra F = 06
+Letra F = 07
 -Factory Adventure = 
 -Fallen = 
 -Fat Kid Beta 1.2.4 = OK 01
@@ -314,7 +565,9 @@ Letra F = 06
 -Fire Ash = 
 -Fire Burn = 
 -Fire Gold = 
+-Fire Red + Plus = 
 -Fire Red 2 = 
+-Fire Red Advanced Challenge = 
 -fire-red-backwards-edition = OK 02
 -Fire Red Definitive Edition = 
 -Fire Red Distorted = 
@@ -326,7 +579,7 @@ Região Nova
 Ger 1 até 08
 -Fire Red Extended 3.5.1 = 
 -Fire Red Hardcore Challenge
-
+-Fire Red J = OK 07
 -Fire Red Fat = 
 -Fire Red Legacy = 
 -Fire Red Minus = !!!
@@ -337,7 +590,7 @@ Ger 1 até 08
 
 -Future Green = 
 
-Letra G = 04
+Letra G = 05
 -Gaia = 
 Verificar CRC32 = 
 -Gaia v2.5-230418-024339 = OK 01
@@ -345,6 +598,7 @@ Verificar CRC32 =
 Verificar CRC32 = 
 -Galacta Completed = ?14
 -Galacta Mega Version = OK 04
+_Garys Mod = OK 05
 -Gauntlet Gold = 
 https://www.reddit.com/r/PokemonROMhacks/comments/1bg5twj/pokemon_gauntlet_gold/
 -Gen 1 2Player = 
@@ -354,7 +608,8 @@ https://www.reddit.com/r/PokemonROMhacks/comments/1bg5twj/pokemon_gauntlet_gold/
 -Gold and Silver 97 Reforged = 
 -GS Chronicles = 
 
-Letra H = 04
+Letra H = 05
+-Hard Fire v2.2 = OK 05
 -Heart and Seed = 
 -Hyper Emerald 2.96 = 
 -Hyper Emerald 5.3 = 
@@ -365,17 +620,15 @@ Letra H = 04
 -Hyper Emerald Real v3 = 
 -Hyper Emerald V Rainbow Reaser = 
 
-
 Letra I = 04
 -Ice Adventure = OK 01
 -ice Blue 2.0 = OK 02
 -Inclement Emerald = 
 -Indigo Power Tournament vApril 25th 2021 = OK 03
 -Infinite Fusion = 
-
 -Inflamed Red (v1.0.5) = ?17
 -Inheritance_Demo_1 = ? 18
--Intense Indigo = 
+-Intense Indigo Edition = 
 -Islas Doradas 2.0 = OK 04
 
 Letra J = 02
@@ -385,7 +638,7 @@ https://www.pokecommunity.com/threads/pok%C3%A9mon-jasper-lapis-versions.478628/
 -Justicieros Beta 1.0 = OK 02
 Verificar CRC32 = FC073C3D
 
-Letra K = 02
+Letra K = 03
 -Kanto Black 2.08 = OK 01
 Verificar CRC32 = B4D95C19
 -Kanto Black 2.08 Beartic Edition = 
@@ -394,14 +647,30 @@ Verificar CRC32 =62578A4A
 -Kanto Expansion Pak = 
 -Kanto Origins [Spanish] = OK 02
 -Kanto Reformation = 
+-Kanto Ultimate v2.0 = OK 03
 
 Letra L = 03
 -Leaf Green v1.1 =
 Verificar CRC32 = DAFFECEC
+-Leaf Green Balanced = 
+-Leaf Green Balanced v4 =
+-Leaf Green PT-BR = 
+-Legend BR = 
+-Legend of Fenju Beta v1.0 = 
+-Legendary = 
+-Legends v1.11 6CE34935 = 
+-Legends Arceus 7.2
+-Legends Arceus Beta 3.0
+-Legends Red Version v1.0 8969C44D = 
+-Legends Red Version v1.5 46E42213 = 
+-Lets Go Eevee 
 -Lets Go Lugia = 
 -Life Alpha 1.9 = OK 01
 -Light Platinum Ultimate 2017 = OK 03
+-Lilac beta = 
 -Liquid Cristal 3.3.00451 = OK 02
+-Lost Legacy Alpha 0.1
+-Lunares BR = 
 -Lunatic Crystal = 
 
 Letra M = 03
@@ -449,6 +718,7 @@ https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august
 -Moemon Ruby = 
 -Moon Emerald = 
 -Moon Y = 
+-Mugiwara = 
 -Mutatipo = 
 -My ass = 
 -Mystery Magikarp / Emerald Mystery Magikarp = 
@@ -484,10 +754,11 @@ Letra O = 02
 -Omega Red = OK 02
 -Orange = 
 
-Letra P = 04
+Letra P = 06
 -Parallel Emerald = 
 https://www.reddit.com/r/PokemonROMhacks/comments/13c023k/release_pok%C3%A9mon_parallel_emerald_v025_out_now_see/
--Perfect Blue = 
+-Pengies Silly Emerald Hack = OK 05
+-Perfect Blue = OK 06
 -Perfect Crystal = 
 https://www.youtube.com/watch?app=desktop&v=oeJBVY3z_uE&ab_channel=SmithPlaysPok%C3%A9mon
 -Perfect Emerald = 
@@ -496,6 +767,7 @@ https://www.youtube.com/watch?app=desktop&v=oeJBVY3z_uE&ab_channel=SmithPlaysPok
 -Personal Fire Red = ???
 -Pikamon = 
 -Pisces = 
+-Pit of 100 Trials = 
 -Platinum Pro Full = OK 02
 -Polished Crystal = 
 -Prism = ?
@@ -510,9 +782,11 @@ https://www.reddit.com/r/PokemonROMhacks/comments/128zt7v/project_bugs_public_re
 Letra Q = 02
 -Quartz = OK
 -Quetzal = OK
+-Quetzal v0.7.0 = 
 
-Letra R = 05
+Letra R = 07
 -Radical Red 4.1 = OK 01
+-Ragnarok = OK 06
 -Reboot = OK 02
 -Red ++ Normal 3A10014B= OK 03
 -Red ++ v3.0.2 Hard AFFC498E =
@@ -520,7 +794,9 @@ Letra R = 05
 -Red DX = 
 -Red Map Randomizer = 
 -Regis Origin = 
+-Remixed Blue 1d1 = OK 07
 -Resolute = 
+-Retrieved FireRed =
 -Roaming Red =
 -Robust Red = 
 https://www.reddit.com/r/PokemonROMhacks/comments/15xximp/pokemon_robust_red_official_full_release_completed/
@@ -531,20 +807,23 @@ https://www.reddit.com/r/PokemonROMhacks/comments/yw2v8z/fire_red_pokemon_rough_
 -Ruby ++ 1.0.3 = OK 05
 -Ruby Einglocke = 
 
-Letra S = 09
+Letra S = 12
 -Sacred = 
-
 -Saiph Full v2020 = OK 04
+-Scarlet Violet 30/04/2023 = OK 10
 -Serene Crystal = 
--Shin Pokemon v1.24.1 = 
+-Shin Pokemon v1.24.5 = OK 11
+https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/
 -Shining Victory = 
 -Shiny Gold Sigma 1.3.8b = 
 -Shiny Gold Sigma 1.5 = 
 -Shiron Castle = 
 -Sienna = 
 -Silver Yellow Hardest = 
+-Smogon Emerald = OK 12
 -Sors = 
-=Sour Crystal = 
+-Sors 2 = 
+-Sour Crystal = 
 https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_improvement_hack_by/
 
 -Sovereign of the Skies = 
@@ -559,8 +838,9 @@ https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_i
 -Sword Shield 9.1 PT BR = OK 08
 -Sword Shield Ultimate = 
 
-Letra T = 02
+Letra T = 03
 -team_rocket_jessie_james_edition_beta_2.5 = OK 01
+-The Last Renoval Red Ultimate = 
 -This Gym is Mine = OK 02
 
 -Titanic 2 = 
@@ -570,10 +850,12 @@ https://www.reddit.com/r/PokemonROMhacks/comments/193n33k/titanic_2_mini_hack_my
 Capa OK
 -TRE 2 = 
 https://www.reddit.com/r/PokemonROMhacks/comments/122txky/pokemon_tre2_beta_released/
+-TrianguloOrigenB3 = OK 03
+-TrianguloOrigenB5 = 
 
-Letra U = 03
+Letra U = 04
 -
--Ultimate Fusion = 
+-Ultimate Fusion 2023 = OK 04
 -Unbound = OK 01
 -Unbound Battle Frontier = OK 03 
 -Universe = 
@@ -583,9 +865,19 @@ https://www.reddit.com/r/PokemonROMhacks/comments/18xz0ey/pokemon_unknown_10_rel
 -Unova Emerald = 
 https://www.reddit.com/r/PokemonROMhacks/comments/12mx274/pok%C3%A9mon_unova_emerald_got_released/
 
-Letra V = 02
+Letra V = 03
+-Vega 
+https://pokemon-vega.fandom.com/wiki/Pok%C3%A9mon_Vega_Wiki
+-Vega 2016 4DF9A7B7 = OK 03
+-Vega 2019 364625E2 = 
+-Vega Fairy Edition 1.3 D5301BAC = 
+(China)-Vega Fairy Edition 1.3 B966C3D1
+-Vega Fairy Edition 1.3 Minus 35E6026A = 
+-Vega Fairy Edition 1.4 7584E17F = 
+-Vega Fairy Edition 1.4 Minus = 20C05084
 -Verde Musgo = OK 01
 -Victory Fire = 
+-Vica Las Vega F590716E = 
 -Volcano = OK 02
 
 Letra W = 03

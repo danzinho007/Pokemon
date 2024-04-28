@@ -1,3 +1,5 @@
+
+
 1- 8 pokémon no time
 OK
 2- 9° Geração
@@ -121,3 +123,189 @@ Menu Extra
 Objeto Gigante 
 Repel infinito 
 Corrida infinita 
+
+Novidades :
+
+-Início :
+Inicial de 8 gerações 
+
+-Customização do jogo :
+Mono Color
+Mono Type 
+
+-Customização da tela :
+
+-Extras :
+Animação antes de começar o jogo
+Batalha = Fundo alterado
+GB Sounds
+Inserção de caracteres japoneses ( hiragana e katakana )
+Mapa original porém Editado
+Região original porém Editado
+Placa informando sobre Headbutt
+Planta pra subir
+Pokémon Gordo
+Shiny = Aumento na chance de encontrar 
+Wonder Trade GBC e GBA
+
+
+---Início :
+-Cidade : 
+Aleatório
+Escolher em qual vai iniciar 
+-Inicial :
+8 Gerações
+9 Gerações 
++ 50
+aleatório
+
+---Customização do jogo 
+-Dificuldade :
+Default
+Easy
+Hard
+Hardcore
+Normal
+Restricted
+Hard
+-Dupes Clause on ou off = 
+-IV = Modo IV Perfeito
+-Evo Limite = Off, Primeiro ou Todos
+-Evolução = Sem evolução ou com
+-EVs = Modo sem EVs
+-Exp Multiplier : 
+x1.0, x1.5 ou x2.0
+Escasa, Reducida, Normal, Aumentada, Excesiva ou Exagerada
+-Fainting = 
+-Ginásio = Modo embaralha os ginásios
+-Grupo Randomizado
+-Inverso = Modo inverso
+-Level Cap : 
+Customizado pelo jogo
+Normal 
+Hard 
+-Mirror Thief = Off ou On
+-Mirror Mode = Off ou On
+-Modo 2 player = Só é ativado em batalha, matinho não conta
+-Modo Caverna = Aqui você vê o mapa na visão de uma caverna sem o flash, na que eu testei tem como ligar as luzes
+-Modo Deslizante / Slidding = Aqui o chão é deslizante, você deve se apoiar em tudo que tiver
+-Modo Invisível / Sem Hud :
+Aqui você só vê o ícone do pokémon
+Aqui você não vê os golpes do pokémon 
+-Modo Marowak = Aqui você só vai descobrir quem é o monstro depois que derrotar ele
+-New Game + 
+-Nickname On ou Off 
+-Nuzlocke : 
+Normal
+Hard
+-One Type Only = On ou Off
+-Party Limit = 1 até 5
+-Player Items = Yes ou No
+-Randomizer = Modo aleatório
+-Shiny Clause on ou off = 
+-Split = Modo Split ???
+-Stat Equalizer = Off, 100 ou 255
+-Static pokémon = Pokémon lendários são randomizados
+-Trainer aleatório = Treinadores são randomizados
+-Trainer Items = Yes ou No
+-Wild pokémon random = Pokémon que aparece no mato
+
+---Customização da tela
+-Diálogo mostrando foto do personam :
+Superior direita quadrado
+Inferior direita avatar
+-IV EV = mais 1 opção
+-Menu diferenciado
+-Pokedex diferenciada
+-Pokedex com Base Stats
+-Pokedex com Treinamento
+-Pokedex com Amizade
+-Pokedex com Evolução
+-Pokedex com Choro
+-Pokedex com Tamanho
+-Mais menus
+
+---Extras 
+-8 pokémon no time
+-Batalha :
+Animação antes da batalha ( On ou Off )
+Dinâmico ou Setar
+Lançar pokébola rápida durante a batalha
+Mostrar Efetividade dos golpes
+Mostrar tipo de golpe, força, % de acerto e quantos PP tem
+Mostrar tipo dos Pokémon
+XTR Battle Info ( On ou Off ) = Ver buffs e debuffs
+-Berry = Balançar árvore pra cair berrys
+-Box expandida ( max 65 )
+-Cheat code
+-Competitivo :
+Battle Arena
+Battle Dome
+Battle Factory
+Battle Palace
+Battle Pike
+Battle Pyramid
+Battle Tower
+-Conquistas
+-Corrida infinita
+-Dados do save ( Nome, Versão, Modo, Dificuldade, Tempo e Dinheiro )
+-Desafios 
+-Dexnav 
+Mostrando Water e Land com características do pokémon
+-Emulador não suportado
+-EV = Janela pra ver EV
+Normalmente Ver EV e IV na mesma tela
+-Gênero = Possível alterar Gênero
+-Geração = Até a 9 °
+-HM : 
+Não é necessário 
+Só pode usar HM quem pode equipar, porém não precisa ter
+-Hora do dia / Change time = Mudar horário do dia
+-Inserção de caracteres chineses
+-Inserção de caracteres japoneses ( hiragana e katakana )
+-Inserção de outras franquias :
+Digimon
+Dragon Ball
+Maple Story
+Yu-Gi-Oh
+-IV = Janela pra ver IV
+Normalmente Ver EV e IV na mesma tela
+-Mapa com Veneno 
+-Menu alterado =
+Opção 1 = ícones editados no canto superior direito
+Opção 2 = ícones no meio
+Opção 3 = Dexnav e PC na 2° aba
+-Missões
+-Mock Battle = ???
+-Mundo aberto
+-Música = Escolher uma das músicas
+-Mystery Gift
+-Natureza = Possível alterar
+-Password / Senha = Digita a senha e obtém algo
+-Pokedex : 
+Mostra o anterior ao que você capturou
+-Pokémon beta
+-Pokémon de cores modificadas
+-Pokémon Estátua
+-Pokémon gigante
+-Pokémon gordo
+-Pokémon seguindo ( 1 até 6 )
+-Quiz / Perguntas
+-Raid 
+-Rematch / Rebalhar com treinadores 
+Sala só pra isso
+Pode desafiar alguns treinadores
+-Repel infinito
+-Rota :
+Placa que informa os pokémon que tem na rota
+Pokémon nas rotas visual
+Pokémon nas rotas possível de ser capturado
+-Text Speed = Texto instantâneo
+-Tipos novos :
+Cher 
+Choco
+Lime
+Vanil
+-Transição Instantânea
+-Troca sem exigência
+-Wonder Trade

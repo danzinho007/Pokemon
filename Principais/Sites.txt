@@ -26,6 +26,7 @@ Emerald ++
 
 https://www.pokeharbor.com/category/roms/gbc/
 -Não tem Emerald ++
+https://www.pokeharbor.com/?s=fakemon
 
 https://www.dspoketuber.com/
 -Não tem :
@@ -49,7 +50,16 @@ https://www.pokemoncoders.com/best-pokemon-rom-hacks/
 -Não tem :
 Emerald ++
 
+Randomizer :
+https://warprandomizer.com/
+
 Outros :
+https://abaresk.com/mods/pokemon/
+
+https://drive.google.com/drive/folders/1J2tHtAK-UXRYmRMl3gN8sH7yy06cZBmM
+
+https://atsignarchives.wordpress.com/category/pokemon-black/
+
 https://www.reddit.com/r/PokemonROMhacks/comments/hrc44a/brief_guidelist_for_fakemon_romhacks_and_fangames/
 
 Várias
@@ -135,6 +145,8 @@ Presente Pokemon
 https://bulbapedia.bulbagarden.net/wiki/Gift_Pok%C3%A9mon
 Pokémon Favorito de Cada Tipo 
 https://cajunavenger.github.io/
+Hackrom : Radical Red 
+https://dex.radicalred.net/
 Encontrar Feebas :
 https://drayx.github.io/feebas/
 Encontrar Feebas :
@@ -147,10 +159,16 @@ Yu-Gi-Oh Pokémon :
 https://pokedueldb.com/
 Detonado Hackrom :
 https://pokuniverse.com/best-pokemon-rom-hacks/
+Pokedex BR 
+https://pokeverso.com.br/
 Ferramentas :
 https://projectpokemon.org/home/forums/forum/204-saves-tools/
 Saves de jogos :
 https://projectpokemon.org/home/files/category/195-user-contributed-saves/
+Dicas 
+http://www.psypokes.com/index.php
+Calculadora de IV 
+https://pycosites.com/pkmn/ivcalc_gen1.php
 Informações do jogo POkémon Mega Despertar chinês 
 https://www.yxss.com/azyx/38072.html#gamedown
 
@@ -466,6 +484,8 @@ https://www.pokecommunity.com/showthread.php?p=10586235#post10586235
 
 https://pokemondb.net/pokedex/all
 https://pokemondb.net/pokedex/shiny
+
+https://www.pokemontrash.com/club/rom-hacking/
 
 https://www.pokemythology.net/conteudo/informacoes/golpes.htm
 http://www.psypokes.com/index.php

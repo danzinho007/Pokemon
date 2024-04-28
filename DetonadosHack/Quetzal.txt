@@ -1,9 +1,42 @@
+Pokebola > Poção > 
+
 Antidoto   = 43
 Iv Max     = 72
-Poção      = 28 ao 32
+Poção      = 28 ao 52
 Pokebola   = 01 ao 27
 Rare Candy = 102
 Timid Mint = 97
+
+Berry Juice = Restaura 20 HP 
+-Carbos = Aumenta Spd do pokémon
+Elixir = Restaura 10 PP de todos golpes
+Ether = Restaura 10 PP de 1 golpe
+-Iron = Aumenta Def do Pokémon
+Max Honey = Revive e restaura 1 pokémon
+-Muscle Feather = Aumenta Atq do Pokémon
+Sacred Ash = Revive e Restaura todos pokémon
+-Sea Incense = Aumenta golpes de água
+Sweet Heart = Restaura 20 HP
+-Zinc = Aumenta SpD do Pokémon
+
+Ataque : Brave 
+Muscle Feather vs Protein = ?
+Defesa : Bold ( -Atq ) Impish ( -SpA ) Relaxe ( - Spd )
+       : Resist Feather vs Iron
+       : Power Belt ( -Spd )
+SpcAtq : Mild ( -Def ) Modest ( -Atq )
+Genius Feather vs Calcium = ?
+
+Fairy :              + Pixie Plate
+Grass : Rose Incense + Meadow Plate
+Rock  : Rock Incense
+Steel :              + Metal Coat
+Water : Sea  Incense
+Aron ( +Def depois Atq )
+Adamant 21 14 16 09 10 09
+Brave   21 14 16 10 10 08
+Brave   21 17 16 10 10 08
+Gentle  21 13 14 10 11 09
 
 Nature :
 Timid = 10

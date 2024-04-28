@@ -1,5 +1,19 @@
 Times :
 
+1° Geração 
+2° Geração 
+3° Geração
+4° Geração
+5° Geração
+6° Geração
+7° Geração
+8° Geração
+9° Geração
+Time Inicial
+Time Lendário
+Time Mítico
+Time Normal 
+
 Lead = Pokémon que inicia a partida
 Pivo = Pokémon que entra, resolve e sai
 Setup = Pokémon que se bufa
