@@ -1,6 +1,27 @@
 Pokémon de A até Z :
 
+Sites 
+https://pokemondb.net/pokedex/all
+
+Fraquezas :
+Delibird (GeloVoador) = 4, sendo 1 4x
+Doduo (NormalVoador) = 3
+Eevee (Normal) = 1 Lutador
+Kakuna (InsetoVenenoso) = 4
+Nidoran M (Veneno) = 2
+Paras (InsetoPlanta) = 6, sendo 2 4x
+Psyduck (Água) = 2
+Swinub (GeloTerra) = 5
+Wooper (ÁguaTerra) = 1, sendo 1 4x
+
 Geração- Nome ( Tipo )
+
+Base :
+
+Toma   4x em :
+Toma   2x em :
+Toma 1/2x em :
+Resiste   em :
 
 6- Amaura ( Gelo Pedra )
 3- Anorith ( Inseto Pedra )
@@ -43,6 +64,13 @@ Drapion
 Toma   2x em : 
 Toma 1/2x em : Elétrico, Voador e Metal
 
+- Ekans ( Veneno ) :
+Toma   4x em : 
+Toma   2x em : Terra e Psíquico
+Toma 1/2x em : Planta, Luta, Veneno, Inseto e Fada
+Resiste   em : 
+@ Giga Drain
+
 ---Letra F
 
 611- Fraxure ( Dragão )
@@ -50,6 +78,13 @@ Toma   2x em : Dragão, Fada e Gelo
 Toma 1/2x em : Água, Elétrico, Fogo e Grama
 
 ---Letra G
+
+-Geodude ( Pedra Terra ) :
+Toma   4x em : Água e Planta
+Toma   2x em : Gelo, Lutador, Terra e Metal
+Toma 1/2x em : Normal, Fogo, Veneno, Voador e Pedra
+Resiste   em : Elétrico
+@ Earthquake
 
 -Gliscor
 -Goomy ( Dragão )
@@ -65,12 +100,37 @@ Toma 2x : Inseto, Fantasm e Sombrio
 Toma 4x em : Fada
 Toma 2x em : Gelo, Fogo, Psíquico e Dragão
 
+--- Letra J
+
+- Jigglypuff (Normal Fada) :
+Toma   4x em :
+Toma   2x em : Veneno e Metal
+Toma 1/2x em : Inseto
+Resiste   em : Fantasma e Dragão
+@
+@Flametrower
+@
+
 ---Letra M
 
 - Mr Mime Galar ( Gelo Psíquico ) :
 Toma 2x em : Fogo, Inseto, Pedra, Fantasma, Sombrio e Metal
 
+--- Letra N 
+
+- Nidora M 
+@IceBeam
+
 ---Letra S
+
+- Shelder (Água) :
+Toma   4x em :
+Toma   2x em : Elétrico e Planta
+Toma 1/2x em : Fogo, Água, Gelo e Metal
+Resiste   em :
+@Ice Beam
+@Surf
+@
 
 - Skrelp ( Água Veneno ) :
 Toma  2x em : Elétrico, Terra e Psíquico
@@ -79,13 +139,46 @@ Toma  2x em : Elétrico, Terra e Psíquico
 Toma   2x em : Dragão, Fada e Gelo
 Toma 1/2x em : Água, Elétrico, Fogo e Grama
 
+- Slowpoke ( Água Psíquico ) :
+Toma   4x em : 
+Toma   2x em : Elétrico, Planta, Inseto, Fantasma e Sombrio
+Toma 1/2x em : Fogo, Água, Gelo, Lutador, Psíquico e Metal
+Resiste   em :
+@Earthquake
+@IceBeam
+@Surf
+
+- Smoochum ( Gelo Psíquico ) :
+Toma   4x em : 
+Toma   2x em : Fogo, Inseto, Pedra, Fantasma, Sombrio e Metal
+Toma 1/2x em : Gelo e Psíquico
+Resiste   em :
+@ Psychic
+
+- Spinarak ( Inseto Veneno )
+Toma   4x em :
+Toma   2x em : Fogo, Voador, Psíquico e Pedra
+Toma 1/2x em : Planta, Lutador, Veneno, Inseto e Fada
+Resiste   em :
+
 8- Stonjourner ( Pedra )
+
+- Swinub ( Gelo Terra )
+Toma   2x em : Fogo, Água, Planta, Lutador e Metal
+Toma 1/2x em : Veneno
+Resiste   em : Elétrico
 
 ---Letra T
 
 - Togedemaru ( Água Aço ) :
 Toma 4x em : Terra
 Toma 2x em : Fogo e Lutador
+
+- Togepi ( Fada ) :
+Toma   4x em : 
+Toma   2x em : Veneno e Metal
+Toma 1/2x em : Lutador, Inseto e Sombrio
+Resiste   em : Dragão
 
 ---Letra W
 

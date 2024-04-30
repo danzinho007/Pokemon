@@ -1,157 +1,4 @@
 
-HexMania Advance :
-https://github.com/haven1433/HexManiacAdvance/blob/master/src/HexManiac.Core/Models/Code/scriptReference.md#specials
-
-https://www.youtube.com/watch?v=gUj-lP2Zccg
-
-Bandeiras :
-	0x0230 = ?
-Variáveis :
-	0x4001 = Insígnia
-	0x405F = Insígnia
-	0x4031 = ? ( Achei no 168471 )
-	var0 = Insígnias
-	varLastTalked = ? ( Achei no 168471 )
-
-Endereços :
-	<1722CD>
-	<17233F> = Mensagem 
-	<172371> = Mensagem
-	<17238D> = Mensagem
-	<1889D1>
-	<18DE92>
-	<1A7653>
-	<1A7655>
-	<1C5102>
-	<1C559B>
-	<1C55B4>
-	<47F1CC>
-
-Função: AnimatePcTurnOn 
-	CallTrainerTowerFunc 
-	GetQuestLogState
-	Script_SetHelpContext
-	SetHelpContextForMap
-
-Comandos :
-
-giveEgg NomeDoPokemon
-giveMoney Quantidade Checagem ( Se for 0, jogador leva a grana )
-givePokemon NomeDoPokemon ItemSegurando
-
-{
-delay_16
-delay_16
-delay_16
-}
--A sequência delay_16 delay_16 delay_16 faz com que o script pause por três vezes consecutivas, cada vez por um período de 16 unidades de tempo, antes de continuar com as próximas instruções. 
-
-addvar temp3 1
--Adiciona 1 ao valor de temp3.
-
-closeonkeypress
--Fecha a caixa de mensagem quando uma tecla é pressionada.
-
-copyvar var0 varResult
--Copia o valor de var0 para varResult
-
-{
-emote_exclamation_mark
-}
--O NPC 3 faz um emote de exclamação.
-
-find.item POTION 1
--Encontrar item Potion 1
-
-goto <1C528C>
--Pula para 1C528C
-
-if.compare.goto var0 == 0 <section3>
--Se var0 for igual a 0, o script pula para section3
-
-if.compare.goto temp3 == 1 <section5>
--Se temp3 for igual a 1, o código pula para a seção <section5>.
-
-move.npc 3 <1A7653>
--Move o NPC 3 para a localização 1A7653
-
-msgbox.autoclose <172497>
-{
-Sometimes, you can find stuff on
-the ground.
-
-I'm looking for the stuff I
-dropped. Can you help me?
-}
-end
--Exibe uma caixa de mensagem que se fecha automaticamente após ser exibida, com conteúdo proveniente de <172497>
-
-msgbox.default <2021D18>
--Exibe uma caixa de mensagem padrão com conteúdo de <2021D18>.
-
-msgbox.npc <1722CD>
-{
-I came here with some friends to
-catch us some BUG POKéMON!
-
-They're all itching to get into
-some POKéMON battles!
-}
--Exibe uma caixa de diálogo falada por um NPC com conteúdo proveniente de <1722CD>
-
-setflag 0x0254
--É usada para definir (set) uma flag ou sinalizador (flag) com o identificador 0x0254
-
-setvar temp3 0
--Define temp3 como 0
-
-setvar var4 3
--Define a variável var4 como 3
-
-single.battle SAMMY <17244C> <17247A>
-{
-Hey, wait up!
-What's the hurry? Why the rush?
-}
-{
-I give!
-You're good at this!
-}
--Inicia uma batalha individual com um personagem chamado "SAMMY". Os diálogos associados a esta batalha são definidos entre chaves {}.
-
-single.battle.continue.silent BROCK <190D4C> <190EC7> <section1>
-- Esta é uma instrução que provavelmente inicia uma batalha individual de forma contínua e silenciosa, o que significa que a batalha acontece sem interrupções e sem diálogos durante a batalha.
-
-special CallTrainerTowerFunc
--Chama uma função especial chamada CallTrainerTowerFunc
-
-special ChooseMonForMoveTutor
--Ensina um Pokémon o golpe Comet Punch
-
-special EnableNationalPokedex
--Ativar a Pokedex Nacional
-
-special HealPlayerParty
--Todos os Pokémon do personagem principal são totalmente restaurados como se tivessem sido curados em um Centro Pokémon.
-
-special playsong
--
-
-special SpawnCameraObject
--Ao chamar isso por meio de um specialcomando, ele permite que comandos applymovemente futuros move.cameramovam a câmera em vez de um NPC. (A câmera tem um ID 127.) Em Pokémon Ruby e Sapphire, o especial é nomeado SpawnCameraDummy.
-
-special StartRematchBattle
-playsong [song name] playOnce
-trainerbattle 01 [trainer name] 0 <introText> <defeatText> <continueScript>
--Rebatalhar contra o treinador
-
-special UpdatePickStateFromSpecialVar5
--Chama uma função especial chamada 
-UpdatePickStateFromSpecialVar5
-
-special trainerbattle
-
-
 ---Trainer AI Script :
 https://www.youtube.com/watch?v=NZoIevjHBsc&ab_channel=StarstruckShiny
 Sprite 64x64 
@@ -517,7 +364,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/132a3m5/pokemon_doubles_firere
 -Dreams = 
 -DumbDumb Island = 
 
-Letra E = 11
+Letra E = 12
 -Eclat Purpre = OK 01
 -Eclipse = OK 02
 -Elite Black = OK 03
@@ -553,10 +400,11 @@ https://www.reddit.com/r/PokemonROMhacks/comments/14mdkub/pokemon_equilibrium_in
 -Escudo = 
 -Espada = 
 -Eternal Colosseum = 
+-Evil Drill 1 = OK 12
 -Evo Yellow = 
 -Exceeded = 
 
-Letra F = 07
+Letra F = 08
 -Factory Adventure = 
 -Fallen = 
 -Fat Kid Beta 1.2.4 = OK 01
@@ -583,6 +431,7 @@ Ger 1 até 08
 -Fire Red Fat = 
 -Fire Red Legacy = 
 -Fire Red Minus = !!!
+-Fire Red WTC = OK 08
 -Flora Sky Complement Dex = 
 -Flora Sky Rebirth = OK 04
 -Frontier Adventure v16.12.20 = OK 05
@@ -620,7 +469,7 @@ Letra H = 05
 -Hyper Emerald Real v3 = 
 -Hyper Emerald V Rainbow Reaser = 
 
-Letra I = 04
+Letra I = 05
 -Ice Adventure = OK 01
 -ice Blue 2.0 = OK 02
 -Inclement Emerald = 
@@ -628,7 +477,8 @@ Letra I = 04
 -Infinite Fusion = 
 -Inflamed Red (v1.0.5) = ?17
 -Inheritance_Demo_1 = ? 18
--Intense Indigo Edition = 
+-Intense Indigo Edition = OK 05
+https://www.pokecommunity.com/threads/first-gen-difficulty-mod-pokemon-intense-indigo-edition-as-well-as-pokemon-indigo-lite-edition.311507/
 -Islas Doradas 2.0 = OK 04
 
 Letra J = 02
@@ -686,7 +536,7 @@ Letra M = 03
 -Mega Evolution = 
 -Mega Fire Red = 
 -Mega Moemon Fire Red v 1.3c
--Mega Moemon Fire Red v 1.4c =
+-Mega Moemon Fire Red v 1.4c = OK 04
 https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august2023/
 -Mega Origins = 
 -Mega Power = 
@@ -725,8 +575,10 @@ https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august
 -Mystical Beta 3.08 Espanhol = 
 -Mythic Legends = 
 
----Letra N = 02
+---Letra N = 03
 
+-Navilevaihcam 1.5 = OK 03
+Você começa com 100 pokebola e 1 Absol Lv 5, não curti 
 -Nameless Fire Red = OK 01
 Golpes físicos e especiais
 Gen 4-6 Golpes, habilidades,itens
@@ -734,7 +586,6 @@ Gen 4-6 Golpes, habilidades,itens
 120 tms
 Mega Evoluções
 TMs infinitas
-
 -Naranja = OK 02
 Novos mapas,e Pokémon coloridos.
 Nova história
@@ -748,20 +599,22 @@ Apenas Pokémon até a 3ª Gen
 -Normal Version Build 3.0 = 
 -NSanSBeta = 
 
-Letra O = 02
--Odyssey = 
+Letra O = 03
+-Odyssey = OK 03
+https://www.pokecommunity.com/threads/pok%C3%A9mon-odyssey-beta-2-6.488536/
 -Old Ruby v 1.3 = OK 01
--Omega Red = OK 02
+-Omega Red v4.1 Player Brendan = OK 02
+-Omega Red v4.2 = 
 -Orange = 
 
-Letra P = 06
+Letra P = 07
 -Parallel Emerald = 
 https://www.reddit.com/r/PokemonROMhacks/comments/13c023k/release_pok%C3%A9mon_parallel_emerald_v025_out_now_see/
 -Pengies Silly Emerald Hack = OK 05
 -Perfect Blue = OK 06
 -Perfect Crystal = 
 https://www.youtube.com/watch?app=desktop&v=oeJBVY3z_uE&ab_channel=SmithPlaysPok%C3%A9mon
--Perfect Emerald = 
+-Perfect Emerald v4.0 = OK 07 
 -Perfect Red = OK 01
 -Peridot Version = 
 -Personal Fire Red = ???
@@ -784,9 +637,10 @@ Letra Q = 02
 -Quetzal = OK
 -Quetzal v0.7.0 = 
 
-Letra R = 07
+Letra R = 08
 -Radical Red 4.1 = OK 01
 -Ragnarok = OK 06
+-Recharged Emerald = 
 -Reboot = OK 02
 -Red ++ Normal 3A10014B= OK 03
 -Red ++ v3.0.2 Hard AFFC498E =
@@ -806,12 +660,14 @@ https://www.reddit.com/r/PokemonROMhacks/comments/yw2v8z/fire_red_pokemon_rough_
 -Rowe = OK 04
 -Ruby ++ 1.0.3 = OK 05
 -Ruby Einglocke = 
+-Rusty = OK 08
 
-Letra S = 12
+Letra S = 13
 -Sacred = 
 -Saiph Full v2020 = OK 04
 -Scarlet Violet 30/04/2023 = OK 10
 -Serene Crystal = 
+-Sharp Diamond = OK 13
 -Shin Pokemon v1.24.5 = OK 11
 https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugfix-ai-and-qol-patch.427398/
 -Shining Victory = 
@@ -838,14 +694,16 @@ https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_i
 -Sword Shield 9.1 PT BR = OK 08
 -Sword Shield Ultimate = 
 
-Letra T = 03
+Letra T = 05
 -team_rocket_jessie_james_edition_beta_2.5 = OK 01
 -The Last Renoval Red Ultimate = 
+-Theta Emerald = OK 04
+Pesquisar, pois está bugada
 -This Gym is Mine = OK 02
-
+-Thunder Yellow = OK 05
+Pesquisar, Pikachu bugando do nada
 -Titanic 2 = 
 https://www.reddit.com/r/PokemonROMhacks/comments/193n33k/titanic_2_mini_hack_my_magm_8_submission/
-
 -Tits = 
 Capa OK
 -TRE 2 = 
@@ -880,7 +738,8 @@ https://pokemon-vega.fandom.com/wiki/Pok%C3%A9mon_Vega_Wiki
 -Vica Las Vega F590716E = 
 -Volcano = OK 02
 
-Letra W = 03
+Letra W = 04
+-Wally Quest = OK 04
 -Wasteland =
 https://z3bra.org/pokerom/
 https://www.reddit.com/r/PokemonROMhacks/comments/12ukx95/pokemon_wasteland_release_candidate/

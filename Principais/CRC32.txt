@@ -29,15 +29,21 @@ Fire Red USA 1.1: 84EE4776 ( OK )
 Leaf Green USA 1.0 :  D69C96CC ( OK )
 Leaf Green USA, Europe 1.1 : DAFFECEC ( OK )
 
-Diamond USA :     84427823 ( OK )
-Pearl USA :       E2D87EBF ( OK )
-Platinum USA :    9253921D ( OK )
-Platinum USA Rev1 69D628E8 ( OK )
-Heart Gold USA :  C180A0E9 ( OK )
-Soul Silver USA : D8EA6090 ( OK )
+Diamond USA :       84427823 ( OK )
+Diamond PT-BR   =   B6030849
+Pearl USA :         E2D87EBF ( OK )
+Pearl PT-BR       = 
+Platinum USA :      9253921D ( OK )
+Platinum USA Rev1   69D628E8 ( OK )
+Platinum PT-BR    = A00BE79B
+Heart Gold USA :    C180A0E9 ( OK )
+Heart Gold PT-BR    A296563
+Soul Silver USA :   D8EA6090 ( OK )
+Soul Silver PT-BR = C6282F86
 
 Black USA :       E2BEE619 ( OK )
 Black USA,Europe: 4F6E5580 ( OK ) OK
+Black PT-BR     = E22871F2
 Black 2 USA :     25BA3AA6 ( OK )
 Black 2 USA EuropeD4427FD1 ( OK )
 White USA :       EDCD5161 ( OK )
@@ -45,21 +51,16 @@ White 2 :         B72BBA42 ( OK )
 
 PT-BR Oficiais 
 
-NDS-Black ( Preto )                = E22871F2
+
 NDS-Black 2 ( Preto 2 )            = 3710CD4D
 GBC-Crystal ( Cristal )            = A3F7D216
-NDS-Diamond ( Diamante )           = B6030849
-
 GBA-Fire Red ( Fogo Vermelho )     = 7A6EF5F5
 GBA-Gold ( Ouro )                  = D8CB8310
-NDS-Heart Gold ( Coração de Ouro ) = A296563
 GBA-Leaf Green ( Planta Verde )    = 62CDC2D1
-NDS-Platinum ( Platina )           = A00BE79B
 GB-Red ( Vermelho )                = 8BE1C176
 GBA-Ruby ( Rubi )                  = 42D89175
 GBA-Sapphire ( Safira )            = 21447913
 GBC-Silver ( Prata )               = 132B68B4
-GBA-Soul Silver ( Alma de Prata )  = C6282F86
 NDS-White ( Branco )               = 15BDA78A
 NDS-White 2 ( Branco 2 )           = 1031574D
 

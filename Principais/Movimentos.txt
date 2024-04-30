@@ -1,8 +1,31 @@
 Movimentos :
 
-https://pokemondb.net/move/generation/1
+https://pokemondb.net/move/all
 https://www.poke-blast-news.net/2013/07/tipo-rock-pedra.html
 https://www.poke-blast-news.net/2013/07/tipo-ground-terra.html
+
+GigaDrain (Especial)   075 Planta
+Flamethrower(Especial) 090 Fogo
+IceBeam   (Especial)   090 Gelo
+SludgeBomb(Especial)   090 Veneno
+Surf      (Especial)   090 Água
+Blizzard  (Especial)   110 Gelo
+
+Bite       (Físico) 060 Sombrio
+Slash      (Físico) 070 Normal
+IcePunch   (Físico) 075 Gelo
+Drill Peck (Físico) 080 Voador
+Fly        (Físico) 090 Voador
+Take Down  (Físico) 090 Normal
+Earthquake (Físico) 100 Terra
+Jump Kick  (Físico) 100 Lutador
+DoubleEdge (Físico) 120 Normal
+Thrash     (Físico) 120 Normal
+
+Depende da Amizade 
+Return (Físico) Poder aumenta com maior Amizade
+Depende do HP 
+Fail (Físico) Quanto menor o HP do usuário, maior será o poder
 
 Prioridades :
 
@@ -14,6 +37,9 @@ Aceelerock
 User attacks first.
 
 ---Letra B
+
+- Blizzard - Gelo - Especial - 110 - 70 - 5
+Pode congelar o oponente
 
 5- Bulldoze- Terra- Físico- 60- 100%-20 
 O usuário bate em tudo ao seu redor pisando no chão. Isso diminui a estatística de velocidade daqueles atingidos.
@@ -33,6 +59,7 @@ Moonblast = May lower opponent's Special Attack.
 
 ---Letra P 
 
+Petal Dance - Planta - Especial - 120 - 100 - 10    
 Power Gem ( Pedra ) = 
 
 ---Letra R
