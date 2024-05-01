@@ -3,17 +3,6 @@ Pokémon de A até Z :
 Sites 
 https://pokemondb.net/pokedex/all
 
-Fraquezas :
-Delibird (GeloVoador) = 4, sendo 1 4x
-Doduo (NormalVoador) = 3
-Eevee (Normal) = 1 Lutador
-Kakuna (InsetoVenenoso) = 4
-Nidoran M (Veneno) = 2
-Paras (InsetoPlanta) = 6, sendo 2 4x
-Psyduck (Água) = 2
-Swinub (GeloTerra) = 5
-Wooper (ÁguaTerra) = 1, sendo 1 4x
-
 Geração- Nome ( Tipo )
 
 Base :
@@ -47,7 +36,16 @@ Toma  2x em : Veneno e Metal
 - Crustle ( Inseto Pedra ) :
 Toma 2x em : Água, Pedra e Metal
 
+- Cyndaquil 
+@Fire Blast
+@Toxic
+
 ---Letra D
+
+- Diglett 
+Pokémon rápido
+@Earthquake
+@Rock Slide
 
 Dragapu
 
@@ -113,6 +111,14 @@ Resiste   em : Fantasma e Dragão
 
 ---Letra M
 
+- Mankey (Lutador) :
+Velocidade boa 70
+Toma   4x em :
+Toma   2x em : Voador, Psíquico e Fada
+Toma 1/2x em : Inseto, Pedra e Sombrio
+Resiste   em :
+@Cross Chop
+
 - Mr Mime Galar ( Gelo Psíquico ) :
 Toma 2x em : Fogo, Inseto, Pedra, Fantasma, Sombrio e Metal
 
@@ -122,6 +128,12 @@ Toma 2x em : Fogo, Inseto, Pedra, Fantasma, Sombrio e Metal
 @IceBeam
 
 ---Letra S
+
+- Sandshrew ( Terra ) :
+Toma   4x em :
+Toma   2x em : Água, Planta e Gelo
+Toma 1/2x em : Veneno e Pedra
+Resiste   em : Elétrico
 
 - Shelder (Água) :
 Toma   4x em :
@@ -179,6 +191,20 @@ Toma   4x em :
 Toma   2x em : Veneno e Metal
 Toma 1/2x em : Lutador, Inseto e Sombrio
 Resiste   em : Dragão
+
+- Venonat (Inseto Venenoso) :
+Toma   4x em :
+Toma   2x em : Fogo, Voador, Psíquico e Pedra
+Toma 1/2x em : Planta, Lutador, Veneno, Inseto e Fada
+Resiste   em :
+@Sludge Bomb
+@Toxic
+
+- Vulpix (Fogo) :
+Toma   4x em :
+Toma   2x em : Água, terra e Pedra
+Toma 1/2x em : Planta, Gelo, Inseto, Metal e Fada
+Resiste   em : Fogo
 
 ---Letra W
 

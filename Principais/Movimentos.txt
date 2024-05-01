@@ -4,19 +4,23 @@ https://pokemondb.net/move/all
 https://www.poke-blast-news.net/2013/07/tipo-rock-pedra.html
 https://www.poke-blast-news.net/2013/07/tipo-ground-terra.html
 
+
 GigaDrain (Especial)   075 Planta
 Flamethrower(Especial) 090 Fogo
 IceBeam   (Especial)   090 Gelo
 SludgeBomb(Especial)   090 Veneno
 Surf      (Especial)   090 Água
 Blizzard  (Especial)   110 Gelo
+FireBlast (Especial)   110 Fogo
 
 Bite       (Físico) 060 Sombrio
 Slash      (Físico) 070 Normal
 IcePunch   (Físico) 075 Gelo
+ThunderPunch(Físico)075 Elétrico
 Drill Peck (Físico) 080 Voador
 Fly        (Físico) 090 Voador
 Take Down  (Físico) 090 Normal
+Cross Chop (Físico) 100 Lutador
 Earthquake (Físico) 100 Terra
 Jump Kick  (Físico) 100 Lutador
 DoubleEdge (Físico) 120 Normal

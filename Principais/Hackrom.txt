@@ -97,11 +97,13 @@ Red ++ =
 Ruby ++ = 
 
 Competitivo :
-Battle 
-God of Arena
-Unbound Battle Frontier = 
-World Championships
-World Stadium v2.1 =
+Battle = Falta
+Elite Redux v2.0 = Falta
+God of Arena = Falta
+Quetzal = Falta
+Unbound Battle Frontier = Falta
+World Championships = Falta
+World Stadium v2.1 = Falta
 
 Kaizo :
 Black 2 Kaizo = 
@@ -250,17 +252,16 @@ https://www.pokecommunity.com/threads/pokemon-atlas-emerald-beta-1-0rq-update-ap
 -Axon = 
 Capa OK
 
-Letra B = 08
+Letra B = 09
 -Baby Blue = 
 Capa OK
--Battle Factory = 
+-Battle Factory = OK 09
+Competitivo
 -Battle Labyrinth =
 Capa OK
 -Battle Ultimate = OK 01
 -Battle World = ???03
-
 -Berilo
-
 -Better Than Better Emerald = ???04
 -Bizarre = 
 Capa OK
@@ -285,7 +286,6 @@ Capa OK
 Capa OK
 https://www.reddit.com/r/PokemonROMhacks/comments/13t7sim/pok%C3%A9mon_bloody_platinum_reduxcomplet_version/
 -Blue = 
-
 -Blue Kaizo = 
 Capa OK
 -Blue Legend Version = 
@@ -316,7 +316,7 @@ Letra C = 05
 -Carmine Red 1.0 = 
 https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_red_10_has_been_released/
 -Cerice v1.5 = OK 
--Ceylon = 
+-Ceylon = OK 06
 -Chaos Emerald v2.4c = OK 01
 -Celias Smart Romhack = 
 -Classic = 
@@ -404,7 +404,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/14mdkub/pokemon_equilibrium_in
 -Evo Yellow = 
 -Exceeded = 
 
-Letra F = 08
+Letra F = 09
 -Factory Adventure = 
 -Fallen = 
 -Fat Kid Beta 1.2.4 = OK 01
@@ -413,6 +413,9 @@ Letra F = 08
 -Fire Ash = 
 -Fire Burn = 
 -Fire Gold = 
+-Fire Pheonix BR = OK 09
+Mundo aberto
+Sprites bugados
 -Fire Red + Plus = 
 -Fire Red 2 = 
 -Fire Red Advanced Challenge = 
@@ -607,7 +610,7 @@ https://www.pokecommunity.com/threads/pok%C3%A9mon-odyssey-beta-2-6.488536/
 -Omega Red v4.2 = 
 -Orange = 
 
-Letra P = 07
+Letra P = 08
 -Parallel Emerald = 
 https://www.reddit.com/r/PokemonROMhacks/comments/13c023k/release_pok%C3%A9mon_parallel_emerald_v025_out_now_see/
 -Pengies Silly Emerald Hack = OK 05
@@ -618,7 +621,8 @@ https://www.youtube.com/watch?app=desktop&v=oeJBVY3z_uE&ab_channel=SmithPlaysPok
 -Perfect Red = OK 01
 -Peridot Version = 
 -Personal Fire Red = ???
--Pikamon = 
+-Pikamon = OK 08
+Pesquisar
 -Pisces = 
 -Pit of 100 Trials = 
 -Platinum Pro Full = OK 02
@@ -637,9 +641,11 @@ Letra Q = 02
 -Quetzal = OK
 -Quetzal v0.7.0 = 
 
-Letra R = 08
+Letra R = 10
 -Radical Red 4.1 = OK 01
 -Ragnarok = OK 06
+-Rainbow = OK 09
+Verificar
 -Recharged Emerald = 
 -Reboot = OK 02
 -Red ++ Normal 3A10014B= OK 03
@@ -649,7 +655,9 @@ Letra R = 08
 -Red Map Randomizer = 
 -Regis Origin = 
 -Remixed Blue 1d1 = OK 07
--Resolute = 
+-Resolute v2.83 PT BR 3.0 = OK 10 
+Pesquisar
+Sem ExpShare
 -Retrieved FireRed =
 -Roaming Red =
 -Robust Red = 
@@ -662,10 +670,14 @@ https://www.reddit.com/r/PokemonROMhacks/comments/yw2v8z/fire_red_pokemon_rough_
 -Ruby Einglocke = 
 -Rusty = OK 08
 
-Letra S = 13
--Sacred = 
+Letra S = 15
+-Sacred v1.0 = OK 14 
+Não funcionou
 -Saiph Full v2020 = OK 04
 -Scarlet Violet 30/04/2023 = OK 10
+-Season Version v2.1 = OK 15
+Difícil
+Verificar
 -Serene Crystal = 
 -Sharp Diamond = OK 13
 -Shin Pokemon v1.24.5 = OK 11
@@ -747,16 +759,21 @@ https://www.reddit.com/r/PokemonROMhacks/comments/12ukx95/pokemon_wasteland_rele
 -World Championship = OK 02
 -World Stadium = OK 03
 
-Letra X
--
+Letra X 02
+-X Y Emerald = OK 02
 -X Y Version = OK 01
 -
 
-Letra Y = 02
+Letra Y = 03
 -Yellow Cross 
 -Yellow Editada = OK 01
 -Yellow Kaizo Beta 0.4 = OK 02
+-Yu-Gi-Oh PokeDuel = OK 03
+Versão desatualizada
+-Yu-Gi-Oh PokeDuel 4.0.5 = 
 
-Letra Z = 02
+Letra Z = 03
+-Zaru completed = OK 03
+https://www.pokecommunity.com/threads/pokemon-zaru.404912/
 -Zelda Sacred Paradox = OK 01
 -Zoala v0.1.7 = OK 02

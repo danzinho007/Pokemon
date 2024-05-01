@@ -1,26 +1,33 @@
 Pokémon Velocidade :
 
-Minior    120
-Archeops  110
-Charizard     100
-Mr Mime Galar 100
-Klinklang 090
-Moltres   090
-Heracross 085
-Seadra    085
-Milotic   081
-Mamoswine 080
-Venusaur  080
-Tyrantrum 071
+-Minior      120
+-Archeops    110
+-Charizard   100
+-MrMimeGalar 100
 
-Primarina 060 <<<
-Weezing   060
-Golurk    055
-Aggron    050
-Lurantis  045
-Probopass 040
-Steelix   030
-Gigalith  025
+-Diglett     095
+-Klinklang   090
+-Moltres     090
+-Heracross   085
+-Seadra      085
+
+-Milotic     081
+-Mamoswine   080
+-Venusaur    080
+-Delibir     075
+-Tyrantrum   071
+
+-Mankey      070
+-Vulpix      065
+-Primarina   060
+-Weezing     060
+-Golurk      055
+
+-Aggron    050
+-Lurantis  045
+-Probopass 040
+-Steelix   030
+-Gigalith  025
 
 Jogo :
 

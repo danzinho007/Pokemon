@@ -1,0 +1,12 @@
+Pokémon God of Arena 
+
+Fraquezas :
+Delibird (GeloVoador) = 4, sendo 1 4x
+Doduo (NormalVoador) = 3
+Eevee (Normal) = 1 Lutador
+Kakuna (InsetoVenenoso) = 4
+Nidoran M (Veneno) = 2
+Paras (InsetoPlanta) = 6, sendo 2 4x
+Psyduck (Água) = 2
+Swinub (GeloTerra) = 5
+Wooper (ÁguaTerra) = 1, sendo 1 4x
