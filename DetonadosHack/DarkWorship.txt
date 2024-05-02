@@ -1,3 +1,102 @@
+---Dark Worship :
+
+Dark Worship 3.0 Final = 91EDD38C
+Dark Worship 3.1 Final = DC0F577B
+Dark Worship 3.2 = 
+Dark Worship 3.3 = 
+Dark Worship 3.3.1 = 
+Dark Worship 3.4 = 
+Dark Worship 3.5 = 
+Dark Worship 3.6 = 
+Dark Worship 3.7 = 
+Dark Worship 3.8       = 2183FDBD
+
+---Super Dark Worship 
+
+v?.? : D2510AC1 = Tela preta + DexAll não funcionando + bug do mel 
+v1.0 : 52C256C3 = Tela preta + DexAll não funcionando + bug do mel 
+
+Motivos :
+1- PT-BR
+2- 4 Modos de dificuldade
+3- Level cap Sim ou não
+4- 8 Geração de Iniciais
+5- Região Nova
+6- Placa que informa os pokémon da rota
+7- Mostra o tipo dos pokémon em batalha
+8- Mostra a efetividade de cada golpe
+9- Missões
+
+Versão do dia 01/01/23: 
+*Dois novos Beta Tester
+*Gracidea, Griseous Orb e Lutrous Orb obtiveis na Beta Tower
+*Hail aumenta defesa de tipo gelo no Expert
+*Evento Dialga, Palkia, Giratina
+*correção de bugs
+*Regice capturavel
+*Regirock capturavel
+*Registeel capturavel
+*Todos os iniciais obtiveis
+*Sprite do Fear removido do trainer card
+
+-Versão v2.4 do dia 06.02.23:
+*Z-Cube agora pode ensinar Moves Assinatura do Zygarde.
+*EXP Share corrigido, agora pode ativar e desativar normalmente.
+*Rematch Contra Rebeca corrigido.
+*Yveltal adicionaldo para capturar.
+*TM86 (Grass Knot) Adicionado (Route 13)
+*Evento Boss Otomai Island corrigido
+*TM104 (Psyshock) adicionado (Otomai Island)
+*Regigigas adicionado (Snow Hill Cave)
+*Lunalium Z adicionado (Snow Hill Cave)
+*Maquina de troca de TMs adicionado no Laboratório de Pompano
+*Abomasite adicionada (Snow Hill Cave)
+
+-Changelog Dark Worship 2.6
+*Mini sprite do Giratina corrigido.
+*Objetos de trocar forma do Rotom adicionados (Sufokia Town)
+*Deino adicionado na Cave Rota 6
+*Batalha contra Danilo na Beta Tower corrigido.
+*Novos premios Beta Tower:
+-Rusted Shield
+-Rusted Sword
+-TM93 (Dragon Tail)
+-TM103 (Sludge Wave)
+-Black Flute
+-Max Elixir
+*Poço da Rota 14 virou poço da sorte.
+(Jogando 3k você pode ganhar incenços)
+*TM83 (Scald) adicionado na Route 11
+*Caterpie adicionado na Route 02
+*Evento Landorus adicionado (Lab de Pompano City)
+*Evento Thundurus adicionado (Hidrelétrica)
+*Evento Tornadus adicionado (Prefeitura Rangiroa)
+*Arceus removido do Mystery Gift
+*Diancie adicionada no Mystery Gift
+*Cobalion, Terrakion e Virizion adicionados (Route 3)
+*Item DNA Splices adicionado (Route 3)
+*Evento Kyurem adicionado (Cave Snow Hill)
+*Item Douse Drive adicionado (Cave Snow Hill)
+*Encounter Frigost Cave fixado
+
+Changelog Dark Worship 2.8
+*Sufokia Town e Shell Town agora tem Flying Position
+*Beta Tower reformulada
+*Times da Liga modificados
+*Evento Mew adicionado
+*Mewnium Z adicionado
+*Mind Plate adicionado
+*Rock Plate adicionado
+*Splash Plate adicionado
+*HM07 (Waterfall) adicionado
+*Zacian adicionado
+*Zamazenta adicionado
+*Desert Flower agora é armazenado em Itens Pocket
+*Sky Plate adicionado
+*Loja de Memorias do Sylvally adicionada
+*Preço Power Lens corrigido
+*Cresselia adicionada ao Mystery Gift
+*Correção evento da Seita Limia City
 
 Dark Worship 3.0 Final = 91EDD38C
 🔸 Dois novos Beta Testers
@@ -157,13 +256,17 @@ Dark Worship 3.7
 🔸 TM11 (Sunny Day) e TM14 (Blizzard) adicionados na Maquina de TM em Pompano City
 🔸 Time do Lider Fighting modificado
 
-Motivos :
-1- PT-BR
-2- 4 Modos de dificuldade
-3- Level cap Sim ou não
-4- 8 Geração de Iniciais
-5- Região Nova
-6- Placa que informa os pokémon da rota
-7- Mostra o tipo dos pokémon em batalha
-8- Mostra a efetividade de cada golpe
-9- Missões
+Super Dark Worship 
+
+v?.? : D2510AC1 + Tela preta + DexAll não funcionando + bug do mel 
+v1.0 : 52C256C3 + Tela preta + DexAll não funcionando + bug do mel 
+
+Código pra serem inseridos no video game :
+
+InsaneNoob - 500 Rare Candies
+GoAwayWild - Ultra Repel
+EasyCatch - 50 Master Ball
+Dex4ll - Todos Poke da Dexnav liberados
+BestWin - Pack de Itens
+NoWayNoob - 100 Rare Candies
+DiceMagic - Loaded Dice

@@ -252,11 +252,14 @@ https://www.pokecommunity.com/threads/pokemon-atlas-emerald-beta-1-0rq-update-ap
 -Axon = 
 Capa OK
 
-Letra B = 09
+---Letra B = 09
+
 -Baby Blue = 
 Capa OK
 -Battle Factory = OK 09
 Competitivo
+1.1 = 19F1562B ( Joguei essa aqui )
+1.2 = 37B7127
 -Battle Labyrinth =
 Capa OK
 -Battle Ultimate = OK 01
@@ -578,8 +581,9 @@ https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august
 -Mystical Beta 3.08 Espanhol = 
 -Mythic Legends = 
 
----Letra N = 03
+---Letra N = 04
 
+-Naruto = OK 04
 -Navilevaihcam 1.5 = OK 03
 Você começa com 100 pokebola e 1 Absol Lv 5, não curti 
 -Nameless Fire Red = OK 01
@@ -670,7 +674,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/yw2v8z/fire_red_pokemon_rough_
 -Ruby Einglocke = 
 -Rusty = OK 08
 
-Letra S = 15
+Letra S = 16
 -Sacred v1.0 = OK 14 
 Não funcionou
 -Saiph Full v2020 = OK 04
@@ -693,7 +697,6 @@ https://www.pokecommunity.com/threads/shin-pokemon-red-blue-green-jp-builds-bugf
 -Sors 2 = 
 -Sour Crystal = 
 https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_improvement_hack_by/
-
 -Sovereign of the Skies = 
 -Stone Dragon = OK 05
 -Stone Dragon 2 = 
@@ -701,6 +704,8 @@ https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_i
 -Stone Dragon 4 = 
 -Sun Sky and Moon Galaxy = 
 -Super Auto Pokémon Emerald = OK 06
+-Super Dark Worship = OK 16
+Tela preta depois de capturar pokemon
 -Super Light Platinum BR = OK 09
 -Sweet 2th = OK 07
 -Sword Shield 9.1 PT BR = OK 08
@@ -735,7 +740,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/18xz0ey/pokemon_unknown_10_rel
 -Unova Emerald = 
 https://www.reddit.com/r/PokemonROMhacks/comments/12mx274/pok%C3%A9mon_unova_emerald_got_released/
 
-Letra V = 03
+Letra V = 04
 -Vega 
 https://pokemon-vega.fandom.com/wiki/Pok%C3%A9mon_Vega_Wiki
 -Vega 2016 4DF9A7B7 = OK 03
@@ -746,7 +751,11 @@ https://pokemon-vega.fandom.com/wiki/Pok%C3%A9mon_Vega_Wiki
 -Vega Fairy Edition 1.4 7584E17F = 
 -Vega Fairy Edition 1.4 Minus = 20C05084
 -Verde Musgo = OK 01
--Victory Fire = 
+-Victory Fire v2.63 = OK 04
+Inicial : Axew e Salandit
+Sem exp ExpShare
+-Victory Fire v2.72 =
+Mapa poderia ser mais reto
 -Vica Las Vega F590716E = 
 -Volcano = OK 02
 

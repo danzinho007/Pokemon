@@ -151,18 +151,7 @@ DeltaEmerald v?.?.? 2015 9EDEA99C
 DeltaEmerald v1.1.4 2020 2BF1544
 DeltaEmerald v1.1.5 2020 18ECBC08
 
----Dark Worship :
 
-Dark Worship 3.0 Final = 91EDD38C
-Dark Worship 3.1 Final = DC0F577B
-Dark Worship 3.2 = 
-Dark Worship 3.3 = 
-Dark Worship 3.3.1 = 
-Dark Worship 3.4 = 
-Dark Worship 3.5 = 
-Dark Worship 3.6 = 
-Dark Worship 3.7 = 
-Dark Worship 3.8       = 2183FDBD
 
 -Emerald ++ 
 Antiga = 4CF627D0

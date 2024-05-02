@@ -1,0 +1,182 @@
+--- Battle Factory ---
+
+Sobre o jogo :
+Professor apresenta 6, você escolhe 3 
+Batalhas 3v3
+Não tem como trocar os 6 da escolha falando denovo, se começou tem que escolher 3
+A ordem do time é a ordem dos pokémon que você escolheu, não tem como alterar
+Vencendo 7 você é promovido a próxima classe, volta pra sala e precisa escolher 3 de 6 de novo
+Perdeu ? Reseta tudo
+Resetando o jogo os pokémon muda ( não sei se funciona quando se troca de classe )
+Os pokémon tem status e movimentos únicos
+Venci 10 : Usando 2 Ofensivos e 1 normal ( Clefairy / Jigglypuff + Charmander / Vulpix + Pikachu )
+
+Já vi :
+Oddish
+Paras
+Vulpix
+
+-Charmander (Fogo) 114 72 63 85 70
+Scratch 
+Rage
+Ember
+Leer
+
+-Clefairy (Normal) 1456 65 68 55 80
+Metronome
+DoubleSlap
+Minimize
+DefenseCurl
+
+-Diglett ()
+
+-Doduo (NormalVoa) 110 105 65 95 55
+Top Ataque com 105
+DrillPeck
+FuryAttack
+Growl
+DoubleTeam
+
+-Drowzee ()
+-Ekans (Veneno) 110 80 64 75 60
+Acid
+Bite
+Screech
+Wrap
+
+-Gastly ()
+
+-Geodude (PedraTerra) 115 100 120 40 50
+Top Ataque e Defesa
+RockThrow
+Earthquake
+Harden
+SelfDestruct
+
+-Growlithe (Fogo) 130 90 65 80 70
+Flametrower
+Bite
+Leer
+Agility
+
+-Koffing ()
+-Magikarp ()
+
+-Jigglypuff (Normal) 190 HP
+Pund
+Sing
+Disable
+DefenseCurl
+
+-Meowth (Normal)
+Bite
+Pay Day
+Screech
+Growl
+
+-Nidoran ()
+
+-Oddish (PlantaVenoso) 120 70 75 50 95
+Absorb
+Acid
+PoisonPowder
+SleepPowder
+
+-Paras (InsetoPlant) 110 90 75 45 75
+Scratch
+LeechLife
+Spore
+Growth
+
+-Pidgey (NormalVoador) 115 65 60 76 55
+WingAttack
+QuickAttack
+MirrorMove
+Sand-Attack
+
+-Pikachu
+ThunderShock
+QuickAttack
+ThunderWave
+TailWhip
+
+-Rattata (Normal) 105 76 55 92 45
+Top Velocidade com 92
+
+-Squirtle (Água) 119 65 85 63 70
+WaterGun
+Bite
+Withdraw
+TailWhip
+
+-Venonat (InsetoVenoso) 135 75 70 65 60
+SleepPowder
+PoisonPowder
+LeechLife
+Supersonic
+
+-Vulpix (Fogo) 113 61 60 85 85 
+FireSpin
+ConfuseRay
+QuickAttack
+TailWhip
+
+---Treinadores : 
+Beauty
+Biker 
+Blackbelt
+BugCatcher
+Channeler
+Cue Ball
+Fisherman
+Juggler = Classe 2
+Jr. Trainer
+Pokemaniac
+Scientist
+Super Nerd
+Tamer = Classe 2
+
+Pokémon fracos :
+Magikarp com Tackle
+
+Pokemon roubados :
+Clefairy com DoubleSlap e Metronome
+Jigglypuff com Sing 
+Paras com Spore e LeechLife
+Vulpix com ConfuseRay e FireSpin
+
+---Movimentos :
+DoubleKick
+DoubleSlap = Roubado
+FireSpin = Roubado
+LeechLife
+NightShade 
+QuickAttack
+Rage
+RockThrow
+ThunderShock
+WaterGun
+Wrap = Roubado
+
+---Movimentos Status :
+ConfuseRay = Confuso
+Hypnosis = Dorme
+PoisonPowder = Veneno
+SleepPowder = Dorme
+Spore = Dorme
+ThunderWave = Paralisia
+
+---Times :
+
+Bulbasaur Diglett Pidgey
+Charmander Ditto Venonat
+Charmander Clefairy Meowth
+Charmander Pidgey Venonat
+Drowzee Geodude Krabby
+Growlithe Horsea Koffing
+Ditto Rattata Squirtle
+Oddish Paras Vulpix
+Jigglypuff Magikarp Oddish
+
+---Escolhas :
+Diglett Ditto Pikachu Rattata Spearow Squirtle

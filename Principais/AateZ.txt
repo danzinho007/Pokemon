@@ -127,6 +127,12 @@ Toma 2x em : Fogo, Inseto, Pedra, Fantasma, Sombrio e Metal
 - Nidora M 
 @IceBeam
 
+- Nymble ( Inseto ) :
+Toma   4x em :
+Toma   2x em : Fogo, Voador e Pedra
+Toma 1/2x em : Planta, Lutador e Terra
+Resiste   em :
+
 ---Letra S
 
 - Sandshrew ( Terra ) :
