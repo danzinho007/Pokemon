@@ -1,20 +1,71 @@
 --- Battle Factory ---
 
 Sobre o jogo :
-Professor apresenta 6, você escolhe 3 
-Batalhas 3v3
-Não tem como trocar os 6 da escolha falando denovo, se começou tem que escolher 3
-A ordem do time é a ordem dos pokémon que você escolheu, não tem como alterar
+Professor apresenta 6, você escolhe 3 pra Batalhas 3v3
+Não tem como trocar os 6 da escolha falando denovo ou clicando pra cancelar, se começou tem que escolher 3
+Após escolher, você poderá alterar a ordem dos pokémon
+Não tem como alterar a ordem após as batalhas, somente depois de vencer 7
+Venceu 1 ? Pode alterar ou não só 1 pokémon
 Vencendo 7 você é promovido a próxima classe, volta pra sala e precisa escolher 3 de 6 de novo
 Perdeu ? Reseta tudo
-Resetando o jogo os pokémon muda ( não sei se funciona quando se troca de classe )
-Os pokémon tem status e movimentos únicos
+Resetando o jogo os pokémon muda, pode fazer isso depois que vencer 7 também
+Os pokémon tem status e movimentos únicos pra sua classe, ao evoluir os golpes mudam
+Infelizmente os treinadores não trocam de pokémon, se trocam é porque estão confusos
 Venci 10 : Usando 2 Ofensivos e 1 normal ( Clefairy / Jigglypuff + Charmander / Vulpix + Pikachu )
+Venci 07 : Jigglypuff Vulpix Squirtle
+
+Fraquezas e Resistências :
+
+-Electric: 1
+Imune: --- / Fraco: Ground / Resistente: Electric, Flying
+-Ghost: 1
+Imune: Normal, Fight / Fraco: Ghost / Resistente: Poison
+-Normal: 1
+Imune: Ghost / Fraco: Fight / Resistente: ---
+-Psychic: 1
+Imune: Ghost / Fraco: Bug / Resistente: Fight, Psychic
+
+-Water: 2 
+Imune: --- / Fraco: Electric, Grass / Resistente: Fire, Water, Ice
+-Dragon: 2
+Imune: --- / Fraco: Ice, Dragon / Resistente: Fire, Water, Electric, Grass
+-Fight: 2
+Imune: --- / Fraco: Flying, Psychic / Resistente: Bug, Rock
+
+-Fire: 3
+Imune: --- / Fraco: Water, Ground, Rock / Resistente: Fire, Grass, Bug
+-Ice: 3
+Imune: --- / Fraco: Fire, Fight, Rock / Resistente: Ice
+-Ground: 3
+Imune: Electric / Fraco: Water, Grass, Ice / Resistente: Poison, Rock
+-Poison: 3
+Imune: --- / Fraco: Ground, Psychic, Bug / Resistente: Grass, Fight, Poison
+-Flying: 3
+Imune: Ground / Fraco: Electric, Ice, Rock / Resistente: Grass, Fight, Bug
+
+-Bug: 4
+Imune: --- / Fraco: Fire, Poison, Flying, Rock / Resistente: Grass, Fight, Ground
+-Rock: 4
+Imune: --- / Fraco: Water, Grass, Fight, Ground / Resistente: Normal, Fire, Posion, Flying
+
+-Grass: 5
+Imune: --- / Fraco: Fire, Ice, Poison, Flying, Bug / Resistente: Water, Electric, Grass, Ground
 
 Já vi :
-Oddish
-Paras
-Vulpix
+Caterpie - Clefairy - Cubone - Diglett - Ditto - Dratini - 
+Drowzee - Exeggcute - Jigglypuff - Magnemite - Mankey - 
+Nidoran F - Oddish - Paras - Pikachu - Rattata - Sandshrew - 
+Spearow - Squirtle - Tentacool - Venonat - Vulpix - 
+
+-NomeDoPokemon (Tipo) HP Ataque Defesa Velocidade Especial
+Movimento 1
+Movimento 2
+Movimento 3
+Movimento 4
+
+-Caterpie (Inseto) 120 50 55 65 40
+Tackle
+StringShot
 
 -Charmander (Fogo) 114 72 63 85 70
 Scratch 
@@ -28,7 +79,19 @@ DoubleSlap
 Minimize
 DefenseCurl
 
--Diglett ()
+-Cubone (Terra) 125 70 115 55 60
+BoneClub
+Headbutt
+Leer
+Rage
+
+-Diglett (Terra) 85 75 45 115 65
+Scratch
+Sand-Attack
+Growl
+
+-Ditto (Normal) 123 68 68 68 68
+Transform
 
 -Doduo (NormalVoa) 110 105 65 95 55
 Top Ataque com 105
@@ -37,7 +100,18 @@ FuryAttack
 Growl
 DoubleTeam
 
--Drowzee ()
+-Dratini (Dragão) 116 84 65 70 70
+Slam
+ThunderWave
+Leer
+Wrap
+
+-Drowzee (Psíquico) 135 65 65 62 110
+Confusion
+Headbutt
+Disable
+Hypnosis
+
 -Ekans (Veneno) 110 80 64 75 60
 Acid
 Bite
@@ -60,13 +134,27 @@ Leer
 Agility
 
 -Koffing ()
--Magikarp ()
 
--Jigglypuff (Normal) 190 HP
+-Magikarp (Água) 95 30 75 100 40
+Tackle
+
+-Jigglypuff (Normal) 190 HP 65 40 40 45
 Pund
 Sing
 Disable
 DefenseCurl
+
+-Magnemite (Elétrico) 100 55 90 65 115
+ThunderShock
+Swift
+Supersonic
+Screech
+
+-Mankey (Lutador) 115 100 55 90 55
+KarateChop
+SeismicToss
+Leer
+LowKick
 
 -Meowth (Normal)
 Bite
@@ -74,7 +162,11 @@ Pay Day
 Screech
 Growl
 
--Nidoran ()
+-Nidoran F (Veneno) 130 67 72 61 60
+DoubleKick
+PoisonSting
+TailWhip
+FurySwipes
 
 -Oddish (PlantaVenoso) 120 70 75 50 95
 Absorb
@@ -94,7 +186,7 @@ QuickAttack
 MirrorMove
 Sand-Attack
 
--Pikachu
+-Pikachu (Elétrico) 110 75 50 110 70
 ThunderShock
 QuickAttack
 ThunderWave
@@ -102,12 +194,33 @@ TailWhip
 
 -Rattata (Normal) 105 76 55 92 45
 Top Velocidade com 92
+SuperFang
+QuickAttack
+TailWhip
+
+-Sandshrew (Terra) 125 95 105 60 50
+Slash
+PoisonSting
+Sand-Attack
+FurySwipes
+
+-Spearow (NormalVoador) 115 80 50 90 51
+Peck
+MirrorMove
+Growl
+Leer
 
 -Squirtle (Água) 119 65 85 63 70
 WaterGun
 Bite
 Withdraw
 TailWhip
+
+-Tentacool (ÁguaVenenoso) 115 60 55 90 120
+WaterGun
+Acid
+Supersonic
+Screech
 
 -Venonat (InsetoVenoso) 135 75 70 65 60
 SleepPowder
@@ -121,6 +234,8 @@ ConfuseRay
 QuickAttack
 TailWhip
 
+-Weedle 
+
 ---Treinadores : 
 Beauty
 Biker 
@@ -128,10 +243,13 @@ Blackbelt
 BugCatcher
 Channeler
 Cue Ball
+Egineer
 Fisherman
+Hiker
 Juggler = Classe 2
 Jr. Trainer
 Pokemaniac
+Rocker
 Scientist
 Super Nerd
 Tamer = Classe 2
@@ -147,8 +265,8 @@ Vulpix com ConfuseRay e FireSpin
 
 ---Movimentos :
 DoubleKick
-DoubleSlap = Roubado
-FireSpin = Roubado
+DoubleSlap = Roubado ( Clefairy )
+FireSpin = Roubado ( Vulpix )
 LeechLife
 NightShade 
 QuickAttack
@@ -156,19 +274,22 @@ Rage
 RockThrow
 ThunderShock
 WaterGun
-Wrap = Roubado
+Wrap = Roubado ( Dratini )
 
 ---Movimentos Status :
 ConfuseRay = Confuso
 Hypnosis = Dorme
 PoisonPowder = Veneno
+PoisonSting = Veneno ( Weedle )
+Sing = Dorme ( Jigglypuff )
 SleepPowder = Dorme
 Spore = Dorme
-ThunderWave = Paralisia
+ThunderWave = Paralisia ( Dratini / Pikachu )
 
 ---Times :
 
 Bulbasaur Diglett Pidgey
+Caterpie Jigglypuff Paras 
 Charmander Ditto Venonat
 Charmander Clefairy Meowth
 Charmander Pidgey Venonat

@@ -260,6 +260,7 @@ Capa OK
 Competitivo
 1.1 = 19F1562B ( Joguei essa aqui )
 1.2 = 37B7127
+https://www.pokecommunity.com/threads/pok%C3%A9mon-red-battle-factory.317980/
 -Battle Labyrinth =
 Capa OK
 -Battle Ultimate = OK 01
@@ -314,7 +315,7 @@ Capa OK
 -Bushido = 
 Capa OK
 
-Letra C = 05
+Letra C = 07
 -CAOS 2 English v1.0 = ???05
 -Carmine Red 1.0 = 
 https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_red_10_has_been_released/
@@ -323,6 +324,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_r
 -Chaos Emerald v2.4c = OK 01
 -Celias Smart Romhack = 
 -Classic = 
+-Classic 151 = OK 07
 -Cloud White = 
 -Cloud White 2 v237 = OK 05
 -Clover = 
@@ -334,9 +336,15 @@ https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_r
 -Crush = 
 -Crystal Advance = 
 -Crystal Advance Redux 08/04 = 
+-Crystal Advance Redux v2.8 = OK 07
+Pesquisar pra ver se tem Atualização
+-Crystal Advance Redux v2.9 = 
+https://www.pokecommunity.com/threads/pok%C3%A9mon-crystal-advance-redux.527988/
 -Crystal Clear 2.5.6 = OK 03
 -Crystal Kaizo = 
 -Crystal Kanto = 
+-Crystal Maeson = OK 06
+https://www.romhacking.net/hacks/5706/
 -Crystal Prodigy = 
 -Crown = 
 -Cyan =
@@ -407,7 +415,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/14mdkub/pokemon_equilibrium_in
 -Evo Yellow = 
 -Exceeded = 
 
-Letra F = 09
+Letra F = 10
 -Factory Adventure = 
 -Fallen = 
 -Fat Kid Beta 1.2.4 = OK 01
@@ -419,6 +427,8 @@ Letra F = 09
 -Fire Pheonix BR = OK 09
 Mundo aberto
 Sprites bugados
+-Fire Red 1 in 100 = OK 10
+Chance de aparecer shiny aumentada
 -Fire Red + Plus = 
 -Fire Red 2 = 
 -Fire Red Advanced Challenge = 
@@ -445,7 +455,7 @@ Ger 1 até 08
 
 -Future Green = 
 
-Letra G = 05
+Letra G = 06
 -Gaia = 
 Verificar CRC32 = 
 -Gaia v2.5-230418-024339 = OK 01
@@ -461,6 +471,8 @@ https://www.reddit.com/r/PokemonROMhacks/comments/1bg5twj/pokemon_gauntlet_gold/
 -God of Arena = OK
 -Gold 97 Reforged (v5.0)-230421-094144 = OK 03
 -Gold and Silver 97 Reforged = 
+-Granja de Oak v2.0 = OK 06
+Pesquisar ! Sprites bugados
 -GS Chronicles = 
 
 Letra H = 05
@@ -529,7 +541,7 @@ Verificar CRC32 = DAFFECEC
 -Lunares BR = 
 -Lunatic Crystal = 
 
-Letra M = 03
+Letra M = 04
 -Magma = 
 -Magnetic = 
 -Manly Pink = OK 01
@@ -574,7 +586,8 @@ https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august
 -Moemon Ruby = 
 -Moon Emerald = 
 -Moon Y = 
--Mugiwara = 
+-Mugiwara = OK 04
+Pesquisa travando muito
 -Mutatipo = 
 -My ass = 
 -Mystery Magikarp / Emerald Mystery Magikarp = 
@@ -630,6 +643,7 @@ Pesquisar
 -Pisces = 
 -Pit of 100 Trials = 
 -Platinum Pro Full = OK 02
+-Pocket Gaiden v1.3 = OK
 -Polished Crystal = 
 -Prism = ?
 https://rainbowdevs.com/title/prism/

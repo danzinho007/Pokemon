@@ -1,0 +1,30 @@
+传说绿宝石1.5.4.8.5
+
+Perguntas : 
+    1 : Modo de jogo : Ordinário ou Aleatório
+    2 : Sem exp      : Desligado ou Ligado
+    3 : Nuzlocke     : Desligado ou Ligado
+    4 : Rocket Team  : Desligado ou Ligado
+    5 : PokemonMatinh: Desligado ou Ligado
+
+Save 0 : Normal + SemExp + Pokemon
+Save 1 : Random + ComExp + SemPokemon
+Save 2 : Random + ComExp + Pokemon
+Save 3 : ??     + ComExp + SemPokemon
+
+Torchic 
+-Golpe 1 : 80/100/10 Especial Fogo > Pode ser 3 movimentos
+Blazing Torque 80/100/10 
+Fire Pledge    80/100/10
+Fiery Dance    80/100/10
+-Golpe 2 : 35/085/15 Especial Fogo ( 2 - 5 )
+Fire Spin
+-Golpe 3 : 40/100/30 Físico   Normal
+Quick Attack
+-Golpe 4 : 40/100/25 Especial Fogo
+Ember 
+
+Especial Fogo :
+Blazing Torque 80/100/10 
+Fire Pledge    80/100/10
+Fiery Dance    80/100/10

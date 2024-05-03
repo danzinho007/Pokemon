@@ -3,6 +3,54 @@ Pokémon de A até Z :
 Sites 
 https://pokemondb.net/pokedex/all
 
+Pokémon Velocidade :
+
+-Minior      120
+-Archeops    110
+-Charizard   100
+-MrMimeGalar 100
+
+-Diglett     095
+-Klinklang   090
+-Moltres     090
+-Heracross   085
+-Seadra      085
+
+-Milotic     081
+-Mamoswine   080
+-Venusaur    080
+-Delibir     075
+-Tyrantrum   071
+
+-Mankey      070
+-Vulpix      065
+-Primarina   060
+-Weezing     060
+-Golurk      055
+
+-Aggron    050
+-Lurantis  045
+-Probopass 040
+-Steelix   030
+-Gigalith  025
+
+Jogo :
+
+Gengar     350
+Ampharos   ???
+Heatran    ???
+Charizard  328
+Salamence  289
+Buttefree  262
+Blaziken   259
+Primarina  210
+Venusaur   197
+Vaporeon   167
+Drampa     137
+Ferrothorn 120
+
+Dragapult = SS / SV
+
 Geração- Nome ( Tipo )
 
 Base :
