@@ -1,11 +1,56 @@
-Movimentos :
 
 https://pokemondb.net/move/all
 https://www.poke-blast-news.net/2013/07/tipo-rock-pedra.html
 https://www.poke-blast-news.net/2013/07/tipo-ground-terra.html
 
 
-GigaDrain (Especial)   075 Planta
+https://pokemondb.net/ability
+https://pokemondb.net/item/all
+
+
+Habilidade :
+
+Defeatist = 
+
+Klutz = 
+
+Levitate = 
+
+Minus / Plus = 
+
+Skill Swap = 
+
+Slow Start = 
+
+Stall = Ataca por último
+Sableye com Stall + Payback = OK
+
+Truant = 
+
+---Itens--- :
+
+---Letra C
+
+ChoiceScarf
+Raises Speed, but only one move can be used.
+
+---Letra E
+
+Eviolite
+A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve.
+
+---Letra F
+Focus Sash = Um item para ser segurado por um Pokémon. Se tiver HP total, o titular sofrerá um ataque potencial de KO, deixando 1 HP.
+
+
+---Movimentos
+
+Prioridade :
+4 : Endure / Protect / Snatch
+1 : SucketPunch
+
+GigaDrain   (Especial) 075 Planta
+Dark Pulse  (Especial) 085 Sombrio = Flinch
 Flamethrower(Especial) 090 Fogo
 IceBeam   (Especial)   090 Gelo
 SludgeBomb(Especial)   090 Veneno
@@ -13,13 +58,18 @@ Surf      (Especial)   090 Água
 Blizzard  (Especial)   110 Gelo
 FireBlast (Especial)   110 Fogo
 
-Bite       (Físico) 060 Sombrio
+Bite       (Físico) 060 Sombrio = Flinch
+JaggedFangs(Físico) 070 Pedra   = Atq+
 Slash      (Físico) 070 Normal
+SuckerPunch(Físico) 070 Sombrio
 IcePunch   (Físico) 075 Gelo
 ThunderPunch(Físico)075 Elétrico
 Drill Peck (Físico) 080 Voador
+Body Slam  (Físico) 085 Sombrio = Paralyze
 Fly        (Físico) 090 Voador
+Play Rough (Físico) 090 Fada
 Take Down  (Físico) 090 Normal
+Frustation (Físico) 095 Sombrio
 Cross Chop (Físico) 100 Lutador
 Earthquake (Físico) 100 Terra
 Jump Kick  (Físico) 100 Lutador
@@ -30,8 +80,6 @@ Depende da Amizade
 Return (Físico) Poder aumenta com maior Amizade
 Depende do HP 
 Fail (Físico) Quanto menor o HP do usuário, maior será o poder
-
-Prioridades :
 
 Geração- Nome- Tipo- Categoria- Poder- Precisão- PP- Descrição
 

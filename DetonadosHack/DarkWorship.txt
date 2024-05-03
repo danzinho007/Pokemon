@@ -13,8 +13,20 @@ Dark Worship 3.8       = 2183FDBD
 
 ---Super Dark Worship 
 
-v?.? : D2510AC1 = Tela preta + DexAll não funcionando + bug do mel 
-v1.0 : 52C256C3 = Tela preta + DexAll não funcionando + bug do mel 
+Beta : D2510AC1 = Tela preta + Dex4ll não funcionando + bug do mel 
+v1.0 : 52C256C3 = Tela preta + Dex4ll não funcionando + bug do mel 
+v1.2 : D97D19F4 = Corrigido + Nav4ll código pra liberar a DexNav
+
+Código pra serem inseridos no video game :
+
+InsaneNoob - 500 Rare Candies
+GoAwayWild - Ultra Repel
+EasyCatch - 50 Master Ball
+Dex4ll - Erro
+Nav4ll - Todos Poke da Dexnav liberados certo 
+BestWin - Pack de Itens
+NoWayNoob - 100 Rare Candies
+DiceMagic - Loaded Dice
 
 Motivos :
 1- PT-BR
@@ -261,12 +273,4 @@ Super Dark Worship
 v?.? : D2510AC1 + Tela preta + DexAll não funcionando + bug do mel 
 v1.0 : 52C256C3 + Tela preta + DexAll não funcionando + bug do mel 
 
-Código pra serem inseridos no video game :
 
-InsaneNoob - 500 Rare Candies
-GoAwayWild - Ultra Repel
-EasyCatch - 50 Master Ball
-Dex4ll - Todos Poke da Dexnav liberados
-BestWin - Pack de Itens
-NoWayNoob - 100 Rare Candies
-DiceMagic - Loaded Dice

@@ -1,5 +1,8 @@
 Versão 2.0 Beta 1
 
+v2.0        = D55AE7B0
+v2.0 beta 1 = D55AE7B0
+
 Esp = Confusion        50/100
 Esp = PowderSnow (Ice) 80/100
 Esp = WaterPulse       80/100
@@ -11,3 +14,14 @@ Fís = Pound 40/100
 Fís = Lick  60/100
 Fís = BraveBird  120/100
 Fís = DoubleEdge 120/100
+
+-Chewtle (Água) @FocusSash
+Velocidade 37
+-Poochyena (Sombrio) @Eviolite
+Velocidade 44
+-Seel (Água) @Eviolite
+Velocidade 24
+-Tandemaus (Normal) @FocusSash
+Velocidade 48
+-Yungoos (Normal) @ChoiceScarf
+Velocidade 34
