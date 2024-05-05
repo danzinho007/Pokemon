@@ -275,6 +275,8 @@ Capa OK
 -Black Dark Beta = OK 4
 -Black Dark Version = 
 Capa OK
+-Black Genesis 3 = 
+
 -Blast Burn v4.4 de 2020 = OK 04
 -Battle Frontier = 
 Capa OK
@@ -335,7 +337,14 @@ https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_r
 -Coral Island 2022 Demo v1.2 = OK 02
 -Crush = 
 -Crystal Advance = 
--Crystal Advance Redux 08/04 = 
+-Crystal Advance Redux : 
+02/01/2024 = 2B4C83F7
+08/04/2024 =
+09/04/2024 = A4A59FEF
+10/04/2024 = B4A58689
+24/04/2024 = CBABDB49
+27/04/2024 = E33E5C
+28/04/2024 ou v2.8 = B1465F08
 -Crystal Advance Redux v2.8 = OK 07
 Pesquisar pra ver se tem Atualização
 -Crystal Advance Redux v2.9 = 
@@ -588,6 +597,7 @@ https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august
 -Moon Y = 
 -Mugiwara = OK 04
 Pesquisa travando muito
+https://www.pokecommunity.com/threads/pokemon-mugiwara.494971/
 -Mutatipo = 
 -My ass = 
 -Mystery Magikarp / Emerald Mystery Magikarp = 

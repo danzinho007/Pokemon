@@ -18,8 +18,6 @@ Fraquezas e Resistências :
 
 -Electric: 1
 Imune: --- / Fraco: Ground / Resistente: Electric, Flying
--Ghost: 1
-Imune: Normal, Fight / Fraco: Ghost / Resistente: Poison
 -Normal: 1
 Imune: Ghost / Fraco: Fight / Resistente: ---
 -Psychic: 1
@@ -48,14 +46,103 @@ Imune: --- / Fraco: Fire, Poison, Flying, Rock / Resistente: Grass, Fight, Groun
 -Rock: 4
 Imune: --- / Fraco: Water, Grass, Fight, Ground / Resistente: Normal, Fire, Posion, Flying
 
--Grass: 5
+Ordem alfabética :
+
+-Água (Water) : 2 
+Imune: --- / Fraco: Electric, Grass / Resistente: Fire, Water, Ice
+
+-Fantasma (Ghost) : 1
+Imune: Normal, Fight / Fraco: Ghost / Resistente: Poison
+
+-Inseto (Bug) : 4
+Imune: --- / Fraco: Fire, Poison, Flying, Rock / Resistente: Grass, Fight, Ground
+
+- Planta (Grass) : 5
 Imune: --- / Fraco: Fire, Ice, Poison, Flying, Bug / Resistente: Water, Electric, Grass, Ground
 
+-Psíquico (Psychic) : 1
+Imune: Ghost / Fraco: Bug / Resistente: Fight, Psychic
+
+-Terra (Ground) : 3
+Imune: Electric / Fraco: Water, Grass, Ice / Resistente: Poison, Rock
+
+-Veneno (Poison) : 3
+Imune: --- / Fraco: Ground, Psychic, Bug / Resistente: Grass, Fight, Poison
+
+---Treinadores : 
+Beauty (1/2) Biker Blackbelt (1/3) BirdKeeper (2/3/4) BugCatcher
+Burglar(3) - Channeler (1) CoolTrainer (2/4) Cue Ball (1/3) 
+Egineer (2/3) Fisherman Gentleman (1) Hiker (2) Juggler (2/3)  
+Jr. Trainer(2/3) Pokemaniac (1/3/4) Psychic (1) 
+Rocker (1) Sailor (2) Scientist (1/3) Super Nerd (1/4) 
+Swimmer (1) Tamer (2/3) Youngster (3)
+---Líderes :
+HeadBrock (3)
+
 Já vi :
-Caterpie - Clefairy - Cubone - Diglett - Ditto - Dratini - 
-Drowzee - Exeggcute - Jigglypuff - Magnemite - Mankey - 
-Nidoran F - Oddish - Paras - Pikachu - Rattata - Sandshrew - 
-Spearow - Squirtle - Tentacool - Venonat - Vulpix - 
+Beedrill (F3) - Bellsprout (1/2) - Bulbasaur(1/3) - Caterpie - Charmander (1/3)
+Clefairy (1/3) - Cubone (1/2) - Diglett (1/3) - Ditto - Doduo (2) - 
+Dratini - Drowzee (1/2) - Ekans - Exeggcute (1/3) - Gastly(2/F3) - 
+Gloom (4 ) - Goldeen(1/2) - Graveler (4) - Grimer(2) - 
+Growlithe (F) - 
+Hitmonlee (F4) - Horsea (F) - Ivysaur (F4) - Jigglypuff (1/3) - 
+Jynx (4) - Kabuto (F3) - Kadabra (4) -Koffing (3) - 
+Krabby (2/3) - Lickitung (F3) - Machoke (F4) - Machop (3) - 
+Magnemite (1/3) - Mankey - MrMime (4) - Nidoran F - Nidorina (3) - 
+Nidorino (3) - Oddish - Omanyte (F3) - 
+Paras - Parasect (F4) - Pidgey - Pikachu (1/3) - Poliwag (2) - 
+Ponyta (4) - Rattata - Rhyhorn (3) - Sandshrew - 
+Shellder (2) - Spearow - Squirtle - Staryu (3) - 
+Tentacool (1/2) - Venonat - Voltorb(2) - Vulpix - 
+Weedle - Wigglytuff (4) - Zubat
+
+Pokémon fracos :
+Magikarp com Tackle
+Weedle com PoisonSting e StringShot
+
+Pokemon roubados :
+Beedrill (3) com Toxic
+Bulbasaur (3) com SleepPowder e MegaDrain
+Clefairy (1) com DoubleSlap e Metronome
+Clefairy (3) com BodySlam, Metronome e Sing
+Diglett (3) com Dig
+Doduo (2) DrillPeck e FuryAttack
+Exeggcute (2) com SleepPowder, LeechSeed e PoisonPowder
+Gastly (2/3/4) com ConfuseRay e Hypnosis
+Jigglypuff (1/3) com Sing 
+Kadraba (4) com Psybeam, Confusion e Recover
+Paras (1) com Spore e LeechLife
+Vulpix com (1) ConfuseRay e FireSpin
+Wigglytuff (4) com Sing
+
+Status : 1 até 3
+Kabuto     = 455
+Omanyte    = 455
+Exeggcute  = 435
+Growlithe  = 435
+Clefairy   = 413
+Charmander = 404
+
+Velocidade :
+Kadabra    = 125 Classe 4
+Diglett    = 115 Classe 3
+Jynx       = 115 Classe 4
+MrMime     = 110 Classe 4
+Ponyta     = 110 Classe 4
+Staryu     = 105 Classe 3
+Gastly     = 100 Classe 1 e 3 
+Beedrill   = 95
+Spearow    = 90
+Charmander = 85
+Nidorino   = 85
+Growlithe  = 80
+Ivysaur    = 80
+Nidorina   = 76
+Machoke    = 65 Classe 4
+Magnemite  = 65
+Graveler   = 55 Classe 4
+Koffing    = 55
+Parasect   = 50 Classe 4
 
 -NomeDoPokemon (Tipo) HP Ataque Defesa Velocidade Especial
 Movimento 1
@@ -63,37 +150,64 @@ Movimento 2
 Movimento 3
 Movimento 4
 
+-Beedrill (InsetoVenoso) 140 100 60 95 65
+Twineedle
+Swift
+Toxic
+FocusEnergy
+
+-Bellsprout (PlantaVenoso) 125 95 55 60 90
+RazorLeaf
+StunSpore
+SleepPowder
+PoisonPowder
+
+-Bulbasaur (PlantaVenoso) 120 69 69 65 85 = Classe 1
+RazorLeaf 
+LeechSeed
+Growth
+PoisonPowder
+
+-Bulbasaur (PlantaVenoso) 120 69 69 65 85 = Classe 3
+RazorLeaf
+MegaDrain
+SleepPowder
+PoisonPowder
+
+--- Letra C ---
+
 -Caterpie (Inseto) 120 50 55 65 40
 Tackle
 StringShot
 
--Charmander (Fogo) 114 72 63 85 70
-Scratch 
-Rage
-Ember
+-Charmander (Fogo) 114 72 63 85 70 = Classe 1 e 3
+Scratch > 2 > Flametrower
+Rage    > 2 > Slash
+Ember   > 2 > Growl
 Leer
 
 -Clefairy (Normal) 1456 65 68 55 80
 Metronome
-DoubleSlap
-Minimize
+DoubleSlap > 2 > BodySlam
+Minimize   > 2 > Sing
 DefenseCurl
 
--Cubone (Terra) 125 70 115 55 60
+-Cubone (Terra) 125 70 115 55 60 = Classe 1/2
 BoneClub
 Headbutt
 Leer
 Rage
 
--Diglett (Terra) 85 75 45 115 65
-Scratch
-Sand-Attack
-Growl
+-Diglett (Terra) 85 75 45 115 65 = Classe 1 e 3
+Scratch     > 2 > Slash
+SandAttack  > 2 > SandAttack
+Growl       > 2 > Dig
+            > 2 > DoubleTeam
 
 -Ditto (Normal) 123 68 68 68 68
 Transform
 
--Doduo (NormalVoa) 110 105 65 95 55
+-Doduo (NormalVoa) 110 105 65 95 55 = Classe 2
 Top Ataque com 105
 DrillPeck
 FuryAttack
@@ -106,11 +220,17 @@ ThunderWave
 Leer
 Wrap
 
--Drowzee (Psíquico) 135 65 65 62 110
+-Drowzee (Psíquico) 135 68 65 62 110 = Classe 1/2
 Confusion
 Headbutt
 Disable
 Hypnosis
+
+-Eevee (Normal) 130 75 70 75 85
+Bite
+QuickAttack
+TailWhip
+SandAttack
 
 -Ekans (Veneno) 110 80 64 75 60
 Acid
@@ -118,7 +238,19 @@ Bite
 Screech
 Wrap
 
--Gastly ()
+-Exeggcute (PlantaPsíquico) 135 60 100 60 80 = Classe 1 e 3
+SleepPowder
+LeechSeed
+Barrage     > SolarBeam
+PoisonPowder
+
+--- Letra G ---
+
+-Gastly (FantasmaVenenoso) 105 55 50 100 120 = Classe 2/3
+Hypnosis
+NightShade
+ConfuseRay
+Lick
 
 -Geodude (PedraTerra) 115 100 120 40 50
 Top Ataque e Defesa
@@ -127,25 +259,70 @@ Earthquake
 Harden
 SelfDestruct
 
+-Gloom (PlantaVeneno) 135 85 90 60 105 = Classe 4
+PetalDance
+Acid
+SleepPowder
+PoisonPowder
+
+-Goldeen (Água) 120 87 80 83 70 = Classe 1 / 2
+Waterfall
+HornDrill
+Supersonic
+TailWhip
+
+-Graveler (PedraTerra) 130 115 135 55 65 = Classe 4
+RockThrow
+Earthquake
+Harden
+SelfDestruct
+
+-Grimer (Veneno) 155 100 70 45 60 = Classe 2
+Sludge
+PoisonGas
+Disable
+
 -Growlithe (Fogo) 130 90 65 80 70
 Flametrower
 Bite
 Leer
 Agility
 
--Koffing ()
+-Jynx (GeloPsíquico) 140 70 55 115 115
+IcePunch
+Lick
+LovelyKiss
+DoubleTeam
+
+-Koffing (Veneno) 115 85 115 55 80 = Classe 3
+Sludge
+SmokeScreen
+SelfDestruct
+Toxic
+
+-Krabby (Água) 105 125 110 70 45 = Classe 1 e 3
+Stomp      > 2 > CrabHammer
+Guillotine 
+Bubble     > 2 > BubbleBeam
+Harden
 
 -Magikarp (Água) 95 30 75 100 40
 Tackle
 
+-Machop (Lutador) 145 100 70 55 55 = Classe 3
+KarateChop
+Submission
+Leer
+DoubleTeam
+
 -Jigglypuff (Normal) 190 HP 65 40 40 45
-Pund
-Sing
-Disable
+Pound ----- BodySlam 
+Sing 
+Disable  
 DefenseCurl
 
--Magnemite (Elétrico) 100 55 90 65 115
-ThunderShock
+-Magnemite (Elétrico) 100 55 90 65 115 = Classe 1 e 2
+ThunderShock > Thunderbolt
 Swift
 Supersonic
 Screech
@@ -162,11 +339,29 @@ Pay Day
 Screech
 Growl
 
+-Mr Mime (Psíquico) 115 65 85 110 120
+Confusion
+LightScreen
+Barrier
+Substitue
+
 -Nidoran F (Veneno) 130 67 72 61 60
 DoubleKick
 PoisonSting
 TailWhip
 FurySwipes
+
+-Nidorina (Veneno) 145 82 87 76 76 = Classe 3
+PoisonSting
+Bite
+DoubleKick
+TailWhip
+
+-Nidorino (Veneno) 136 92 77 85 75 = Classe 3
+PoisonSting
+HornAttack
+DoubleKick
+FocusEnergy
 
 -Oddish (PlantaVenoso) 120 70 75 50 95
 Absorb
@@ -192,11 +387,37 @@ QuickAttack
 ThunderWave
 TailWhip
 
+-Pikachu (Elétrico) 110 75 50 110 70 = Classe 3
+Thunderbolt
+Slam
+ThunderWave
+TailWhip
+
+-Poliwag (Água) 115 70 60 110 60
+WaterGun
+BodySlam
+Amnesia
+Hypnosis
+
+-Ponyta (Fogo) 125 105 75 110 85
+TakeDown
+Ember
+Stomp
+DoubleTeam
+
 -Rattata (Normal) 105 76 55 92 45
 Top Velocidade com 92
 SuperFang
 QuickAttack
 TailWhip
+
+-Rhyhorn (TerraPedra) 155 105 115 45 50
+HornDrill
+HornAttack
+Stomp
+Leer
+
+--- Letra S ---
 
 -Sandshrew (Terra) 125 95 105 60 50
 Slash
@@ -204,9 +425,15 @@ PoisonSting
 Sand-Attack
 FurySwipes
 
--Spearow (NormalVoador) 115 80 50 90 51
-Peck
-MirrorMove
+-Shellder (Água) 105 85 120 60 65
+Clamp
+AuroraBeam
+Supersonic
+Withdraw
+
+-Spearow (NormalVoador) 115 80 50 90 51 = Classe 1 e 3
+Peck       > 2 > DrillPeck
+MirrorMove 
 Growl
 Leer
 
@@ -216,11 +443,21 @@ Bite
 Withdraw
 TailWhip
 
--Tentacool (ÁguaVenenoso) 115 60 55 90 120
+-Staryu (Água) 105 65 75 105 90 = Classe 3
+BubbleBeam
+Swift
+Recover
+Minimize
+
+--- Letra T ---
+
+-Tentacool (ÁguaVenenoso) 115 60 55 90 120 = Classe 1/2
 WaterGun
 Acid
 Supersonic
 Screech
+
+---Letra V 
 
 -Venonat (InsetoVenoso) 135 75 70 65 60
 SleepPowder
@@ -228,40 +465,27 @@ PoisonPowder
 LeechLife
 Supersonic
 
+-Voltorb (Elétrico) 115 50 70 120 75
+Swift
+SelfDestruct
+LightScreen
+Screech
+
 -Vulpix (Fogo) 113 61 60 85 85 
 FireSpin
 ConfuseRay
 QuickAttack
 TailWhip
 
--Weedle 
+-Weedle (InsetoVenoso) 115 55 50 70 40
+PoisonSting
+StringShot
 
----Treinadores : 
-Beauty
-Biker 
-Blackbelt
-BugCatcher
-Channeler
-Cue Ball
-Egineer
-Fisherman
-Hiker
-Juggler = Classe 2
-Jr. Trainer
-Pokemaniac
-Rocker
-Scientist
-Super Nerd
-Tamer = Classe 2
-
-Pokémon fracos :
-Magikarp com Tackle
-
-Pokemon roubados :
-Clefairy com DoubleSlap e Metronome
-Jigglypuff com Sing 
-Paras com Spore e LeechLife
-Vulpix com ConfuseRay e FireSpin
+-Zubat (VenenoVoador) 115 65 55 75 60
+WingAttack
+ConfuseRay
+Bite
+LeechLife
 
 ---Movimentos :
 DoubleKick
@@ -301,3 +525,7 @@ Jigglypuff Magikarp Oddish
 
 ---Escolhas :
 Diglett Ditto Pikachu Rattata Spearow Squirtle
+
+
+1- Togetic + Pikachu 
+2- F
