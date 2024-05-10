@@ -204,60 +204,135 @@ Letra # :
 10th Anniversary =
 100 Demo = 
 
-Letra A = 06
+---Letra A = 10
+
 -Accept Defeat V2 = ???01
+
 -Advanced Adventure 2013 Final = ???02
+
 -Advanced Version v3 = OK 06 
 Capa OK
 Começa Lv 17/20 Charmander e Dratini
 Vários inicias nas rotas 
+https://www.pokecommunity.com/threads/pokemon-advanced-version.419727/
+
 -Advanced Version 2 = OK 01
--Adventures in Orange Islands = 
+
+-Adventures Red Chapter = OK 07
 Capa OK
--Adventures Red Chapter =
-Capa OK
+
 -Africanvs = 
+Pesquisar : Não tenho 
+
+-Altair 2019-06-13 = OK 08
+Gráficos de cavern, Fakemon, mapas modificos, região de Emerald, sprites modificadas de pokémon original, sem ExpShare
+Pesquisar mais a respeito !!!
 
 -Altered Platinum = 
 Capa OK
+Nintendo DS
+
+-Alternate Nusantara Beta 0.1.6 = OK 09
+Idioma não identificado, mapa modificado
+Pesquisar mais a respeito !!!
+Site https://modeus-zone.blogspot.com/
+Projeto parado 
+
 -Amalga Magenta
+Pesquisar : Não tenho
+Pesquisado 
 
 -Ambre Rouge = 
 Capa OK
+Pesquisar : Não tenho
+
+-Amogus = OK 10
+Base Emerald, Iniciais 2° geração, 
+Pesquisar mais a respeito !!!
+Pesquisado 
+https://www.romhacking.net/hacks/5805/
+Verificar CRC32 !!!
+
 -Ancestral X v1.0 = 
 https://www.reddit.com/r/PokemonROMhacks/comments/11w2yhh/pokemon_ancestral_x_v10_official_release_is/
+Nintendo 3Ds 
+
 -Apollo Version = 
 Capa OK
+Pesquisar : Não tenho
+https://www.pokecommunity.com/threads/pokemon-apollo.296281/
+Pesquisado 
+
 -Aqua = 
 Capa OK
+Pesquisar : Não tenho
+Pesquisei : Baixei
+
 -Aqua Version 2.4 = OK 01
--Aquamarine = 
+
+-Aquamarine v3.0 = 
 Capa OK
--Arco iris = 
--Ascent Version = 
-Capa OK
--Ash Gray Version = 
-Capa OK
--Ash Hoen Version = 
-Capa OK
--Ash Johto Version = 
-Capa OK
--Ash Orange League = 
-Capa OK
--Ass = 
-Capa OK
--Atlas Emerald = 
-https://www.pokecommunity.com/threads/pokemon-atlas-emerald-beta-1-0rq-update-apr24.496848/
--Atsign&SmallAnt e Gen 1 2Player = OK 02
--Atsign&SmallAnt = OK 03
--Awesome Version XD Version = OK 04
--Axon = 
+Pesquisei : Baixei
+https://www.pokecommunity.com/threads/pok%C3%A9mon-aquamarine-version-3-0-0-updated-as-of-november-21-2023.425937/
+
+---CONTINUAR DAQUI---
+
+-Arco iris English = 
+
+-Ascent a5 Version = 
 Capa OK
 
----Letra B = 09
+-Ash Gray 4.5.3 = 
+Capa OK
+
+-Ash Gray 4.6 = 
+
+-Ash Gray Esp = 
+
+-Ash Gray Kanto =
+
+-Ash Hoen Version = 
+Capa OK
+Pesquisar : Não tenho
+
+-Ash Johto Version = 
+Capa OK
+Pesquisar : Não tenho
+
+-Ash Orange League = 
+Capa OK
+Pesquisar : Não tenho
+
+-Ash Quest = 
+
+-Ash Red = 
+
+-Ass = 
+Capa OK
+Pesquisar : Não tenho
+
+-Atlas Emerald = 
+Pesquisar : Não tenho
+https://www.pokecommunity.com/threads/pokemon-atlas-emerald-beta-1-0rq-update-apr24.496848/
+
+-Atsign&SmallAnt e Gen 1 2Player = OK 02
+
+-Atsign&SmallAnt = OK 03
+
+-Awesome Version XD Version = OK 04
+
+-Axon = 
+Capa OK
+Pesquisar : Não tenho
+
+-Azure Horizons True beta 2
+Verificar CRC2 : Tenho 2
+
+---Letra B = 13
 
 -Baby Blue = 
 Capa OK
+Pesquisar : Não tenho
 -Battle Factory = OK 09
 Competitivo
 1.1 = 19F1562B ( Joguei essa aqui )
@@ -265,82 +340,127 @@ Competitivo
 https://www.pokecommunity.com/threads/pok%C3%A9mon-red-battle-factory.317980/
 -Battle Labyrinth =
 Capa OK
+Pesquisar : Não tenho
 -Battle Ultimate = OK 01
+Competitivo
 -Battle World = ???03
--Berilo
+-Berilo = 
+Pesquisar : Não tenho
 -Better Than Better Emerald = ???04
+
 -Bidoof b0.2.2 = OK 10
 Bugs : 
 1- Tela travando quando mexe nos pokemon
 2- Não ta sendo possível ver o movimento selecionado
 -Bizarre = 
 Capa OK
+Pesquisar : Não tenho
 -Black 2 Version Kaizo = OK 02
 Capa OK
+Pesquisar : Não tenho
 -black-advanced-d2 = OK 03
+
 -Black Dark Beta = OK 4
 -Black Dark Version = 
 Capa OK
+Pesquisar : Não tenho
 -Black Genesis 3 = 
-
+Pesquisar : Não tenho
 -Blast Burn v4.4 de 2020 = OK 04
+
 -Battle Frontier = 
 Capa OK
 -BLAZE-v3.7.7-Complete-PT-BR = OK 05
 -Blaze Black = 
 Capa OK
+Pesquisar : Não tenho
 -Blaze Black 2 = 
 Capa OK
+Pesquisar : Não tenho
 -Blaze Glazed Version = 
 Capa OK
+Pesquisar : Não tenho
 -Blazing Emerald = OK
+Verificar CRC32 : Tenho 2
 -Bloody Platinum = 
 Capa OK
 https://www.reddit.com/r/PokemonROMhacks/comments/13t7sim/pok%C3%A9mon_bloody_platinum_reduxcomplet_version/
+Pesquisar : Não tenho
 -Blue = 
 -Blue Kaizo = 
 Capa OK
+Pesquisar : Não tenho
 -Blue Legend Version = 
 Capa OK
+Pesquisar : Não tenho
 -Blue Sea Version = 
 Capa OK
+Pesquisar : Não tenho
 -Blue White = 
 Capa OK
+Pesquisar : Não tenho
 -Blue No HUD - Atsign&SmallAnt = OK 06
--Blue Stars = 
-Capa OK
--Blue Stars 3 Forces = 
+-Blue Stars 1 = OK 10 ( Capa OK )
+Verificar CRC32 
+Bugado em várias palavras
+-Blue Stars 2 Ultimate = OK 12
+Level do matinho = maior level do seu time
+Travando 
+-Blue Stars 3 Forces v6 = OK 13
 Capa OK
 -Blue Stars 4 = OK 07
+-Blue Stars Battle = OK 11
+Competitivo
 -Blue Version = 
 Capa OK
 -Bronze = 
 Capa OK
+Pesquisar : Não tenho
 -Brown Version =
 Capa OK
+Pesquisar : Não tenho
 -Brutal = 
 Capa OK
+Verificar CRC32 : Tenho 3
 -Bushido = 
 Capa OK
+Pesquisar : Não tenho
 
 Letra C = 07
 -CAOS 2 English v1.0 = ???05
 -Carmine Red 1.0 = 
 https://www.reddit.com/r/PokemonROMhacks/comments/12tggvt/pok%C3%A9mon_carmine_red_10_has_been_released/
+Pesquisar : Não tenho
+
+-Celestial Version vDR1 = 
+
 -Cerice v1.5 = OK 
+
 -Ceylon = OK 06
+
+-Champions Beta 8.0 = 
+
 -Chaos Emerald v2.4c = OK 01
+
 -Celias Smart Romhack = 
+Pesquisar : Não tenho
 -Classic = 
 -Classic 151 = OK 07
+Verificar CRC32 : Tenho 3
 -Cloud White = 
 -Cloud White 2 v237 = OK 05
+-Cloud White 2 v279 = 
 -Clover = 
+Pesquisar : Não tenho
 -Complete Crystal = 
+Pesquisar : Não tenho
 -Completed = 
--Conquest =
--Copper =
+Pesquisar : Não tenho
+-Conquest = 
+-Copper = 
+Pesquisar : Não tenho
 -Coral Island 2022 Demo v1.2 = OK 02
+
 -Crush = 
 -Crystal Advance = 
 -Crystal Advance Redux : 
@@ -356,28 +476,45 @@ Pesquisar pra ver se tem Atualização
 -Crystal Advance Redux v2.9 = 
 https://www.pokecommunity.com/threads/pok%C3%A9mon-crystal-advance-redux.527988/
 -Crystal Clear 2.5.6 = OK 03
+
+-Crystal Dust Beta 2 = 
+
 -Crystal Kaizo = 
+Pesquisar : Não tenho
 -Crystal Kanto = 
+Pesquisar : Não tenho
 -Crystal legacy v1.2.2 = 
 -Crystal Maeson = OK 06
 https://www.romhacking.net/hacks/5706/
 -Crystal Prodigy = 
 -Crown = 
+Pesquisar : Não tenho
 -Cyan =
+Pesquisar : Não tenho
 
-Letra D = 06
+---Letra D = 07
+
 -Daia_beta = ???07
 -Dark Blue Beta v1.9 = ???08
 -Dark Cry The Legend Of Giratina = OK 01
 -Dark Crystal Beta 1.0 = OK 02
 -Dark Energy =
+-Dark Pearl = OK 07
+Base Ruby, mapa, matinho e sprite do personagem modificado, inicias na rota 101 Lv 5, sem exp Share
+Pesquisar sobre !!!
+
 -Dark Rising = 
 -Dark Rising 2 = 
 -Dark Rising 3 = 
 -Dark Rising Order =
+-Dark Rising Origins WC = 
+Verificar CRC32 : Tenho 2
 -Dark Violet Final 2018 V1 = OK 03
 -Dark Worship 3.0 = 
 -Dark Worship 3.8 = OK 04
+-Darkfire Beta 2.0.5 = 
+Verificar CRC32 : Tenho 2 
+
 -Delta Emerald v1.1.4 = OK 06
 
 -Diamond = 
@@ -391,16 +528,24 @@ https://www.reddit.com/r/PokemonROMhacks/comments/132a3m5/pokemon_doubles_firere
 -Dreams = 
 -DumbDumb Island = 
 
-Letra E = 13
+---Letra E = 14
+
 -Eclat Purpre = OK 01
 -Eclipse = OK 02
 -Elite Black = OK 03
 -Elite Redux v2.0 = OK 11
 https://www.pokecommunity.com/threads/pok%C3%A9mon-elite-redux-v1-6-1-complete-%E2%80%94-unique-multi-ability-difficulty-hack.499227/
 -Emerald 1 in 100 = OK 08
+Probabilidade de Shiny maior 1/100
 -Emerald 386 = 
 -Emerald 802 = 
--Emerald Boss Rush = 
+
+-Emerald Boss Rush Demo v2 = OK 14
+Categoria Competitivo
+Jogo diferente, iniciais alterados, level cap, possível comprar : TMs, Rare Candy, itens boost, berrys, pokémon.
+Vencendo você ganha dinheiro, perdendo não ganha nem perde, se perder, terá que enfrentar todos treinadores denovo até chegar no líder
+https://www.pokecommunity.com/threads/pokemon-emerald-boss-rush-demo.445614/
+
 -Emerald Crest = 
 https://www.reddit.com/r/PokemonROMhacks/comments/122pqma/pokemon_emerald_crest_v108_got_released_new_open/
 -Emerald Docal = 
@@ -410,9 +555,11 @@ https://www.reddit.com/r/PokemonROMhacks/comments/122pqma/pokemon_emerald_crest_
 -Emerald Enhanced v10.109 = OK 09
 -Emerald Final v7.41 = 
 -Emerald Full = 
+-Emerald Horizons = 
 -Emerald Kaizo = 
 -Emerald Rogue = 
 -Emerald Entire Map Randomizer = OK 04
+-Emeral Genesis = 
 -Emerald Green Version = ???09
 -Emerald Horizons = 
 -Emerald Johto Edition = 
@@ -420,6 +567,8 @@ https://www.reddit.com/r/PokemonROMhacks/comments/122pqma/pokemon_emerald_crest_
 -Emerald Negative EXP = OK 05
 -Emerald Open Version 1.0.0 = OK 06
 -Emerald Wonder Trade v1.1 Fixed = OK 13
+Verificar CRC32 : Tenho 2
+
 -Emeralds Eight v1.5 = OK 07
 -Empyrean = 
 -Energized = 
@@ -432,7 +581,8 @@ https://www.reddit.com/r/PokemonROMhacks/comments/14mdkub/pokemon_equilibrium_in
 -Evo Yellow = 
 -Exceeded = 
 
-Letra F = 10
+---Letra F = 10
+
 -Factory Adventure = 
 -Fallen = 
 -Fat Kid Beta 1.2.4 = OK 01
@@ -464,6 +614,9 @@ Ger 1 até 08
 -Fire Red Fat = 
 -Fire Red Legacy = 
 -Fire Red Minus = !!!
+-Fire Red Slide v1 = OK 11
+Versão deslizante, só para no matinho ou algumas flores 
+
 -Fire Red WTC = OK 08
 -Flora Sky Complement Dex = 
 -Flora Sky Rebirth = OK 04
@@ -495,6 +648,10 @@ Pesquisar ! Sprites bugados
 Letra H = 05
 -Hard Fire v2.2 = OK 05
 -Heart and Seed = 
+-Heliodor = 
+-Heroes = 
+-Hisui Red = 
+-Hoen Adventures = 
 -Hyper Emerald 2.96 = 
 -Hyper Emerald 5.3 = 
 -Hyper Emerald 5.5 = OK 03
@@ -534,7 +691,7 @@ Verificar CRC32 =62578A4A
 -Kanto Reformation = 
 -Kanto Ultimate v2.0 = OK 03
 
-Letra L = 03
+Letra L = 04
 -Leaf Green v1.1 =
 Verificar CRC32 = DAFFECEC
 -Leaf Green Balanced = 
@@ -544,7 +701,10 @@ Verificar CRC32 = DAFFECEC
 -Legend of Fenju Beta v1.0 = 
 -Legendary = 
 -Legends v1.11 6CE34935 = 
--Legends Arceus 7.2
+-Legends Arceus 7.2 = OK 04
+Mapa modificado, mesma região de FireRed, com ExpShare
+Pesquisar : Funções 
+
 -Legends Arceus Beta 3.0
 -Legends Red Version v1.0 8969C44D = 
 -Legends Red Version v1.5 46E42213 = 
@@ -558,18 +718,24 @@ Verificar CRC32 = DAFFECEC
 -Lunares BR = 
 -Lunatic Crystal = 
 
-Letra M = 04
+Letra M = 06
 -Magma = 
 -Magnetic = 
 -Manly Pink = OK 01
 -Mansion Mystery = 
 -Marble Beta 2.1 = OK 02
--Mario Mon = 
+-Mario Mon v1.3 = OK 06
+Só muda mapas e sprites dos pokémon pra Mario, mesma história do FireRed 
+Pesquisar : Sobre !!!
+
 -Master Quest Johto = 
 -Mega Delta = 
 -Mega Emerald X and Y = OK 03
 -Mega Evolution = 
--Mega Fire Red = 
+-Mega Fire Red = OK 07
+Mesma história / mapa / região do Fire Red 
+Pesquisar : Características !!!
+
 -Mega Moemon Fire Red v 1.3c
 -Mega Moemon Fire Red v 1.4c = OK 04
 https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august2023/
@@ -580,7 +746,13 @@ https://forums.pokemmo.com/index.php?/topic/71562-mega-moemon-firered-14c-august
 -Mega Rebellito = 
 -Mega Ruby = 
 -Mega Sol X 3.0 = 
--Mega Version Beta 5 = 
+-Mega Version Beta 5 =  OK 05
+Não abrir a Pokedex, pq vai bugar 
+História e Mapa modificado, com ExpShare, treinar até Lv 12 pra 1° partida contra o Rival Ash ( Lv 10 ), região FireRed 
+Aipom difícil de ser capturado = 3 pokebola e nada
+Whismur = 3 
+Pesquisar : Em busca de atualizações 
+
 -Memories = 
 -Meta Fire Red X / Meta Fire Red Y = 
 -Metal = 
@@ -612,25 +784,30 @@ https://www.pokecommunity.com/threads/pokemon-mugiwara.494971/
 -Mystical Beta 3.08 Espanhol = 
 -Mythic Legends = 
 
----Letra N = 04
+---Letra N = 07
 
--Naruto = OK 04
--Navilevaihcam 1.5 = OK 03
-Você começa com 100 pokebola e 1 Absol Lv 5, não curti 
+-Naki = OK 05
+Não tem Exp Share, Mapas confusos, Exp Alta, Sem história, Eventos do FireRed podem bugar e Sprites bugados
+
 -Nameless Fire Red = OK 01
-Golpes físicos e especiais
-Gen 4-6 Golpes, habilidades,itens
-721 Pokémon
-120 tms
-Mega Evoluções
-TMs infinitas
+Golpes físicos e especiais, Gen 4-6 Golpes, habilidades,itens, 721 Pokémon, 120 tms, Mega Evoluções e TMs infinitas
+
 -Naranja = OK 02
 Novos mapas,e Pokémon coloridos.
 Nova história
 Apenas Pokémon até a 3ª Gen
 
--Naruto Shippuden = 
--Naturaleza = 
+-Naruto = OK 04
+-Navilevaihcam 1.5 = OK 03
+Você começa com 100 pokebola e 1 Absol Lv 5, não curti 
+
+-Naruto Shippuden = OK 06
+Mapa, história e sprites modificados
+Pesquisar : Características
+
+-Naturaleza = OK 07
+Pesquisar : atualizações
+
 -Neon = 
 -New Era 1.0 = 
 -New Fire Red v4.1 = 
@@ -641,9 +818,16 @@ Letra O = 03
 -Odyssey = OK 03
 https://www.pokecommunity.com/threads/pok%C3%A9mon-odyssey-beta-2-6.488536/
 -Old Ruby v 1.3 = OK 01
+-Omega Red v3.0 Halloween = OK 04
+Mesma história e região do FireRed, mapas e rotas modificados
+
 -Omega Red v4.1 Player Brendan = OK 02
 -Omega Red v4.2 = 
 -Orange = 
+-Orange Islands Adventure = 
+Capa OK
+Pesquisar : Não tenho 
+Nome errado : Adventure Orange Island 
 
 Letra P = 08
 -Parallel Emerald = 
@@ -706,7 +890,7 @@ https://www.reddit.com/r/PokemonROMhacks/comments/yw2v8z/fire_red_pokemon_rough_
 -Ruby Einglocke = 
 -Rusty = OK 08
 
-Letra S = 16
+Letra S = 17
 -Sacred v1.0 = OK 14 
 Não funcionou
 -Saiph Full v2020 = OK 04
@@ -734,7 +918,10 @@ Travando muito entre as batalhas e no jogo
 https://www.reddit.com/r/PokemonROMhacks/comments/18tnu9f/pokemon_sour_crystal_improvement_hack_by/
 -Sovereign of the Skies = 
 -Stone Dragon = OK 05
--Stone Dragon 2 = 
+-Stone Dragon 2 = OK 17
+Exp Share 
+Ovo + Scraggy
+Verificar CRC32
 -Stone Dragon 3 = 
 -Stone Dragon 4 = 
 -Sun Sky and Moon Galaxy = 
@@ -767,9 +954,14 @@ https://www.reddit.com/r/PokemonROMhacks/comments/122txky/pokemon_tre2_beta_rele
 -TrianguloOrigenB3 = OK 03
 -TrianguloOrigenB5 = 
 
-Letra U = 04
+Letra U = 05
 -
 -Ultimate Fusion 2023 = OK 04
+-Ultra Red Ultra Red Ultra Gree #3 = OK 05
+Gráficos bonitos
+Inicial lv 1
+Sem Exp Share
+Alguns textos bugados
 -Unbound = OK 01
 -Unbound Battle Frontier = OK 03 
 -Universe = 

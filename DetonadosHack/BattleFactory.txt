@@ -51,6 +51,9 @@ Ordem alfabética :
 -Água (Water) : 2 
 Imune: --- / Fraco: Electric, Grass / Resistente: Fire, Water, Ice
 
+-Dragão (Dragon) : 2
+Imune: --- / Fraco: Ice, Dragon / Resistente: Fire, Water, Electric, 
+
 -Fantasma (Ghost) : 1
 Imune: Normal, Fight / Fraco: Ghost / Resistente: Poison
 
@@ -70,31 +73,46 @@ Imune: Electric / Fraco: Water, Grass, Ice / Resistente: Poison, Rock
 Imune: --- / Fraco: Ground, Psychic, Bug / Resistente: Grass, Fight, Poison
 
 ---Treinadores : 
-Beauty (1/2) Biker Blackbelt (1/3) BirdKeeper (2/3/4) BugCatcher
-Burglar(3) - Channeler (1) CoolTrainer (2/4) Cue Ball (1/3) 
-Egineer (2/3) Fisherman Gentleman (1) Hiker (2) Juggler (2/3)  
-Jr. Trainer(2/3) Pokemaniac (1/3/4) Psychic (1) 
-Rocker (1) Sailor (2) Scientist (1/3) Super Nerd (1/4) 
-Swimmer (1) Tamer (2/3) Youngster (3)
+Beauty (1/2) Biker (1/5) - Blackbelt (1/3/5) 
+BirdKeeper (2/3/4) BugCatcher (1/4)
+Burglar(3) - Channeler (1) 
+CoolTrainer (2/4) Cue Ball (1/3) 
+Egineer (2/3) Fisherman (1/5) - 
+Gambler (5) - Gentleman (1) 
+Hiker (2/4/5) Juggler (2/3/4)  
+Jr. Trainer(2/3) Lass (4/5) Pokemaniac (1/3/4) 
+Psychic (1) Rocker (1) Sailor (2/4) 
+Scientist (1/3/5) Super Nerd (1/4) 
+Swimmer (1/5) Tamer (2/3/5) Youngster (3)
 ---Líderes :
-HeadBrock (3)
+HeadBrock (3) HeadKoga (4)  HeadBlaine (5)
 
 Já vi :
-Beedrill (F3) - Bellsprout (1/2) - Bulbasaur(1/3) - Caterpie - Charmander (1/3)
-Clefairy (1/3) - Cubone (1/2) - Diglett (1/3) - Ditto - Doduo (2) - 
-Dratini - Drowzee (1/2) - Ekans - Exeggcute (1/3) - Gastly(2/F3) - 
-Gloom (4 ) - Goldeen(1/2) - Graveler (4) - Grimer(2) - 
-Growlithe (F) - 
-Hitmonlee (F4) - Horsea (F) - Ivysaur (F4) - Jigglypuff (1/3) - 
-Jynx (4) - Kabuto (F3) - Kadabra (4) -Koffing (3) - 
-Krabby (2/3) - Lickitung (F3) - Machoke (F4) - Machop (3) - 
-Magnemite (1/3) - Mankey - MrMime (4) - Nidoran F - Nidorina (3) - 
-Nidorino (3) - Oddish - Omanyte (F3) - 
-Paras - Parasect (F4) - Pidgey - Pikachu (1/3) - Poliwag (2) - 
-Ponyta (4) - Rattata - Rhyhorn (3) - Sandshrew - 
+Arbok (F5) - Beedrill (F3) - Bellsprout (1/2) - 
+Bulbasaur(1/3) - Butterfree (4) - 
+Caterpie - Charmander (1/3) - 
+Clefable (F5) - Clefairy (1/3) - 
+Cubone (1/2) - Diglett (1/3) - 
+Ditto - Doduo (2) - 
+Dratini - Drowzee (1/2) - 
+Ekans - Exeggcute (1/3) - 
+Gastly(2/F3) - Gloom (4 ) - 
+Goldeen(1/2) - Graveler (4) - 
+Grimer(2) - Growlithe (F) - 
+Haunter (5) - Hitmonchan (5) - Hitmonlee (F4/5) - 
+Horsea (F) - Ivysaur (F4/5) - 
+Jigglypuff (1/3) - Jynx (4) - 
+Kabuto (F3) - Kadabra (4) -
+Koffing (3) - Krabby (2/3/4) - 
+Lickitung (F3) - Machoke (F4) - Machop (3) - 
+Magnemite (1/3) - Mankey - Marowak (4) - MrMime (4) - 
+Nidoran F - Nidorina (3) - Nidorino (3) - Oddish - Omanyte (F3) - 
+Paras - Parasect (F4) - Persian (5) - 
+Pidgey - Pikachu (1/3) - Poliwag (2) - 
+Ponyta (4) - Primeape (5) - Rattata - Rhyhorn (3) - Sandshrew - 
 Shellder (2) - Spearow - Squirtle - Staryu (3) - 
-Tentacool (1/2) - Venonat - Voltorb(2) - Vulpix - 
-Weedle - Wigglytuff (4) - Zubat
+Tentacool (1/2) - Venonat - Vileplume (F5) - Voltorb(2) - Vulpix - 
+Wartortle (5) - Weedle - Weepinbell (5) - Wigglytuff (4) - Zubat
 
 Pokémon fracos :
 Magikarp com Tackle
@@ -103,19 +121,24 @@ Weedle com PoisonSting e StringShot
 Pokemon roubados :
 Beedrill (3) com Toxic
 Bulbasaur (3) com SleepPowder e MegaDrain
+Butterfree (4) com SleepPowder e Psybeam
 Clefairy (1) com DoubleSlap e Metronome
 Clefairy (3) com BodySlam, Metronome e Sing
 Diglett (3) com Dig
 Doduo (2) DrillPeck e FuryAttack
 Exeggcute (2) com SleepPowder, LeechSeed e PoisonPowder
 Gastly (2/3/4) com ConfuseRay e Hypnosis
+Haunter (5) com Hypnosis e NightShade
 Jigglypuff (1/3) com Sing 
 Kadraba (4) com Psybeam, Confusion e Recover
 Paras (1) com Spore e LeechLife
+Venomoth (5) com SleepPowder e Psywave
 Vulpix com (1) ConfuseRay e FireSpin
 Wigglytuff (4) com Sing
 
 Status : 1 até 3
+Weepinbell = 500
+Ivysaur    = 480
 Kabuto     = 455
 Omanyte    = 455
 Exeggcute  = 435
@@ -132,6 +155,7 @@ Ponyta     = 110 Classe 4
 Staryu     = 105 Classe 3
 Gastly     = 100 Classe 1 e 3 
 Beedrill   = 95
+Buttefree  = 90 Classe 4
 Spearow    = 90
 Charmander = 85
 Nidorino   = 85
@@ -174,6 +198,12 @@ MegaDrain
 SleepPowder
 PoisonPowder
 
+-Buttefree (InsetoVoador) 135 65 70 90 100
+Psybeam
+SleepPowder
+PoisonPowder
+Gust
+
 --- Letra C ---
 
 -Caterpie (Inseto) 120 50 55 65 40
@@ -186,7 +216,13 @@ Rage    > 2 > Slash
 Ember   > 2 > Growl
 Leer
 
--Clefairy (Normal) 1456 65 68 55 80
+-Clefable (Normal) 170 90 93 80 105 = Classe 5
+MegaPunch
+Metronome
+Sing
+Substitute
+
+-Clefairy (Normal)  65 68 55 80
 Metronome
 DoubleSlap > 2 > BodySlam
 Minimize   > 2 > Sing
@@ -288,6 +324,32 @@ Bite
 Leer
 Agility
 
+---Letra H---
+
+-Haunter (FantasmaVenenoso) 120 70 65 115 135 = Classe 5
+Hypnosis
+MegaDrain
+NightShade
+Toxic
+
+-Hitmonchan (Lutador) 125 125 99 96 55 = Classe 5
+CometPunch
+Counter
+DoubleTeam
+MegaPunch
+
+-Hitmonlee (Lutador) 125 140 73 107 55 = Classe 5
+DoubleKick
+FocusEnergy
+JumpKick
+Meditate
+
+-Ivysaur (PlantaVeneno) 135 82 83 80 100 = Classe 4 e 5
+RazorLeaf
+SleepPowder
+Growth
+MegaDrain
+
 -Jynx (GeloPsíquico) 140 70 55 115 115
 IcePunch
 Lick
@@ -301,10 +363,10 @@ SelfDestruct
 Toxic
 
 -Krabby (Água) 105 125 110 70 45 = Classe 1 e 3
-Stomp      > 2 > CrabHammer
-Guillotine 
-Bubble     > 2 > BubbleBeam
-Harden
+Stomp      > 2 > CrabHammer > Surf 
+Guillotine                  > CrabHammer
+Bubble     > 2 > BubbleBeam > Stomp
+Harden                      > Guillotine
 
 -Magikarp (Água) 95 30 75 100 40
 Tackle
@@ -332,6 +394,12 @@ KarateChop
 SeismicToss
 Leer
 LowKick
+
+-Marowak (Terra) 135 100 130 65 70 = Classe 4
+Bonemerang
+Headbutt
+Leer
+Counter
 
 -Meowth (Normal)
 Bite
@@ -375,6 +443,12 @@ LeechLife
 Spore
 Growth
 
+-Persian (Normal) 140 90 80 135 85 = Classe 5
+DoubleTeam
+Screech
+Slash
+Swift
+
 -Pidgey (NormalVoador) 115 65 60 76 55
 WingAttack
 QuickAttack
@@ -404,6 +478,12 @@ TakeDown
 Ember
 Stomp
 DoubleTeam
+
+-Primeape (Lutador) 140 125 80 115 80 = Classe 5
+Counter
+Screech
+SeismicToss
+Thrash
 
 -Rattata (Normal) 105 76 55 92 45
 Top Velocidade com 92
@@ -477,9 +557,21 @@ ConfuseRay
 QuickAttack
 TailWhip
 
+-Wartortle (Água) 134 83 100 78 85 = Classe 5
+BodySlam
+SkullBash
+Surf
+Withdraw
+
 -Weedle (InsetoVenoso) 115 55 50 70 40
 PoisonSting
 StringShot
+
+-Weepinbell (PlantaVenoso) 140 110 70 75 105
+Acid
+RazorLeaf
+Slam
+Wrap
 
 -Zubat (VenenoVoador) 115 65 55 75 60
 WingAttack
