@@ -273,3 +273,4 @@ Pewter City = 1° insígnia
 Você guarda todos seus pokémon no banco, fica só com o incial 
 Dai você precisa vencer a Misty usando os pokémon do caminho seguinte 
 Continuando você vai pra Rota 3, Monte Lua e Rota 4
+

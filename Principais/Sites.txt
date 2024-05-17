@@ -3,11 +3,40 @@ https://www.romhacking.net/patch/
 https://www.romhacking.net/hash/
 
 Jogos :
-https://gearoid.me/pokemon/
+
+Advinhe o pokémon através de características :
+https://monkepo.online/
+
+Escrever nome dos pokémon 
 https://pkmnquiz.com/
+
+Quem é esse pokémon ?
+https://gearoid.me/pokemon/ 
+
+Extra :
+
+Pokémon Favorito de Cada Tipo 
+https://cajunavenger.github.io/
 
 Competitivo :
 https://www.poke-blast-news.net/2012/09/prioridade-de-velocidade.html
+
+- Prioridade +7: Pursuit (se o Pokémon alvo estiver sendo trocado, senão, é a prioridade é 0);
+- Prioridade +6: Usando itens, Trocando de Pokémon, as trocas das Rotation Battles;
+- Prioridade +5: Helping Hand;
+- Prioridade +4: Detect, Magic Coat, Snatch, Protect;
+- Prioridade +3: Endure, Fakeout, Follow me, Quick Guard, Rage Powder, Wide Guard;
+- Prioridade +2: Extremespeed, Feint;
+- Prioridade +1: Ally Switch,  Aqua Jet, Bide, Bullet Punch, Ice Shard, Mach Punch, Quick Attack, Shadow Sneak, Sucker Punch, Vacuum Wave;
+- Prioridade 0: Todos os ataques não listados;
+- Prioridade -1: Vital Throw;
+- Prioridade -3: Focus Punch;
+- Prioridade -4: Avalanche, Revenge;
+- Prioridade -5: Counter, Mirror Coat;
+- Prioridade -6: Circle Throw, Dragon Tail, Roar, Whirlwind;
+- Prioridade -7: Magic Room, Trick Room, Wonder Room.
+
+
 https://pokemondb.net/move/all
 https://pokemondb.net/pokedex/all
 https://pokemondb.net/item/all
@@ -193,8 +222,7 @@ Database
 https://bulbapedia.bulbagarden.net/wiki/Main_Page
 Presente Pokemon 
 https://bulbapedia.bulbagarden.net/wiki/Gift_Pok%C3%A9mon
-Pokémon Favorito de Cada Tipo 
-https://cajunavenger.github.io/
+
 Hackrom : Radical Red 
 https://dex.radicalred.net/
 Encontrar Feebas :

@@ -2,6 +2,50 @@
 
 Originais :
 Blue USA :          D6DA8A1A ( OK ) OK
+Greeen JAP :        E4468D14 ( OK )
+Red USA :            9F7FDD53 ( OK )
+Yellow USA :        7D527D62 ( OK )
+
+Gold USA :        6BDE3C3E ( OK )
+Silver USA :      8AD48636 ( OK )
+Crystal USA 1.0 : EE6F5188 ( OK )
+Crystal USA 1.1 : 3358E30A ( OK )
+
+Ruby USA 1.0 :    F0815EE7 ( OK )
+         1.0 hIR: FE507148 ( OK )
+Ruby USA 1.1 :    61641576
+Ruby USA 1.2 :    AEAC73E6 ( OK )
+Sapphire USA :    554DEDC4 ( OK )
+SapphireEurope1.1 BAFEDAE5
+SapphireEurope1.2 9CC4410E
+Emerald Japan :   4881F3F8
+Emerald USA :     1F1C08FB ( OK )
+Fire Red USA 1.0: DD88761C ( OK )       
+Fire Red USA 1.1: 84EE4776 ( OK )        
+Leaf Green USA 1.0 :  D69C96CC ( OK )
+Leaf Green USA, Europe 1.1 : DAFFECEC ( OK )
+
+Diamond USA :       84427823 ( OK )
+Pearl USA :         E2D87EBF ( OK )
+Platinum USA :      9253921D ( OK )
+Platinum USA Rev1   69D628E8 ( OK )
+Heart Gold USA :    C180A0E9 ( OK )
+Soul Silver USA :   D8EA6090 ( OK )
+
+Black USA :       E2BEE619 ( OK )
+Black USA,Europe: 4F6E5580 ( OK ) OK
+Black 2 USA :     25BA3AA6 ( OK )
+Black 2 USA EuropeD4427FD1 ( OK )
+White USA :       EDCD5161 ( OK )
+White 2 :         B72BBA42 ( OK )
+
+
+
+
+CRC32 dos Jogos Pokemon + PT-BR :
+
+Originais :
+Blue USA :          D6DA8A1A ( OK ) OK
 GB-Blue (Azul)  =   4C62ADC7
 Greeen JAP :        E4468D14 ( OK )
 GB-Green (Verde)=   46885EC0
