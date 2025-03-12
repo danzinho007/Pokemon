@@ -1,0 +1,13 @@
+Site 
+https://pokemondb.net/pokedex/national
+
+Pokémon Geração 1 :
+Squirtle   = Água
+Dewgong    = Água + Gelo
+Poliwrath  = Água + Lutador
+Slowpoke   = Água + Psíquico
+Tentacool  = Água + Veneno
+Charmander = Fogo
+Snorlax    = Normal
+Bulbasaur  = Planta + Veneno
+

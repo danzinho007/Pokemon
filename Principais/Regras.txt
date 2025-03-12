@@ -1,0 +1,37 @@
+Regras :
+AG > Ubers > OU > UU > RU > NU > PU > ZU
+
+AG 
+
+
+Uber : 
+Players must abide by the following clauses:
+Species Clause: A player cannot have two Pokemon with the same National Pokédex number on a team.
+Sleep Clause: If a player has already put a Pokemon on his/her opponent's side to sleep and it is still sleeping, another one can't be put to sleep.
+Evasion Clause: A Pokemon may not have either Double Team or Minimize in its moveset.
+OHKO Clause: A Pokemon may not have the moves Fissure, Guillotine, Horn Drill, or Sheer Cold in its moveset.
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+Mega Rayquaza Clause: Rayquaza is not permitted to Mega Evolve.
+
+Players cannot use the following moves:
+Baton Pass
+
+UU :
+Cláusula da batalha sem fim: Qualquer moveset de qualquer Pokémon que é capaz de intencionalmente causar uma batalha sem fim é banido. Assim:
+Um Pokémon não pode ao mesmo tempo: ter o movimento Recycle, segurar um Leppa Berry e ter algum dos movimentos Heal Pulse, Milk Drink, Moonlight, Morning Sun, Recover, Roost, Slack Off, Soft-Boiled ou Wish.
+Um Pokémon não pode carregar um Leppa Berry e ter os movimentos Recycle e Pain Split ao mesmo tempo no seu moveset.
+Um Pokémon não pode segurar um Leppa Berry e ter os movimentos Recycle e Fling ao mesmo tempo em seu moveset.
+Cláusula de Evasão: Os movimentos Double Team and Minimize estão banidos.
+Cláusula Moody: Os jogadores não podem usar a habilidade “Moody”.
+Cláusula OHKO: Jogadores não podem usar os movimentos Fissure, Guillotine, Sheer Cold e Horn Drill.
+Cláusula do Sono: Somente um Pokémon do time oposto pode ser colocado para dormir por vez, se não auto induzido por movimentos como Rest.
+Cláusula das Espécies: Jogadores não podem ter dois ou mais Pokémon com o mesmo número na Pokédex no mesmo time.
+Cláusula Swagger: O uso do movimento “Swagger” está proibido.
+Cláusula Baton Pass: Apenas 1 Pokémon no time pode possuir o movimento Baton Pass. Além disso, o jogador não poderá usar Baton Pass caso o usuário já tenha ganho boosts em speed e qualquer outro stat ao mesmo tempo. Em particular, o usuário não poderá usar as seguintes combinações: quiver dance + baton pass, shell smash + baton pass, geomancy + baton pass e shift gear + baton pass.
+Pokémon Permitidos
+Todos os Pokémon com exceção de Pokémon Uber, OU e BL.
+
+Habilidades banidas
+– Shadow Tag
+– Drought
+– Drizzle

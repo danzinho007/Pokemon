@@ -18,25 +18,6 @@ Extra :
 Pokémon Favorito de Cada Tipo 
 https://cajunavenger.github.io/
 
-Competitivo :
-https://www.poke-blast-news.net/2012/09/prioridade-de-velocidade.html
-
-- Prioridade +7: Pursuit (se o Pokémon alvo estiver sendo trocado, senão, é a prioridade é 0);
-- Prioridade +6: Usando itens, Trocando de Pokémon, as trocas das Rotation Battles;
-- Prioridade +5: Helping Hand;
-- Prioridade +4: Detect, Magic Coat, Snatch, Protect;
-- Prioridade +3: Endure, Fakeout, Follow me, Quick Guard, Rage Powder, Wide Guard;
-- Prioridade +2: Extremespeed, Feint;
-- Prioridade +1: Ally Switch,  Aqua Jet, Bide, Bullet Punch, Ice Shard, Mach Punch, Quick Attack, Shadow Sneak, Sucker Punch, Vacuum Wave;
-- Prioridade 0: Todos os ataques não listados;
-- Prioridade -1: Vital Throw;
-- Prioridade -3: Focus Punch;
-- Prioridade -4: Avalanche, Revenge;
-- Prioridade -5: Counter, Mirror Coat;
-- Prioridade -6: Circle Throw, Dragon Tail, Roar, Whirlwind;
-- Prioridade -7: Magic Room, Trick Room, Wonder Room.
-
-
 https://pokemondb.net/move/all
 https://pokemondb.net/pokedex/all
 https://pokemondb.net/item/all
@@ -49,23 +30,33 @@ https://www.pokecommunity.com/forums/rom-hacks-showcase.184/
 https://docs.google.com/spreadsheets/d/1ZkEjsFK4x1RI1XIXxjb1Ezndm4TYzgQyVtm3t2h09zE/edit#gid=1453109482
 
 Download :
+
+https://diovento.wordpress.com/
+-Focada em 3Ds somente 
+
+https://www.dspoketuber.com/
+-Não tem :
+
 https://pokebat.net/
 -Não tem :
 Emerald ++
+
+https://www.pokecommunity.com/forums/sideshow-showcase.204/
+-
 
 https://www.pokeharbor.com/category/roms/gbc/
 -Não tem Emerald ++
 https://www.pokeharbor.com/?s=fakemon
 
-https://www.dspoketuber.com/
--Não tem :
+https://pokehostel.com/
+-Novidade
+
+https://pokemonemeraldimperium.com/
+-
 
 https://whackahack.com/juegos/?category=1
 -Não tem :
 Emerald ++
-
-https://diovento.wordpress.com/
--Focada em 3Ds somente 
 
 https://pokemundo.com/en/lista-hack-roms-gba-de-pokemon/
 -Não tem :
@@ -625,6 +616,9 @@ https://nani.baidu.com/f?kw=%E4%BC%A0%E8%AF%B4%E7%BB%BF%E5%AE%9D%E7%9F%B3&ie=utf
 
 https://www.pmcenter.cn/forum.php?mod=forumdisplay&fid=37
 -Fórum chinês
+
+https://teamrocketedition.com/
+-Site da romhack 
 
 https://tieba.baidu.com/f?kw=%E5%8F%A3%E8%A2%8B%E6%94%B9%E7%89%88%E8%B5%84%E6%BA%90&ie=utf-8
 -Várias Hackrom

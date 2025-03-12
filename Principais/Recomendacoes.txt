@@ -1,0 +1,94 @@
+Recomendações :
+
+https://www.reddit.com/r/PokemonROMhacks/comments/1chx77r/compilation_of_vanilla_quality_of_life_qol_hacks/
+
+Geração 1 -
+Shin Pokémon Red - Serve como uma "remasterização" feita por fãs do que Red poderia ter sido em um relançamento de console virtual. Extremamente fiel e um dos melhores.
+
+PureRGB - Muito fiel, principalmente apenas QoL com pequenos buffs para destruir principalmente os pokémons, tornando todos os 151 pokémons capturáveis
+
+Red++ – Apresenta algumas mudanças mais modernas, além de tornar muitos pokémons da Geração 2 capturáveis.
+
+Kanto Expansion Pak - Um hack que adiciona alguma qualidade de vida, bem como outros formulários Kanto, formulários Kanto Paradox, designs beta, etc.
+
+Amarelo 151 – Correções de bugs e qualidade de vida bastante simples, mas em Pokémon Amarelo se você preferir Vermelho/Azul e, claro, todos os 151 capturáveis.
+
+Thunder Yellow – Outra opção amarela se você quiser algo diferente.
+
+Geração 2 -
+Sour Crystal – Um hack fiel com muita qualidade de vida e atualizações, projetado para corrigir as falhas e manter a sensação da Geração 2.
+
+Crystal Legacy - Idéia semelhante ao Sour Crystal, projetada com muito pensamento sobre como manter a experiência Crystal, mas corrigindo coisas estranhas como líderes de ginásio e curvas de nível.
+
+Cristal Polido - Um dos hacks de QoL com mais recursos para Crystal, adiciona tipo Fairy, evos regionais como Leafeon/Glaceon/Sylveon, Mismagius, Honchkrow etc.
+
+Perfect Crystal – Muito mais baunilha, apenas torna todos os 251 capturáveis ​​e adiciona um pouco de qualidade de vida básica.
+
+Gold Emu Edition - O mais simples aqui, literalmente torna o 251 capturável e pronto.
+
+Geração 3 -
+Esmeralda Moderna – Um pouco menos baunilha, se você quiser uma experiência mais moderna. Tipo fada, PSS e 423 pokémons capturáveis, entre muitas outras mudanças. Bastante modular, para que você possa brincar com certas alterações, também inclui modos nuzlocke, etc.
+
+Emerald Final – Um pouco mais de baunilha, mantém 386 pokémons capturáveis, com a maioria dos outros recursos sendo uma lista impressionante de melhorias de qualidade de vida.
+
+Pokémon Revelation - Outro hack fiel, este é um hack de descompilação, por isso possui um bom conjunto de recursos.
+
+Emerald Cross – Corrige coisas quebradas como RNG e adiciona muita qualidade de vida. Também seguindo Pokémon!
+
+FireRed/Leafgreen+ – Toda a qualidade de vida usual com algumas mudanças maiores, como um pós-jogo melhor e um sistema de teclas estilo BW. Não há PSS aqui.
+
+Pokémon Classic - Bastante único, é um remake de Yellow usando Emerald, não FireRed. Este tem coisas como PSS, tipo Fairy, habilidades ocultas e Pokémon seguintes.
+
+FireRed Extended - Este hack é em grande parte apenas FireRed básico, exceto pelo fato de incluir as gerações 1 a 8 e todos os truques associados e novos recursos que vêm com ele.
+
+UltraViolet - Um hack do FireRed para simplesmente incluir todas as versões exclusivas e todos os pokémons capturáveis, alguns outros QoL, como a remoção de requisitos de comércio evo, etc.
+
+Geração 4 -
+Platinum QoL - Está bem no nome, esse hack adiciona toneladas de QV e proporciona uma experiência Gen 4 nova e sem dor.
+
+Seguindo Platinum - Não é tanto um hack, mas sim um patch simples que você pode aplicar ao Platinum para adicionar os seguintes tipos de pokémons e fadas (se desejar). Na verdade, não muda mais nada, mas é compatível com outros hacks como o Platinum QoL listados acima, então deve ser divertido.
+
+Refined Platinum – Um dos únicos hacks da Geração 4 que não aumenta a dificuldade. Tudo o que ele faz é tornar todos os 493 capturáveis, alterar os evos comerciais e adicionar outra qualidade de vida, como tornar as Honey Trees menos miseráveis.
+
+Perfect Platinum - Semelhante ao anterior, apenas com um sabor diferente.
+
+SoulSilver Deluxe – Um dos poucos hacks HGSS que não aumenta nenhuma dificuldade. Torna todos os 251 capturáveis, com exceção de algumas lendas e míticos. Projetado com a filosofia de ser um jogo potencialmente “oficial”.
+
+Geração 5 -
+BW Complete Unova Pokedex Edition - Na verdade, apenas altera os evos comerciais para serem obtidos, mas fora isso quase não muda nada.
+
+Vou divulgar todos os hacks de Drayano neste momento, porque como você pode notar, não há muito para as gerações 4 e 5. Seus hacks são incríveis, mas definitivamente aumentam a dificuldade, então vai contra o ponto deste tópico. Se você está morrendo de vontade de ter as “melhores” experiências nesses jogos, ainda vale a pena considerar Renegade Platinum, SacredGold/StormSilver, BlazeBlack/VoltWhite 1 e 2.
+
+Geração 6 -
+Eu realmente não conheço nenhum hack simples de qualidade de vida para a 6ª geração e além, todos eles são alguma forma de melhoria de dificuldade. Talvez porque a maior parte da QV moderna já tenha sido implementada oficialmente pela Geração 6. Ainda recomendarei alguns hacks se você quiser uma versão mais completa, realmente esperando que algumas pessoas conheçam algum hacks sem dificuldade.
+
+Eternal X/Wilting Y - Tem todas as características típicas, como todos os pokémons serem capturáveis, nenhum trade evos etc etc, mas é claro um aumento nas dificuldades vanilla.
+
+Rising Ruby/Sinking Sapphire - Hacks de aprimoramento/dificuldade feitos pelo mencionado Drayano, mesmo tipo de qualidade de vida e melhorias, mas certamente mais difíceis.
+
+Geração 7 -
+A mesma história aqui, nada simples, apenas dificuldade.
+
+Photonic Sun/Prismatic Moon – Feito pelo mesmo cara de Eternal X/Wilting Y, então espere a mesma qualidade de vida e dificuldade, inspirado nos jogos de Drayano.
+
+
+Emerald Seagrass
+-Emerald com visual de GBC
+-Adição Fada
+-
+
+Maxies Island
+-Ilha tropical
+-Quebra-cabeça
+
+Recolection Quest
+-
+
+Regius
+-Ilha
+-Batalhas em Dupla
+-Sistema de Troca
+
+Spin Spin
+-Interações
+
