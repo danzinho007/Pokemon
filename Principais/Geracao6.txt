@@ -1,0 +1,19 @@
+Pokémon Geração 6 :
+
+Aegislash = Aço + Fantasma
+Froakie = Água
+Greninja = Água + Sombrio
+Tyrunt = Dragão + Pedra 
+Dedenne = Elétrico + Fada
+Flabebe = Fada / 0.1m / 
+Floette = Fada / 0.2m / 
+Swirlix = Fada / 0.4m / 
+Slurpuff= Fada / 0.8m / 
+Florges = Fada / 1.1m / 
+Xerneas = Fada /   3m / 215kg
+Delphox = Fogo + Psíquico
+Chesnaught = Planta + Lutador
+
+Fada / Sombrio = !!!
+
+Aço / Água / Dragão / Fantasma / Fogo / Gelo / Inseto / Normal / Lutador / Pedra / Planta / Terra / Veneno / Voador

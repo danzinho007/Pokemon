@@ -1,0 +1,48 @@
+Pokémon Geração 4 :
+Bronzor   = Aço + Psíquico
+Piplup    = Água
+Shinx     = Elétrico
+Kricketot = Inseto
+Chimchar  = Fogo
+Riolu     = Lutador
+Starly    = Normal + Voador
+Cranidos  = Pedra
+Turtwig   = Planta
+Chingling = Psíquico
+Cresselia = Psíquico
+Mime Jr   = Psíquico + Fada
+
+
+Pokémon Geração 7 :
+Popplio = Água
+
+Pokémon Geração 8 :
+Sobble = Água
+
+Pokémon Geração 9 :
+Quaxly =  Água 0.5m
+Quaxell = Água 1.2m 21.5kg
+Finizen = 1.3m 
+Palafin = 1.3m
+Dondozo =  12m
+Wiglett = Água 1.2m
+Wugtrio = Água 1.2m  5.4kg
+
+Tamanho :
+Quaxly   = 0.5m
+Quaxwell = 1.2m
+Finizen  = 1.3m
+Palfin   = 1.3m 
+
+Rush 01
+Cartas do P1 vs P2 
+01-5x1 = Sevens Road Magician
+02-5x1 = Toma the Windweaver
+03-5x3 = Dark Sorcerer
+04-    = Blue-Eyes White Dragon
+05-    =
+06-    =
+07-    =
+08-
+09-
+10-

@@ -1,0 +1,26 @@
+Jogo das Letras :
+
+Seel  = 4
+Snivy = 4
+
+Dodrio  = 6
+Elekid  = 6
+Grimer  = 6
+Kakuna  = 6
+Machop  = 6
+Ponyta  = 6
+Vulpix  = 6
+Weedle  = 6
+
+Ninjask  = 7
+Panpour  = 7
+Pansage  = 7
+Pansear  = 7 
+Pignite  = 7
+Sentret  = 7
+Servine  = 7
+Stufful  = 7
+Sunkern  = 7
+
+Salandit  = 8
+Salazzle  = 8
